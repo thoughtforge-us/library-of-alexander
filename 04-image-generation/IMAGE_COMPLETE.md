@@ -273,3 +273,59 @@
 | [openai/dalle3-eval-samples](https://github.com/openai/dalle3-eval-samples) | ⭐69 | None | Text-to-image samples collected for the evaluation of DALL-E 3 in the  |
 | [huggingface/image_gen_aux](https://github.com/huggingface/image_gen_aux) | ⭐69 | Python | Set of auxiliary tools to use with image and video generation libaries |
 | [apple/ml-autofocusformer-segmentation](https://github.com/apple/ml-autofocusformer-segmentation) | ⭐69 | Python | This is an official implementation for "AutoFocusFormer: Image Segment |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 22:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [OpenGVLab/GenExam](https://github.com/OpenGVLab/GenExam) | ⭐68 | Python | [ICML 2026] GenExam: A Multidisciplinary Text-to-Image Exam |
+| [Kwai-Kolors/LPO](https://github.com/Kwai-Kolors/LPO) | ⭐67 | Python | Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Pr |
+| [alibaba/landmark-tokenized-dit](https://github.com/alibaba/landmark-tokenized-dit) | ⭐64 | Python | Official repository for paper "LaTo: Landmark-tokenized Diffusion Tran |
+| [OpenGVLab/LORIS](https://github.com/OpenGVLab/LORIS) | ⭐62 | Python | [ICML2023] Long-Term Rhythmic Video Soundtracker |
+| [Wan-Video/diffusers](https://github.com/Wan-Video/diffusers) | ⭐57 | None | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and a |
+| [OpenGVLab/PVC](https://github.com/OpenGVLab/PVC) | ⭐54 | Python | [CVPR 2025] PVC: Progressive Visual Token Compression for Unified Imag |
+| [bytedance/Multi-Reward-Editing](https://github.com/bytedance/Multi-Reward-Editing) | ⭐54 | Python | Multi-Reward as Condition for Instruction-Based Image Editing |
+| [apple/ml-vivid](https://github.com/apple/ml-vivid) | ⭐52 | Python | Novel View Synthesis with Pixel-Space Diffusion Models |
+| [bytedance/AnewOmni](https://github.com/bytedance/AnewOmni) | ⭐51 | Python | Codes for our paper "Programming Biomolecular Interactions with All-At |
+| [modelscope/ImagePulse](https://github.com/modelscope/ImagePulse) | ⭐48 | Python | Open Image Curation Tools |
+| [Tencent/ModernFlux](https://github.com/Tencent/ModernFlux) | ⭐44 | C++ |  |
+| [OpenGVLab/Siamese-Image-Modeling](https://github.com/OpenGVLab/Siamese-Image-Modeling) | ⭐41 | Python |  [CVPR 2023]Implementation of Siamese Image Modeling for Self-Supervis |
+| [openai/openai-imagegen-demo](https://github.com/openai/openai-imagegen-demo) | ⭐41 | TypeScript | Next.js Photobooth app built with the OpenAI Image API |
+| [InternLM/EndoCoT](https://github.com/InternLM/EndoCoT) | ⭐40 | Python | Official implementation of "EndoCoT". Scaling endogenous Chain-of-Thou |
+| [OpenGVLab/FluxViT](https://github.com/OpenGVLab/FluxViT) | ⭐39 | Python | Make Your Training Flexible: Towards Deployment-Efficient Video Models |
+| [THUDM/FastLDM](https://github.com/THUDM/FastLDM) | ⭐35 | Python | Inference speed-up for stable-diffusion (ldm) with TensorRT. |
+| [intel/stacks](https://github.com/intel/stacks) | ⭐34 | Shell | The System Stacks for Linux* OS are a collection of production ready d |
+| [Tencent/workrally](https://github.com/Tencent/workrally) | ⭐32 | None | 面向 AI Agent 的 AIGC 漫剧视频创作全流程工具集。 |
+| [huggingface/lora-fast](https://github.com/huggingface/lora-fast) | ⭐32 | Python | Minimal repository to demonstrate fast LoRA inference with Flux family |
+| [NVIDIA/vdisc](https://github.com/NVIDIA/vdisc) | ⭐32 | Go | VDisc is a tool for creating and mounting virtual CD-ROM images backed |
+| [NVIDIA/cbootimage](https://github.com/NVIDIA/cbootimage) | ⭐32 | C | Tegra BCT and bootable flash image generator/compiler |
+| [apple/ml-diffusion-alignment-gflownet](https://github.com/apple/ml-diffusion-alignment-gflownet) | ⭐31 | Python | PyTorch implementation for our paper "Improving GFlowNets for Text-to- |
+| [alibaba/mm-diff](https://github.com/alibaba/mm-diff) | ⭐28 | Python | MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition |
+| [NVIDIA/Imageinary](https://github.com/NVIDIA/Imageinary) | ⭐28 | Python | Imageinary is a reproducible mechanism which is used to generate large |
+| [google-deepmind/image_obfuscation_benchmark](https://github.com/google-deepmind/image_obfuscation_benchmark) | ⭐27 | Python |  |
+| [intel/stablediffusion-pipelines-cpp](https://github.com/intel/stablediffusion-pipelines-cpp) | ⭐27 | C++ |  |
+| [TencentARC/BlobCtrl](https://github.com/TencentARC/BlobCtrl) | ⭐24 | Python | [SIGGRAPH ASIA'25] BlobCtrl: Taming Controllable Blob for Element-leve |
+| [modelscope/Katz](https://github.com/modelscope/Katz) | ⭐23 | Python | [ATC'25] Katz is a high-performance serving system designed specifical |
+| [Stability-AI/stable-dreamfusion-multiview](https://github.com/Stability-AI/stable-dreamfusion-multiview) | ⭐22 | None | A pytorch implementation of text-to-3D dreamfusion, powered by stable  |
+| [NVIDIA/image-captioner](https://github.com/NVIDIA/image-captioner) | ⭐21 | Python | A tool for captioning, visualizing and analyzing image datasets |
+| [intel/iasimage](https://github.com/intel/iasimage) | ⭐21 | Python |  |
+| [alibaba/SRDiffusion](https://github.com/alibaba/SRDiffusion) | ⭐20 | Python | Accelerate Video Diffusion Inference via Sketching-Rendering Cooperati |
+| [alibaba/wan-toy-transform](https://github.com/alibaba/wan-toy-transform) | ⭐19 | Python | This is a LoRA model finetuned on Wan-I2V-14B-480P. It turns things in |
+| [apple/ml-isqoe](https://github.com/apple/ml-isqoe) | ⭐19 | Python | Official implementation of the paper "What Makes for a Good Stereoscop |
+| [Stability-AI/k-diffusion](https://github.com/Stability-AI/k-diffusion) | ⭐18 | Python | Karras et al. (2022) diffusion models for PyTorch |
+| [alibaba/Z-Image](https://github.com/alibaba/Z-Image) | ⭐15 | None |  |
+| [alibaba/power_image_ext](https://github.com/alibaba/power_image_ext) | ⭐15 | HTML |  |
+| [Stability-AI/stability-ai-toolkit](https://github.com/Stability-AI/stability-ai-toolkit) | ⭐15 | Python | External project in GitHub for marketing purposes. This repo will be u |
+| [Stability-AI/lora_accelerated](https://github.com/Stability-AI/lora_accelerated) | ⭐15 | Jupyter Notebook | Using Low-rank adaptation to quickly fine-tune diffusion models + HF A |
+| [InternLM/ETCHR](https://github.com/InternLM/ETCHR) | ⭐14 | Python | A question-conditioned, reasoning-aware image editor designed to serve |
+| [google-deepmind/augmentations_medical_images](https://github.com/google-deepmind/augmentations_medical_images) | ⭐14 | Jupyter Notebook |  |
+| [NVIDIA/Forma](https://github.com/NVIDIA/Forma) | ⭐14 | C++ | DSL for stencils and image processing |
+| [Stability-AI/Stable-Grounded-Segment-Anything](https://github.com/Stability-AI/Stable-Grounded-Segment-Anything) | ⭐12 | Jupyter Notebook | Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable D |
+| [NVIDIA/PixelView](https://github.com/NVIDIA/PixelView) | ⭐12 | Python | A compact and extensible image viewer |
+| [intel/image-quality-and-characterization-utilities](https://github.com/intel/image-quality-and-characterization-utilities) | ⭐12 | C++ |  |
+| [Stability-AI/deep-learning-containers](https://github.com/Stability-AI/deep-learning-containers) | ⭐11 | Python | AWS Deep Learning Containers (DLCs) are a set of Docker images for tra |
+| [intel/smart-image-correction](https://github.com/intel/smart-image-correction) | ⭐11 | Python |  |
+| [intel/Middleware-Metering](https://github.com/intel/Middleware-Metering) | ⭐11 | Go | Metering solution for EdgeX and Mainflux middleware platforms |
+| [google-deepmind/implicit_diffusion](https://github.com/google-deepmind/implicit_diffusion) | ⭐10 | Python |  |
+| [NVIDIA/cbootimage-configs](https://github.com/NVIDIA/cbootimage-configs) | ⭐9 | Makefile | Configuration files for use with cbootimage |

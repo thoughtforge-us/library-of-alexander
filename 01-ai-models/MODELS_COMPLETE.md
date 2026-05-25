@@ -448,3 +448,59 @@ Small Models (<10B):
 | [run-llama/sec-insights](https://github.com/run-llama/sec-insights) | ⭐2598 | TypeScript | A real world full-stack application using LlamaIndex |
 | [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) | ⭐2594 | None | MiniMax-M2, a model built for Max coding & agentic workflows. |
 | [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) | ⭐2490 | Python | HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical  |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 22:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [huggingface/lighteval](https://github.com/huggingface/lighteval) | ⭐2428 | Python | Lighteval is your all-in-one toolkit for evaluating LLMs across multip |
+| [vllm-project/production-stack](https://github.com/vllm-project/production-stack) | ⭐2353 | Python | vLLM’s reference system for K8S-native cluster-wide deployment with co |
+| [langchain-ai/langserve](https://github.com/langchain-ai/langserve) | ⭐2330 | JavaScript | LangServe 🦜️🏓 |
+| [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) | ⭐2328 | None |  |
+| [InternLM/lagent](https://github.com/InternLM/lagent) | ⭐2254 | Python | A lightweight framework for building LLM-based agents |
+| [mistralai/cookbook](https://github.com/mistralai/cookbook) | ⭐2251 | Jupyter Notebook |  |
+| [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) | ⭐2177 | Python | ⚡ Build your chatbot within minutes on your favorite device; offer SOT |
+| [openai/prm800k](https://github.com/openai/prm800k) | ⭐2133 | Python | 800,000 step-level correctness labels on LLM solutions to MATH problem |
+| [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | ⭐2129 | C++ | Community maintained hardware plugin for vLLM on Ascend |
+| [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) | ⭐2120 | Python | MoBA: Mixture of Block Attention for Long-Context LLMs |
+| [huggingface/evaluation-guidebook](https://github.com/huggingface/evaluation-guidebook) | ⭐2111 | Jupyter Notebook | Sharing both practical insights and theoretical knowledge about LLM ev |
+| [openai/image-gpt](https://github.com/openai/image-gpt) | ⭐2089 | Python |  |
+| [QwenLM/Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio) | ⭐2071 | Python | The official repo of Qwen2-Audio chat & pretrained large audio languag |
+| [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) | ⭐2069 | Python | Deploy your agentic worfklows to production |
+| [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) | ⭐2031 | Python | Dataset of GPT-2 outputs for research in detection, biases, and more |
+| [MoonshotAI/Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) | ⭐1991 | None | Moonshot's most powerful model |
+| [InternLM/Tutorial](https://github.com/InternLM/Tutorial) | ⭐1956 | Python | LLM&VLM Tutorial |
+| [deepseek-ai/DeepSeek-MoE](https://github.com/deepseek-ai/DeepSeek-MoE) | ⭐1933 | Python | DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Expe |
+| [QwenLM/Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding) | ⭐1931 | Python |  |
+| [QwenLM/Qwen-Audio](https://github.com/QwenLM/Qwen-Audio) | ⭐1896 | Python | The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large a |
+| [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) | ⭐1890 | Python | Qwen-Image-Layered: Layered Decomposition for Inherent Editablity |
+| [run-llama/notebookllama](https://github.com/run-llama/notebookllama) | ⭐1890 | Python | A fully open-source, LlamaCloud-backed alternative to NotebookLM |
+| [openai/gpt-5-coding-examples](https://github.com/openai/gpt-5-coding-examples) | ⭐1884 | HTML | GPT-5 coding examples |
+| [THUDM/LongWriter](https://github.com/THUDM/LongWriter) | ⭐1859 | Python | [ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long C |
+| [openai/gpt-discord-bot](https://github.com/openai/gpt-discord-bot) | ⭐1834 | Python | Example Discord bot written in Python that uses the completions API to |
+| [run-llama/semtools](https://github.com/run-llama/semtools) | ⭐1796 | Rust | Semantic search and document parsing tools for the command line |
+| [huggingface/transfer-learning-conv-ai](https://github.com/huggingface/transfer-learning-conv-ai) | ⭐1759 | Python | 🦄 State-of-the-Art Conversational AI with Transfer Learning |
+| [huggingface/swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) | ⭐1683 | Swift | Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and Disti |
+| [huggingface/aisheets](https://github.com/huggingface/aisheets) | ⭐1635 | TypeScript | Build, enrich, and transform datasets using AI models with no code |
+| [THUDM/WebGLM](https://github.com/THUDM/WebGLM) | ⭐1604 | Python | WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023) |
+| [bytedance/Sa2VA](https://github.com/bytedance/Sa2VA) | ⭐1603 | Python | Official Repo For Pixel-LLM Codebase: Sa2VA (Arxiv-25), SAMTok (CVPR-2 |
+| [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) | ⭐1591 | Python |  |
+| [meta-llama/synthetic-data-kit](https://github.com/meta-llama/synthetic-data-kit) | ⭐1591 | Python | Tool for generating high quality Synthetic datasets |
+| [deepseek-ai/DeepSeek-Math-V2](https://github.com/deepseek-ai/DeepSeek-Math-V2) | ⭐1588 | Python |  |
+| [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) | ⭐1576 | Python | The official repo of Pai-Megatron-Patch for LLM & VLM large scale trai |
+| [bytedance/pasa](https://github.com/bytedance/pasa) | ⭐1571 | Python | PaSa -- an advanced paper search agent powered by large language model |
+| [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels) | ⭐1556 | Python | A kernel library written in tilelang |
+| [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) | ⭐1548 | C++ | a fast and user-friendly runtime for transformer inference (Bert, Albe |
+| [huggingface/pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) | ⭐1522 | Python | 🐥A PyTorch implementation of OpenAI's finetuned transformer language m |
+| [run-llama/llama-lab](https://github.com/run-llama/llama-lab) | ⭐1514 | Python |  |
+| [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) | ⭐1496 | Python | For your multi-agent needs |
+| [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) | ⭐1488 | Python | AgentTuning: Enabling Generalized Agent Abilities for LLMs |
+| [run-llama/create-llama](https://github.com/run-llama/create-llama) | ⭐1484 | Python | The easiest way to get started with LlamaIndex |
+| [MoonshotAI/Moonlight](https://github.com/MoonshotAI/Moonlight) | ⭐1482 | None | Muon is Scalable for LLM Training |
+| [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) | ⭐1442 | Python | AgentEvolver: Towards Efficient Self-Evolving Agent System |
+| [stepfun-ai/Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) | ⭐1442 | Python | Step-Audio 2 is an end-to-end multi-modal large language model designe |
+| [bytedance/SALMONN](https://github.com/bytedance/SALMONN) | ⭐1439 | None | SALMONN family: A suite of advanced multi-modal LLMs |
+| [openai/SWELancer-Benchmark](https://github.com/openai/SWELancer-Benchmark) | ⭐1439 | None | This repo contains the dataset and code for the paper "SWE-Lancer: Can |
+| [intel/auto-round](https://github.com/intel/auto-round) | ⭐1411 | Python | A SOTA quantization algorithm for high-accuracy low-bit LLM inference, |
+| [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) | ⭐1394 | None |  |

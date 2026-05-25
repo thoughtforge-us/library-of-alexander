@@ -369,3 +369,59 @@ Agent Frameworks:
 | [alibaba/skill-up](https://github.com/alibaba/skill-up) | ⭐18 | Go | A CLI evaluation framework to make your Agent Skill Up. |
 | [alibaba/loongsuite-js-plugins](https://github.com/alibaba/loongsuite-js-plugins) | ⭐18 | TypeScript | OpenTelemetry instrumentation plugins for JavaScript-based AI coding a |
 | [alibaba/obz-cli](https://github.com/alibaba/obz-cli) | ⭐16 | Rust | Multi-backend observability CLI for metrics, logs, and traces — unifie |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 22:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [huggingface/ml-agents-patch](https://github.com/huggingface/ml-agents-patch) | ⭐16 | C# | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-sourc |
+| [huggingface/Huggy](https://github.com/huggingface/Huggy) | ⭐15 | None | Huggy is a Unity ML-Agents environment showcasing a dog mastering stic |
+| [langchain-ai/async-deep-agents](https://github.com/langchain-ai/async-deep-agents) | ⭐15 | Python |  |
+| [langchain-ai/agent-evals](https://github.com/langchain-ai/agent-evals) | ⭐15 | Python | Evals for agents |
+| [langchain-ai/text-to-sql-agent](https://github.com/langchain-ai/text-to-sql-agent) | ⭐12 | Jupyter Notebook |  |
+| [alibaba/BettaFish](https://github.com/alibaba/BettaFish) | ⭐11 | None | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。(Fork for  |
+| [langchain-ai/react-agent-tool-server](https://github.com/langchain-ai/react-agent-tool-server) | ⭐11 | Python |  |
+| [InternLM/EMemBench](https://github.com/InternLM/EMemBench) | ⭐10 | Python | Official Repository of EMemBench: Interactive Benchmarking of Episodic |
+| [huggingface/hugex](https://github.com/huggingface/hugex) | ⭐10 | TypeScript | Coding agent user interface |
+| [langchain-ai/deep-agent-template](https://github.com/langchain-ai/deep-agent-template) | ⭐10 | Python |  |
+| [langchain-ai/cisco-agents-workshop](https://github.com/langchain-ai/cisco-agents-workshop) | ⭐10 | Jupyter Notebook |  |
+| [openai/chef-logdna_agent](https://github.com/openai/chef-logdna_agent) | ⭐9 | Ruby | Installs the LogDNA host agent. Currently only supports apt systems. |
+| [langchain-ai/mcp-agent](https://github.com/langchain-ai/mcp-agent) | ⭐9 | Python |  |
+| [crewAIInc/marketplace-flow-template](https://github.com/crewAIInc/marketplace-flow-template) | ⭐9 | Python |  |
+| [THUDM/BattleAgentBench](https://github.com/THUDM/BattleAgentBench) | ⭐8 | Python |  |
+| [OpenBMB/RaD-Agent](https://github.com/OpenBMB/RaD-Agent) | ⭐8 | Python | The official implementation of the Rational Decision-Making Agent with |
+| [Tencent/tencent-edgeone-agent-plugins](https://github.com/Tencent/tencent-edgeone-agent-plugins) | ⭐8 | None |  |
+| [huggingface/rl-baselines3-zoo-update](https://github.com/huggingface/rl-baselines3-zoo-update) | ⭐7 | Python | A training framework for Stable Baselines3 reinforcement learning agen |
+| [langchain-ai/deepagents-sandbox-demo](https://github.com/langchain-ai/deepagents-sandbox-demo) | ⭐7 | Python |  |
+| [langchain-ai/memory-agent-functional-api](https://github.com/langchain-ai/memory-agent-functional-api) | ⭐7 | None |  |
+| [google-deepmind/tabula_rasa_agents](https://github.com/google-deepmind/tabula_rasa_agents) | ⭐7 | Jupyter Notebook |  |
+| [Tencent/POINTS-Seeker](https://github.com/Tencent/POINTS-Seeker) | ⭐6 | None | POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from |
+| [huggingface/Unity-MLAgents-LoadFromHub-Assets](https://github.com/huggingface/Unity-MLAgents-LoadFromHub-Assets) | ⭐6 | None | Unity scripts and UI for easily loading models from the Hugging Face H |
+| [langchain-ai/lca-reliable-agents](https://github.com/langchain-ai/lca-reliable-agents) | ⭐6 | Python |  |
+| [crewAIInc/crewai-enterprise-trigger-examples](https://github.com/crewAIInc/crewai-enterprise-trigger-examples) | ⭐6 | Python |  |
+| [crewAIInc/template_conversational_example](https://github.com/crewAIInc/template_conversational_example) | ⭐6 | HTML | Demo example of a crew with a conversational interface |
+| [crewAIInc/hackaton-demos](https://github.com/crewAIInc/hackaton-demos) | ⭐6 | Jupyter Notebook |  |
+| [Tencent/APEX-SQL-Project](https://github.com/Tencent/APEX-SQL-Project) | ⭐5 | Python | APEX-SQL is an agentic Text-to-SQL framework that shifts the paradigm  |
+| [alibaba/harbor](https://github.com/alibaba/harbor) | ⭐5 | Python | Harbor is a framework for running agent evaluations and creating and u |
+| [huggingface/is-transformers-agentic-enough](https://github.com/huggingface/is-transformers-agentic-enough) | ⭐5 | Python |  |
+| [huggingface/tau2-bench](https://github.com/huggingface/tau2-bench) | ⭐5 | Python | τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environme |
+| [crewAIInc/template_pull_request_review](https://github.com/crewAIInc/template_pull_request_review) | ⭐5 | Python |  |
+| [huggingface/ML-Agents-Training-Executables](https://github.com/huggingface/ML-Agents-Training-Executables) | ⭐4 | None | This repo contains the Unity ML-Agents environments' executables for W |
+| [crewAIInc/nvidia-nemotron-demo](https://github.com/crewAIInc/nvidia-nemotron-demo) | ⭐4 | Jupyter Notebook |  |
+| [crewAIInc/nvidia-demo](https://github.com/crewAIInc/nvidia-demo) | ⭐4 | Jupyter Notebook |  |
+| [huggingface/hf-agentfinder](https://github.com/huggingface/hf-agentfinder) | ⭐3 | Python | Agent Finder Client/Server  |
+| [huggingface/pr-search-cli](https://github.com/huggingface/pr-search-cli) | ⭐3 | Python | CLI for accessing PR Similarity Search for Agent PR management |
+| [huggingface/Snowball-Target](https://github.com/huggingface/Snowball-Target) | ⭐3 | None | Snowball Target is a Unity ML-Agents environment where you need to tra |
+| [langchain-ai/deep-agent-template-js](https://github.com/langchain-ai/deep-agent-template-js) | ⭐3 | TypeScript |  |
+| [langchain-ai/stateful-deepagents](https://github.com/langchain-ai/stateful-deepagents) | ⭐3 | Jupyter Notebook | stateful deepagents demo |
+| [crewAIInc/course-generator](https://github.com/crewAIInc/course-generator) | ⭐3 | Python | A production-ready example of CrewAI's Flow + Crew hybrid pattern for  |
+| [crewAIInc/crewai_training_step_by_step](https://github.com/crewAIInc/crewai_training_step_by_step) | ⭐3 | Python |  |
+| [crewAIInc/qdrant_rag_chat_app](https://github.com/crewAIInc/qdrant_rag_chat_app) | ⭐3 | Python | Frontend for CrewAI Rag Application |
+| [NVIDIA/air_agent](https://github.com/NVIDIA/air_agent) | ⭐3 | Python | A Python agent for receiving instructions from the NVIDIA Air platform |
+| [intel/fdk-debug-agent](https://github.com/intel/fdk-debug-agent) | ⭐3 | C++ |  |
+| [huggingface/WebShop](https://github.com/huggingface/WebShop) | ⭐2 | Python | [NeurIPS 2022] 🛒WebShop: Towards Scalable Real-World Web Interaction w |
+| [huggingface/rl-baselines3-zoo](https://github.com/huggingface/rl-baselines3-zoo) | ⭐2 | Python | A training framework for Stable Baselines3 reinforcement learning agen |
+| [Stability-AI/strands-tools](https://github.com/Stability-AI/strands-tools) | ⭐2 | Python | A set of tools that gives agents powerful capabilities. |
+| [langchain-ai/fleet-deepagent-export](https://github.com/langchain-ai/fleet-deepagent-export) | ⭐2 | Python | Self-contained code export for LangSmith Fleet deep agents (AB-2171) |
+| [langchain-ai/async-subagents-template](https://github.com/langchain-ai/async-subagents-template) | ⭐2 | Python |  |

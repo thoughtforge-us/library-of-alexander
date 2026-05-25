@@ -661,3 +661,59 @@ The most popular fine-tuning toolkit in China.
 | [Tencent/TubeMQ](https://github.com/Tencent/TubeMQ) | ⭐2005 | None | TubeMQ has been donated to the Apache Software Foundation and renamed  |
 | [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) | ⭐1994 | Python |  |
 | [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) | ⭐1991 | JavaScript |  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverle |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 22:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [Tencent/ObjectDetection-OneStageDet](https://github.com/Tencent/ObjectDetection-OneStageDet) | ⭐1980 | Python | 单阶段通用目标检测器 |
+| [alibaba/SREWorks](https://github.com/alibaba/SREWorks) | ⭐1977 | Java | Cloud Native DataOps & AIOps Platform | 云原生数智运维平台  |
+| [alibaba/compileflow](https://github.com/alibaba/compileflow) | ⭐1975 | Java | 🎨 core business process engine of Alibaba Halo platform, best process  |
+| [Tencent/sluaunreal](https://github.com/Tencent/sluaunreal) | ⭐1961 | C++ | lua dev plugin for unreal engine 4 or 5 |
+| [alibaba/alpha](https://github.com/alibaba/alpha) | ⭐1952 | HTML | Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了 |
+| [alibaba/EasyCV](https://github.com/alibaba/EasyCV) | ⭐1949 | Python | An all-in-one toolkit for computer vision |
+| [Tencent/NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) | ⭐1921 | Python | An Open-source Neural Hierarchical Multi-label Text Classification Too |
+| [alibaba/GCanvas](https://github.com/alibaba/GCanvas) | ⭐1917 | C | A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎)  |
+| [Tencent/plato](https://github.com/Tencent/plato) | ⭐1913 | C++ | 腾讯高性能分布式图计算框架Plato |
+| [bytedance/Protenix](https://github.com/bytedance/Protenix) | ⭐1910 | Python | Toward High-Accuracy Open-Source Biomolecular Structure Prediction. |
+| [Tencent/phxqueue](https://github.com/Tencent/phxqueue) | ⭐1898 | C++ | A high-availability, high-throughput and highly reliable distributed q |
+| [alibaba/xquic](https://github.com/alibaba/xquic) | ⭐1891 | C | XQUIC Library released by Alibaba is a cross-platform implementation o |
+| [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) | ⭐1883 | Python |  |
+| [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) | ⭐1866 | TypeScript | An enterprise-class low-code technology stack with scale-out design /  |
+| [alibaba/Tangram-iOS](https://github.com/alibaba/Tangram-iOS) | ⭐1858 | Objective-C | Tangram is a modular UI solution for building native page dynamically, |
+| [alibaba/testable-mock](https://github.com/alibaba/testable-mock) | ⭐1842 | Java | 换种思路写Mock，让单元测试更简单 |
+| [alibaba/havenask](https://github.com/alibaba/havenask) | ⭐1829 | C++ | Havenask is a large-scale distributed information search system widely |
+| [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) | ⭐1828 | Python | Static Code Analysis - 静态代码分析 |
+| [alibaba/wax](https://github.com/alibaba/wax) | ⭐1825 | Objective-C | Wax is a framework that lets you write native iPhone apps in Lua. |
+| [alibaba/MongoShake](https://github.com/alibaba/MongoShake) | ⭐1812 | Go | MongoShake is a universal data replication platform based on MongoDB's |
+| [Tencent/TSW](https://github.com/Tencent/TSW) | ⭐1803 | TypeScript | Tencent Server Web |
+| [Tencent/Metis](https://github.com/Tencent/Metis) | ⭐1759 | Python | Metis is a learnware platform in the field of AIOps.  |
+| [bytedance/appshark](https://github.com/bytedance/appshark) | ⭐1736 | Kotlin | Appshark is a static taint analysis platform to scan vulnerabilities i |
+| [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) | ⭐1732 | Go | An interesting go struct tag expression syntax for field validation, e |
+| [Tencent/QMUI_Web](https://github.com/Tencent/QMUI_Web) | ⭐1713 | JavaScript | An efficient front-end framework for developers building UI on the web |
+| [Tencent/Biny](https://github.com/Tencent/Biny) | ⭐1682 | PHP | Biny is a tiny, high-performance PHP framework for web applications |
+| [bytedance/bitsail](https://github.com/bytedance/bitsail) | ⭐1680 | Java | BitSail is a distributed high-performance data integration engine whic |
+| [alibaba/kt-connect](https://github.com/alibaba/kt-connect) | ⭐1662 | Go | A toolkit for Integrating with your kubernetes dev environment more ef |
+| [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) | ⭐1659 | Vue | Wechat MiniProgram and Uniapp UI components lib for TDesign |
+| [alibaba/mdrill](https://github.com/alibaba/mdrill) | ⭐1548 | Java | for千亿数据即席分析 |
+| [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope) | ⭐1530 | Python | An easy-to-use federated learning platform |
+| [Tencent/TFace](https://github.com/Tencent/TFace) | ⭐1509 | Python | A trusty face analysis research platform developed by Tencent Youtu La |
+| [Tencent/nohost](https://github.com/Tencent/nohost) | ⭐1478 | JavaScript | 基于 Whistle 实现的多账号多环境远程配置及抓包调试平台 |
+| [alibaba/Virtualview-Android](https://github.com/alibaba/Virtualview-Android) | ⭐1454 | Java | A light way to build UI in custom XML. |
+| [Tencent/TBase](https://github.com/Tencent/TBase) | ⭐1437 | C | TBase is an enterprise-level distributed HTAP database. Through a sing |
+| [alibaba/tb_tddl](https://github.com/alibaba/tb_tddl) | ⭐1430 | None |  |
+| [Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) | ⭐1417 | None | 腾讯针对云的场景研发的服务器操作系统 |
+| [Tencent/tquic](https://github.com/Tencent/tquic) | ⭐1414 | Rust | A high-performance, lightweight, and cross-platform QUIC library |
+| [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) | ⭐1395 | Java | The tool of obfuscated aab resources.(Android app bundle资源混淆工具) |
+| [Tencent/flare](https://github.com/Tencent/flare) | ⭐1393 | C++ |  Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。  |
+| [Tencent/WeDemo](https://github.com/Tencent/WeDemo) | ⭐1387 | Objective-C | WeDemo为微信团队开源项目，用于帮助微信开发者完成微信登录、微信分享等功能的接入和开发。开发者可参考源代码完成开发，也可以直接将代码应用 |
+| [Tencent/feflow](https://github.com/Tencent/feflow) | ⭐1380 | TypeScript | 🚀 A command line tool aims to improve front-end engineer workflow and  |
+| [Tencent/GAutomator](https://github.com/Tencent/GAutomator) | ⭐1373 | Objective-C |  Automation for mobile games |
+| [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing) | ⭐1372 | Python |  |
+| [Tencent/LuaPanda](https://github.com/Tencent/LuaPanda) | ⭐1370 | Lua | lua debug and code tools for VS Code |
+| [alibaba/react-intl-universal](https://github.com/alibaba/react-intl-universal) | ⭐1354 | JavaScript | Internationalize React apps. Not only for Component but also for Vanil |
+| [alibaba/graph-learn](https://github.com/alibaba/graph-learn) | ⭐1341 | C++ | An Industrial Graph Neural Network Framework |
+| [alibaba/web-editor](https://github.com/alibaba/web-editor) | ⭐1327 | JavaScript | please use https://uiauto.dev instead |
+| [baidu/bfe-book](https://github.com/baidu/bfe-book) | ⭐1296 | None | In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open sourc |
+| [alibaba/GaiaX](https://github.com/alibaba/GaiaX) | ⭐1287 | C | 动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案 |
