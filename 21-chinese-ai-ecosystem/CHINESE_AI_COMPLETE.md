@@ -493,3 +493,59 @@ The most popular fine-tuning toolkit in China.
 ---
 
 *Last updated: 2026-05-25. This is a living document.*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | ⭐33718 | Java | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
+| [alibaba/canal](https://github.com/alibaba/canal) | ⭐29694 | Java | 阿里巴巴 MySQL binlog 增量订阅&消费组件  |
+| [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | ⭐29108 | Java | Spring Cloud Alibaba provides a one-stop solution for application deve |
+| [alibaba/druid](https://github.com/alibaba/druid) | ⭐28192 | Java | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html)  |
+| [Tencent/weui](https://github.com/Tencent/weui) | ⭐27372 | HTML | A UI library by WeChat official design team, includes the most useful  |
+| [alibaba/fastjson](https://github.com/alibaba/fastjson) | ⭐25650 | Java | FASTJSON 2.0.x has been released, faster and more secure, recommend yo |
+| [alibaba/flutter-go](https://github.com/alibaba/flutter-go) | ⭐23675 | Dart | flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | ⭐23285 | C++ | ncnn is a high-performance neural network inference framework optimize |
+| [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | ⭐23116 | Java | A powerful flow control component enabling reliability, resilience and |
+| [Tencent/wepy](https://github.com/Tencent/wepy) | ⭐22610 | JavaScript | 小程序组件化开发框架 - 已归档 |
+| [baidu/amis](https://github.com/baidu/amis) | ⭐18860 | TypeScript | 前端低代码框架，通过 JSON 配置就能生成各种页面。 |
+| [alibaba/ice](https://github.com/alibaba/ice) | ⭐18626 | TypeScript | 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用 |
+| [alibaba/weex](https://github.com/alibaba/weex) | ⭐18526 | C++ | A framework for building Mobile cross-platform UI |
+| [Tencent/tinker](https://github.com/Tencent/tinker) | ⭐17638 | Java | Tinker is a hot-fix solution library for Android, it supports dex, lib |
+| [Tencent/mars](https://github.com/Tencent/mars) | ⭐17635 | C++ | Mars is a cross-platform network component  developed by WeChat. |
+| [Tencent/vConsole](https://github.com/Tencent/vConsole) | ⭐17466 | TypeScript | A lightweight, extendable front-end developer tool for mobile web page |
+| [alibaba/DataX](https://github.com/alibaba/DataX) | ⭐17212 | Java | DataX是阿里云DataWorks数据集成的开源版本。 |
+| [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) | ⭐15873 | TypeScript | An enterprise-class low-code technology stack with scale-out design /  |
+| [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) | ⭐15287 | Less | A UI library by WeChat official design team, includes the most useful  |
+| [Tencent/rapidjson](https://github.com/Tencent/rapidjson) | ⭐15063 | C++ | A fast JSON parser/generator for C++ with both SAX/DOM style API |
+| [alibaba/hooks](https://github.com/alibaba/hooks) | ⭐14959 | TypeScript | A high-quality & reliable React Hooks library.   https://alibaba.githu |
+| [Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android) | ⭐14497 | Java | 提高 Android UI 开发效率的 UI 库 |
+| [alibaba/ARouter](https://github.com/alibaba/ARouter) | ⭐14485 | Java | 💪 A framework for assisting in the renovation of Android componentizat |
+| [Tencent/secguide](https://github.com/Tencent/secguide) | ⭐13508 | None | 面向开发人员梳理的代码安全指南 |
+| [Tencent/omi](https://github.com/Tencent/omi) | ⭐13259 | TypeScript | Web Components Framework - Web组件框架 |
+| [alibaba/tengine](https://github.com/alibaba/tengine) | ⭐13258 | C | A distribution of Nginx with some advanced features |
+| [alibaba/COLA](https://github.com/alibaba/COLA) | ⭐12955 | Java | 🥤 COLA: Clean Object-oriented & Layered Architecture |
+| [alibaba/formily](https://github.com/alibaba/formily) | ⭐12544 | TypeScript | 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema)  |
+| [Tencent/matrix](https://github.com/Tencent/matrix) | ⭐12013 | Java | Matrix is a plugin style, non-invasive APM system developed by WeChat. |
+| [Tencent/VasSonic](https://github.com/Tencent/VasSonic) | ⭐11865 | Java | VasSonic is a lightweight and high-performance Hybrid framework develo |
+| [Tencent/wcdb](https://github.com/Tencent/wcdb) | ⭐11488 | C | WCDB is a cross-platform database framework developed by WeChat. |
+| [alibaba/vlayout](https://github.com/alibaba/vlayout) | ⭐10741 | Java | Project vlayout is a powerfull LayoutManager extension for RecyclerVie |
+| [Tencent/xLua](https://github.com/Tencent/xLua) | ⭐10088 | C | xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it s |
+| [bytedance/sonic](https://github.com/bytedance/sonic) | ⭐9451 | Go | A blazingly fast JSON serializing & deserializing library |
+| [bytedance/monolith](https://github.com/bytedance/monolith) | ⭐9304 | Python | A Lightweight Recommendation System |
+| [bytedance/IconPark](https://github.com/bytedance/IconPark) | ⭐9016 | TypeScript | 🍎Transform an SVG icon into multiple themes, and generate React icons， |
+| [Tencent/libco](https://github.com/Tencent/libco) | ⭐8676 | C++ | libco is a coroutine library which is widely used in wechat  back-end  |
+| [Tencent/Hippy](https://github.com/Tencent/Hippy) | ⭐8526 | C++ | Hippy is designed to easily build cross-platform dynamic apps. 👏 |
+| [alibaba/atlas](https://github.com/alibaba/atlas) | ⭐8152 | Java | A powerful Android Dynamic Component Framework. |
+| [alibaba/otter](https://github.com/alibaba/otter) | ⭐8125 | Java | 阿里巴巴分布式数据库同步系统(解决中美异地机房) |
+| [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) | ⭐8059 | TypeScript | FlowGram is an extensible workflow development framework with built-in |
+| [alibaba/rax](https://github.com/alibaba/rax) | ⭐8038 | JavaScript | 🐰 Rax is a progressive framework for building universal application. h |
+| [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) | ⭐8002 | None | 已迁移新仓库，此版本将不再维护 |
+| [alibaba/anyproxy](https://github.com/alibaba/anyproxy) | ⭐7917 | JavaScript | A fully configurable http/https proxy in NodeJS |
+| [alibaba/x-render](https://github.com/alibaba/x-render) | ⭐7843 | TypeScript | 🚴‍♀️ Very easy to use process form table chart solution. |
+| [Tencent/Shadow](https://github.com/Tencent/Shadow) | ⭐7756 | Java | 零反射全动态Android插件框架 |
+| [alibaba/fish-redux](https://github.com/alibaba/fish-redux) | ⭐7281 | Dart | An assembled flutter application framework. |
+| [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) | ⭐7256 | C++ | PaddlePaddle High Performance Deep Learning Inference Engine for Mobil |
+| [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) | ⭐7200 | Objective-C | QMUI iOS——致力于提高项目 UI 开发效率的解决方案 |
+| [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) | ⭐7187 | Dart | FlutterBoost is a Flutter plugin which enables hybrid integration of F |

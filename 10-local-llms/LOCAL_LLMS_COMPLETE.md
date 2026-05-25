@@ -126,3 +126,27 @@
 ---
 
 *Last updated: 2026-05-25*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) | ⭐9199 | Python | Fully local web research and report writing assistant |
+| [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) | ⭐8295 | Java | 📌 a missing Java std lib(simple & 0-dependency) for framework/middlewa |
+| [huggingface/hf-mount](https://github.com/huggingface/hf-mount) | ⭐733 | Rust | Mount Hugging Face Buckets and repos as local filesystems. No download |
+| [huggingface/local-gemma](https://github.com/huggingface/local-gemma) | ⭐385 | Python | Gemma 2 optimized for your local machine. |
+| [intel/numatop](https://github.com/intel/numatop) | ⭐210 | C | NumaTOP is an observation tool for runtime memory locality characteriz |
+| [InternLM/JanusCoder](https://github.com/InternLM/JanusCoder) | ⭐80 | Jupyter Notebook | [ICLR 2026] JanusCoder: Towards a Foundational Visual-Programmatic Int |
+| [NVIDIA/nv-sflow](https://github.com/NVIDIA/nv-sflow) | ⭐36 | Python | A Python CLI workflow orchestrator with pluggable backends (e.g. local |
+| [alibaba/tgin](https://github.com/alibaba/tgin) | ⭐30 | Python |  |
+| [huggingface/hf-endpoints-emulator](https://github.com/huggingface/hf-endpoints-emulator) | ⭐27 | Python | Local emulator for Hugging Face Inference Endpoints customer handlers |
+| [NVIDIA/cpu-code-locality-tool](https://github.com/NVIDIA/cpu-code-locality-tool) | ⭐19 | Python | Scripts to identify an application that will benefit from code localit |
+| [intel/wmi-native-module](https://github.com/intel/wmi-native-module) | ⭐13 | C++ | The wmi-native-module is a native module for Node.js applications to q |
+| [bytedance/douyincloud_python3_django_demo](https://github.com/bytedance/douyincloud_python3_django_demo) | ⭐5 | Python |  |
+| [OpenBMB/MiniCPM-Desk-Pet](https://github.com/OpenBMB/MiniCPM-Desk-Pet) | ⭐4 | JavaScript | a local-first desktop pet powered by MiniCPM5-0.9B |
+| [huggingface/rocm-nix](https://github.com/huggingface/rocm-nix) | ⭐4 | Nix | ROCm overlay for TGI and kernel-builder |
+| [google-deepmind/local_linearity_regularizer](https://github.com/google-deepmind/local_linearity_regularizer) | ⭐4 | Python |  |
+| [NVIDIA/phosphor-time-manager](https://github.com/NVIDIA/phosphor-time-manager) | ⭐3 | C++ | Local time policy and emulated host RTC manager |
+| [huggingface/cuda-toolkit](https://github.com/huggingface/cuda-toolkit) | ⭐0 | TypeScript | GitHub Action to install CUDA |
+| [Stability-AI/iam-credentials-api-proxy](https://github.com/Stability-AI/iam-credentials-api-proxy) | ⭐0 | Python | Localhost proxy for IAM Credentials API project |

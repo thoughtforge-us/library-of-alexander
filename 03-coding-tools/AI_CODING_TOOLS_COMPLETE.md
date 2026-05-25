@@ -160,3 +160,33 @@
 ---
 
 *Last updated: 2026-05-25*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [alibaba/p3c](https://github.com/alibaba/p3c) | ⭐30837 | Kotlin | Alibaba Java Coding Guidelines pmd implements and IDE plugin |
+| [openai/skills](https://github.com/openai/skills) | ⭐20235 | Python | Skills Catalog for Codex |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | ⭐19580 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm) | ⭐7353 | Python | This repository contains the official implementation of "FastVLM: Effi |
+| [alibaba/f2e-spec](https://github.com/alibaba/f2e-spec) | ⭐1063 | TypeScript | Alibaba Front-end Coding Guidelines and Relevant Tools |
+| [alibaba/Alibaba-Java-Coding-Guidelines](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) | ⭐1053 | None | Gitbook for AJCG |
+| [openai/codex-action](https://github.com/openai/codex-action) | ⭐1019 | TypeScript |  |
+| [openai/euphony](https://github.com/openai/euphony) | ⭐376 | TypeScript | Visualize harmony chat data and codex sessions in your browser |
+| [THUDM/GCC](https://github.com/THUDM/GCC) | ⭐333 | Python | GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training @  |
+| [THUDM/GraphMAE2](https://github.com/THUDM/GraphMAE2) | ⭐188 | Python | GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner in |
+| [NVIDIA/Ising-Decoding](https://github.com/NVIDIA/Ising-Decoding) | ⭐104 | Jupyter Notebook | A training framework for AI Quantum Error Correction Decoders |
+| [apple/swift-nio-oblivious-http](https://github.com/apple/swift-nio-oblivious-http) | ⭐85 | Swift | Package providing Oblivious HTTP.  Also allows Oblivious encryption of |
+| [google-deepmind/randomized_positional_encodings](https://github.com/google-deepmind/randomized_positional_encodings) | ⭐82 | Python | Randomized Positional Encodings Boost Length Generalization of Transfo |
+| [huggingface/huggingface-vscode-chat](https://github.com/huggingface/huggingface-vscode-chat) | ⭐78 | TypeScript | A VSCode extension to use Hugging Face Inference Providers in Copilot  |
+| [OpenBMB/DecT](https://github.com/OpenBMB/DecT) | ⭐53 | Python | Source code for ACL 2023 paper Decoder Tuning: Efﬁcient Language Under |
+| [OpenGVLab/Docopilot](https://github.com/OpenGVLab/Docopilot) | ⭐37 | Python | [CVPR 2025] Docopilot: Improving Multimodal Models for Document-Level  |
+| [google-deepmind/slim-dataset](https://github.com/google-deepmind/slim-dataset) | ⭐36 | Python | Datasets used to train Spatial Language Integrating Model (SLIM) in th |
+| [Tencent/Sequential-Hidden-Decoding](https://github.com/Tencent/Sequential-Hidden-Decoding) | ⭐22 | Python |  |
+| [IDEA-CCNL/Ziya-Coding](https://github.com/IDEA-CCNL/Ziya-Coding) | ⭐15 | Python |  |
+| [alibaba/Helios](https://github.com/alibaba/Helios) | ⭐13 | Python | An AI IDE secure coding MCP service |
+| [intel/crashlog](https://github.com/intel/crashlog) | ⭐10 | Rust | Reference implementation for decoding and extracting Intel® Crash Log  |
+| [apple/ml-mcp-repo-level-coding](https://github.com/apple/ml-mcp-repo-level-coding) | ⭐5 | Python |  |
+| [alibaba/OpenSpec](https://github.com/alibaba/OpenSpec) | ⭐4 | TypeScript | Spec-driven development (SDD) for AI coding assistants.(Fork for contr |
+| [langchain-ai/langsmith-codex-plugins](https://github.com/langchain-ai/langsmith-codex-plugins) | ⭐2 | TypeScript | LangSmith plugin for OpenAI Codex |

@@ -105,3 +105,59 @@
 ---
 
 *Last updated: 2026-05-25*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | ⭐78490 | Python | Turn any PDF or image document into structured data for your AI. A pow |
+| [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) | ⭐36826 | Python | The largest collection of PyTorch image encoders / backbones. Includin |
+| [openai/CLIP](https://github.com/openai/CLIP) | ⭐33595 | Jupyter Notebook | CLIP (Contrastive Language-Image Pretraining),  Predict the most relev |
+| [Tencent/APIJSON](https://github.com/Tencent/APIJSON) | ⭐18404 | Java | 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Doc |
+| [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | ⭐17857 | Python | Stable Diffusion with Core ML on Apple Silicon |
+| [facebook/fresco](https://github.com/facebook/fresco) | ⭐17151 | Java | An Android library for managing images and the memory they use. |
+| [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | ⭐12470 | Python | Enjoy the magic of Diffusion models! |
+| [openai/shap-e](https://github.com/openai/shap-e) | ⭐12244 | Python | Generate 3D objects conditioned on text or images |
+| [openai/DALL-E](https://github.com/openai/DALL-E) | ⭐10853 | Python | PyTorch package for the discrete VAE used for DALL·E. |
+| [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | ⭐9332 | Python | Easy-to-use image segmentation library with awesome pre-trained model  |
+| [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) | ⭐9039 | TypeScript | Community interface for generative AI |
+| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | ⭐9002 | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneo |
+| [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) | ⭐8049 | Python | PaddlePaddle GAN library, including lots of interesting applications l |
+| [openai/guided-diffusion](https://github.com/openai/guided-diffusion) | ⭐7379 | Python |  |
+| [NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD) | ⭐6919 | Python | Synthesizing and manipulating 2048x1024 images with conditional GANs |
+| [openai/point-e](https://github.com/openai/point-e) | ⭐6887 | Python | Point cloud diffusion for 3D model synthesis |
+| [PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | ⭐5807 | Python | A treasure chest for visual classification and recognition powered by  |
+| [bytedance/LatentSync](https://github.com/bytedance/LatentSync) | ⭐5699 | Python | Taming Stable Diffusion for Lip Sync! |
+| [NVIDIA/DALI](https://github.com/NVIDIA/DALI) | ⭐5694 | C++ | A GPU-accelerated library containing highly optimized building blocks  |
+| [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) | ⭐4925 | C# | StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an  |
+| [huggingface/diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | ⭐4322 | Jupyter Notebook | Materials for the Hugging Face Diffusion Models Course |
+| [alibaba/fastjson2](https://github.com/alibaba/fastjson2) | ⭐4300 | Java | 🚄 FASTJSON2 is a Java JSON  library with excellent performance. |
+| [openai/improved-diffusion](https://github.com/openai/improved-diffusion) | ⭐3829 | Python | Release for Improved Denoising Diffusion Probabilistic Models |
+| [openai/glide-text2im](https://github.com/openai/glide-text2im) | ⭐3690 | Python | GLIDE: a diffusion-based text-conditional image synthesis model |
+| [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) | ⭐3075 | Python | Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc |
+| [OpenGVLab/InternImage](https://github.com/OpenGVLab/InternImage) | ⭐2825 | Python | [CVPR 2023 Highlight] InternImage: Exploring Large-Scale Vision Founda |
+| [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) | ⭐2750 | Swift | Swift app demonstrating Core ML Stable Diffusion |
+| [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) | ⭐2680 | Python | 🔥 [ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While P |
+| [Tencent/MimicMotion](https://github.com/Tencent/MimicMotion) | ⭐2590 | Python | High-Quality Human Motion Video Generation with Confidence-aware Pose  |
+| [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) | ⭐2437 | Jupyter Notebook | SDK for interacting with stability.ai APIs (e.g. stable diffusion infe |
+| [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) | ⭐2212 | Python | A SOTA open-source image editing model, which aims to provide comparab |
+| [alibaba/EasyNLP](https://github.com/alibaba/EasyNLP) | ⭐2179 | Python | EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit |
+| [Tencent/LKImageKit](https://github.com/Tencent/LKImageKit) | ⭐2070 | Objective-C | A high-performance image framework, including a series of capabilities |
+| [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) | ⭐1993 | Python | TensorRT Extension for Stable Diffusion Web UI |
+| [apple/ml-cvnets](https://github.com/apple/ml-cvnets) | ⭐1972 | Python | CVNets: A library for training computer vision networks |
+| [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) | ⭐1802 | TypeScript | Generate text, images, video, speech, and music by MiniMax. |
+| [TencentARC/BrushNet](https://github.com/TencentARC/BrushNet) | ⭐1732 | Python | [ECCV 2024] The official implementation of paper "BrushNet: A Plug-and |
+| [NVIDIA/Cosmos-Tokenizer](https://github.com/NVIDIA/Cosmos-Tokenizer) | ⭐1725 | Jupyter Notebook | A suite of image and video neural tokenizers |
+| [bytedance/DreamO](https://github.com/bytedance/DreamO) | ⭐1642 | Python | [SIGGRAPH Asia 2025] DreamO: A Unified Framework for Image Customizati |
+| [Stability-AI/stable-virtual-camera](https://github.com/Stability-AI/stable-virtual-camera) | ⭐1608 | Python | Stable Virtual Camera: Generative View Synthesis with Diffusion Models |
+| [Tencent/tgfx](https://github.com/Tencent/tgfx) | ⭐1532 | C++ | A lightweight 2D graphics library for modern GPUs, delivering high-per |
+| [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) | ⭐1486 | Python | Official MiniMax Model Context Protocol (MCP) server that enables inte |
+| [TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D) | ⭐1463 | Python | [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images |
+| [huggingface/finetrainers](https://github.com/huggingface/finetrainers) | ⭐1358 | Python | Scalable and memory-optimized training of diffusion models |
+| [bytedance/UNO](https://github.com/bytedance/UNO) | ⭐1355 | Python | [ICCV 2025] 🔥🔥  UNO: A Universal Customization Method for Both Single  |
+| [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) | ⭐1334 | C++ | Trust & Safety tools for working together to fight digital harms.  |
+| [bytedance/flux](https://github.com/bytedance/flux) | ⭐1312 | C++ | A fast communication-overlapping library for tensor/expert parallelism |
+| [alibaba/Tora](https://github.com/alibaba/Tora) | ⭐1238 | Python | [CVPR'25]Tora: Trajectory-oriented Diffusion Transformer for Video Gen |
+| [OpenBMB/VisCPM](https://github.com/OpenBMB/VisCPM) | ⭐1068 | Python | [ICLR'24 spotlight] Chinese and English Multimodal Large Model Series  |
+| [Stability-AI/stable-point-aware-3d](https://github.com/Stability-AI/stable-point-aware-3d) | ⭐1041 | Python | SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Im |

@@ -280,3 +280,59 @@ Small Models (<10B):
 ---
 
 *Last updated: 2026-05-25*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [huggingface/transformers](https://github.com/huggingface/transformers) | ⭐160943 | Python | 🤗 Transformers: the model-definition framework for state-of-the-art ma |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐137587 | Python | The agent engineering platform. |
+| [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | ⭐103608 | Python |  |
+| [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) | ⭐92019 | None |  |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | ⭐80943 | Python | A high-throughput and memory-efficient inference and serving engine fo |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | ⭐73759 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐69489 | Python | An open-source long-horizon SuperAgent harness that researches, codes, |
+| [meta-llama/llama](https://github.com/meta-llama/llama) | ⭐59436 | Python | Inference code for Llama models |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | ⭐52143 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fos |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | ⭐49645 | Python | LlamaIndex is the leading document agent and OCR platform |
+| [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | ⭐37578 | None | Integrate the DeepSeek API into popular software |
+| [huggingface/diffusers](https://github.com/huggingface/diffusers) | ⭐33696 | Python | 🤗 Diffusers: State-of-the-art diffusion models for image, video, and a |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | ⭐33185 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐32885 | Python | Build resilient agents. |
+| [meta-llama/llama3](https://github.com/meta-llama/llama3) | ⭐29286 | Python | The official Meta Llama 3 GitHub site |
+| [huggingface/agents-course](https://github.com/huggingface/agents-course) | ⭐28859 | MDX | This repository contains the Hugging Face Agents Course.  |
+| [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) | ⭐27257 | Python | Qwen3 is the large language model series developed by Qwen team, Aliba |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | ⭐26629 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [huggingface/open-r1](https://github.com/huggingface/open-r1) | ⭐26020 | Python | Fully open reproduction of DeepSeek-R1 |
+| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | ⭐25247 | Python | A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding  |
+| [openai/gpt-2](https://github.com/openai/gpt-2) | ⭐24877 | Python | Code for the paper "Language Models are Unsupervised Multitask Learner |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | ⭐24650 | TypeScript | An open-source AI agent that lives in your terminal. |
+| [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | ⭐23466 | Python | DeepSeek Coder: Let the Code Write Itself |
+| [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) | ⭐23166 | Python | Contexts Optical Compression |
+| [huggingface/datasets](https://github.com/huggingface/datasets) | ⭐21534 | Python | 🤗 The largest hub of ready-to-use datasets for AI models with fast, ea |
+| [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | ⭐21233 | Python | Multi-lingual large voice generation model, providing inference, train |
+| [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | ⭐21205 | Python | The ChatGPT Retrieval Plugin lets you easily find personal or work doc |
+| [QwenLM/Qwen](https://github.com/QwenLM/Qwen) | ⭐21185 | Python | The official repo of Qwen (通义千问) chat & pretrained large language mode |
+| [huggingface/peft](https://github.com/huggingface/peft) | ⭐21181 | Python | 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. |
+| [openai/gpt-oss](https://github.com/openai/gpt-oss) | ⭐20118 | Python | gpt-oss-120b and gpt-oss-20b are two open-weight language models by Op |
+| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | ⭐19235 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qw |
+| [openai/evals](https://github.com/openai/evals) | ⭐18527 | Python | Evals is a framework for evaluating LLMs and LLM systems, and an open- |
+| [huggingface/trl](https://github.com/huggingface/trl) | ⭐18461 | Python | Train transformer language models with reinforcement learning. |
+| [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) | ⭐18332 | Jupyter Notebook | Welcome to the Llama Cookbook! This is your go to guide for Building w |
+| [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) | ⭐17731 | Python | Janus-Series: Unified Multimodal Understanding and Generation Models |
+| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | ⭐16557 | Python | Qwen3-Coder is the code version of Qwen3, the large language model ser |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | ⭐16394 | Python | Agent framework and applications built upon Qwen>=3.0, featuring Funct |
+| [meta-llama/codellama](https://github.com/meta-llama/codellama) | ⭐16321 | Python | Inference code for CodeLlama models |
+| [modelscope/FunASR](https://github.com/modelscope/FunASR) | ⭐16263 | Python | Industrial-grade speech recognition toolkit: 170x realtime, 50+ langua |
+| [openai/gpt-3](https://github.com/openai/gpt-3) | ⭐15740 | None | GPT-3: Language Models are Few-Shot Learners |
+| [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) | ⭐15698 | Jupyter Notebook | StableLM: Stability AI Language Models |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | ⭐15502 | Go | Open-source LLM knowledge platform: turn raw documents into a queryabl |
+| [alibaba/MNN](https://github.com/alibaba/MNN) | ⭐15248 | C++ | MNN: A blazing-fast, lightweight inference engine battle-tested by Ali |
+| [modelscope/ms-swift](https://github.com/modelscope/ms-swift) | ⭐14254 | Python | Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, Dee |
+| [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | ⭐13717 | Python | TensorRT LLM provides users with an easy-to-use Python API to define L |
+| [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) | ⭐12987 | Python | PaddleFormers is an easy-to-use library of pre-trained large language  |
+| [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | ⭐12947 | Python | Easy-to-use and powerful LLM and SLM library with awesome model zoo. |
+| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | ⭐12661 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
+| [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | ⭐11720 | Python | Retrieval and Retrieval-augmented LLMs |
+| [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | ⭐11585 | Python | Trae Agent is an LLM-based agent for general purpose software engineer |

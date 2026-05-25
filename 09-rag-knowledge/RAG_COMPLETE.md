@@ -108,3 +108,59 @@ Query → [Text + Image + Table] → Multi-Modal Embedding → Search → Augmen
 ---
 
 *Last updated: 2026-05-25*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [facebook/rocksdb](https://github.com/facebook/rocksdb) | ⭐31697 | C++ | A library that provides an embeddable, persistent key-value store for  |
+| [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) | ⭐18720 | Python | State-of-the-Art Embeddings, Retrieval, and Reranking |
+| [Tencent/MMKV](https://github.com/Tencent/MMKV) | ⭐18593 | C++ | An efficient, small mobile key-value storage framework developed by We |
+| [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) | ⭐17545 | None | Build and run Docker containers leveraging NVIDIA GPUs |
+| [facebook/buck](https://github.com/facebook/buck) | ⭐8544 | Java | A fast build system that encourages the creation of small, reusable mo |
+| [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) | ⭐8342 | Jupyter Notebook |  |
+| [alibaba/AliSQL](https://github.com/alibaba/AliSQL) | ⭐5813 | C++ | AliSQL is a MySQL branch originated from Alibaba Group. Fetch document |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | ⭐4783 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for |
+| [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | ⭐4355 | Go | Build and run containers leveraging NVIDIA GPUs |
+| [baidu/braft](https://github.com/baidu/braft) | ⭐4215 | C++ | An industrial-grade C++ implementation of RAFT consensus algorithm bas |
+| [alibaba/Alink](https://github.com/alibaba/Alink) | ⭐3618 | Java | Alink is the Machine Learning algorithm platform based on Flink, devel |
+| [Tencent/Tendis](https://github.com/Tencent/Tendis) | ⭐3142 | C++ | Tendis is a high-performance distributed storage system fully compatib |
+| [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) | ⭐3123 | Python | A developer reference project for creating Retrieval Augmented Generat |
+| [alibaba/euler](https://github.com/alibaba/euler) | ⭐2900 | C++ | A distributed graph deep learning framework. |
+| [bytedance/scene](https://github.com/bytedance/scene) | ⭐2448 | Java | Android Single Activity Framework compatible with Fragment. |
+| [alibaba/tair](https://github.com/alibaba/tair) | ⭐2306 | C++ | A distributed key-value storage system developed by Alibaba Group |
+| [bytedance/terarkdb](https://github.com/bytedance/terarkdb) | ⭐2150 | C++ | A RocksDB compatible KV storage engine with better performance |
+| [baidu/tera](https://github.com/baidu/tera) | ⭐1904 | C++ | An Internet-Scale Database. |
+| [NVIDIA/aistore](https://github.com/NVIDIA/aistore) | ⭐1852 | Go | AIStore: scalable storage for AI applications |
+| [THUDM/CogDL](https://github.com/THUDM/CogDL) | ⭐1821 | Python | CogDL: A Comprehensive Library for Graph Deep Learning (WWW 2023) |
+| [PaddlePaddle/Research](https://github.com/PaddlePaddle/Research) | ⭐1758 | Python | novel deep learning research works with PaddlePaddle |
+| [NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) | ⭐1739 | Go | NVIDIA GPU metrics exporter for Prometheus leveraging DCGM |
+| [Tencent/paxosstore](https://github.com/Tencent/paxosstore) | ⭐1715 | C++ | PaxosStore has been deployed in WeChat production for more than two ye |
+| [intel/isa-l](https://github.com/intel/isa-l) | ⭐1079 | C | Intelligent Storage Acceleration Library |
+| [OpenBMB/VisRAG](https://github.com/OpenBMB/VisRAG) | ⭐957 | Python | Parsing-free RAG supported by VLMs |
+| [alibaba/EasyTransfer](https://github.com/alibaba/EasyTransfer) | ⭐862 | Python | EasyTransfer is designed to make the development of transfer learning  |
+| [PaddlePaddle/RocketQA](https://github.com/PaddlePaddle/RocketQA) | ⭐785 | Python | 🚀 RocketQA, dense retrieval for information retrieval and question ans |
+| [google-deepmind/reverb](https://github.com/google-deepmind/reverb) | ⭐779 | C++ | Reverb is an efficient and easy-to-use data storage and transport syst |
+| [PaddlePaddle/Knover](https://github.com/PaddlePaddle/Knover) | ⭐671 | Python | Large-scale open domain KNOwledge grounded conVERsation system based o |
+| [google-deepmind/limit](https://github.com/google-deepmind/limit) | ⭐650 | Jupyter Notebook | On the Theoretical Limitations of Embedding-Based Retrieval |
+| [THUDM/GATNE](https://github.com/THUDM/GATNE) | ⭐536 | Python | Source code and dataset for KDD 2019 paper "Representation Learning fo |
+| [alibaba/open-local](https://github.com/alibaba/open-local) | ⭐514 | Go | cloud-native local storage management system for stateful workload, lo |
+| [huggingface/xet-core](https://github.com/huggingface/xet-core) | ⭐492 | Rust | xet client tech, used in huggingface_hub |
+| [bytedance/vArmor](https://github.com/bytedance/vArmor) | ⭐475 | Go | vArmor is a cloud-native container hardening system that leverages App |
+| [alibaba/schema-plugin-flow](https://github.com/alibaba/schema-plugin-flow) | ⭐424 | JavaScript | A highly extensible JavaScript library, abbreviated as Sifo. 一个高扩展性、可二 |
+| [NVIDIA/workbench-example-hybrid-rag](https://github.com/NVIDIA/workbench-example-hybrid-rag) | ⭐368 | Python | An NVIDIA AI Workbench example project for Retrieval Augmented Generat |
+| [TencentARC/VQFR](https://github.com/TencentARC/VQFR) | ⭐354 | Python | ECCV 2022, Oral, VQFR: Blind Face Restoration with Vector-Quantized Di |
+| [NVIDIA/gds-nvidia-fs](https://github.com/NVIDIA/gds-nvidia-fs) | ⭐354 | C | NVIDIA GPUDirect Storage Driver |
+| [langchain-ai/langconnect](https://github.com/langchain-ai/langconnect) | ⭐342 | Python | A managed RAG API server. |
+| [bytedance/danmu.js](https://github.com/bytedance/danmu.js) | ⭐334 | JavaScript | HTML5 danmu (danmaku) plugin for any DOM element |
+| [intel/tsffs](https://github.com/intel/tsffs) | ⭐329 | Rust | A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, fir |
+| [Tencent/embedx](https://github.com/Tencent/embedx) | ⭐314 | C++ | embedx 是基于 c++ 开发的、完全自研的分布式 embedding 训练和推理框架。它目前支持 图模型、深度排序、召回模型和图与排序 |
+| [google-deepmind/leo](https://github.com/google-deepmind/leo) | ⭐311 | Python | Implementation of Meta-Learning with Latent Embedding Optimization |
+| [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) | ⭐269 | Python | baseline system of knowledge driven dialogue competition |
+| [google-deepmind/grid-cells](https://github.com/google-deepmind/grid-cells) | ⭐263 | Python | Implementation of the supervised learning experiments in Vector-based  |
+| [THUDM/KOBE](https://github.com/THUDM/KOBE) | ⭐243 | Python | Towards Knowledge-Based Personalized Product Description Generation in |
+| [THUDM/NLP4Rec-Papers](https://github.com/THUDM/NLP4Rec-Papers) | ⭐230 | None | Paper list of NLP for recommender systems |
+| [OpenBMB/RAGEval](https://github.com/OpenBMB/RAGEval) | ⭐230 | Python |  |
+| [intel/ScalableVectorSearch](https://github.com/intel/ScalableVectorSearch) | ⭐224 | C++ |  |
+| [alibaba/hangzhou_house_knowledge](https://github.com/alibaba/hangzhou_house_knowledge) | ⭐207 | CSS | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge o |

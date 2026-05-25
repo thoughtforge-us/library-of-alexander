@@ -201,3 +201,59 @@ Agent Frameworks:
 ---
 
 *Last updated: 2026-05-25*
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 10:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [openai/codex](https://github.com/openai/codex) | ⭐85456 | Rust | Lightweight coding agent that runs in your terminal |
+| [alibaba/arthas](https://github.com/alibaba/arthas) | ⭐37328 | Java | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | ⭐35189 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI  |
+| [alibaba/nacos](https://github.com/alibaba/nacos) | ⭐32964 | Java | an easy-to-use dynamic service discovery, configuration and service ma |
+| [huggingface/smolagents](https://github.com/huggingface/smolagents) | ⭐27500 | Python | 🤗 smolagents: a barebones library for agents that think in code. |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | ⭐23292 | Python | The batteries-included agent harness. |
+| [openai/swarm](https://github.com/openai/swarm) | ⭐21526 | Python | Educational framework exploring ergonomic, lightweight multi-agent orc |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | ⭐18076 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural lang |
+| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | ⭐17719 | TypeScript | The agent engineering platform |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | ⭐10805 | Python | Secure, Fast, and Extensible Sandbox runtime for AI agents. |
+| [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) | ⭐10730 | Python | Pioneering Automated GUI Interaction with Native Agents |
+| [huggingface/skills](https://github.com/huggingface/skills) | ⭐10570 | Python | Give your agents the power of the Hugging Face ecosystem |
+| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | ⭐9728 | Java | Agentic AI Framework for Java Developers |
+| [google-deepmind/lab](https://github.com/google-deepmind/lab) | ⭐7358 | C | A customisable 3D platform for agent-based AI research |
+| [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) | ⭐6876 | TypeScript | This is a simple demonstration of more advanced, agentic patterns buil |
+| [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) | ⭐6378 | Python | Demo of a customer service use case implemented with the OpenAI Agents |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | ⭐6230 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) | ⭐5976 | Jupyter Notebook | A collection of examples that show how to use CrewAI framework to auto |
+| [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel) | ⭐5237 | C++ | OpenSpiel is a collection of environments and algorithms for research  |
+| [modelscope/ms-agent](https://github.com/modelscope/ms-agent) | ⭐4279 | Python | MS-Agent: a lightweight framework to empower agentic execution of comp |
+| [google-deepmind/acme](https://github.com/google-deepmind/acme) | ⭐3986 | Python | A library of reinforcement learning components and agents |
+| [openai/openai-agents-js](https://github.com/openai/openai-agents-js) | ⭐3114 | TypeScript | A lightweight, powerful framework for multi-agent workflows and voice  |
+| [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) | ⭐2764 | Python | Code for a multi-agent particle environment used in the paper "Multi-A |
+| [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) | ⭐2584 | TypeScript | 📲 An agent for sourcing, curating, and scheduling social media posts w |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | ⭐2325 | Python | The NVIDIA NeMo Agent toolkit is an open-source library for efficientl |
+| [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) | ⭐2172 | Python | STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the  |
+| [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash) | ⭐2046 | C++ | Fast, Sharp & Reliable Agentic Intelligence |
+| [openai/maddpg](https://github.com/openai/maddpg) | ⭐1974 | Python | Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic |
+| [langchain-ai/open-agent-platform](https://github.com/langchain-ai/open-agent-platform) | ⭐1860 | TypeScript | An open-source, no-code agent building platform. |
+| [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) | ⭐1800 | Python | Environment generation code for the paper "Emergent Tool Use From Mult |
+| [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) | ⭐1780 | Jupyter Notebook | Build an email assistant with human-in-the-loop and memory |
+| [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) | ⭐1725 | TypeScript | Learn how to use CUA (our Computer Using Agent) via the API on multipl |
+| [openai/neural-mmo](https://github.com/openai/neural-mmo) | ⭐1651 | Python | Code for the paper "Neural MMO: A Massively Multiagent Game Environmen |
+| [langchain-ai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent) | ⭐1634 | Python | Reference implementations of several LangChain agents as Streamlit app |
+| [langchain-ai/deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui) | ⭐1620 | TypeScript | Custom UI for Deep Agents |
+| [openai/mle-bench](https://github.com/openai/mle-bench) | ⭐1539 | Python | MLE-bench is a benchmark for measuring how well AI agents perform at m |
+| [google-deepmind/concordia](https://github.com/google-deepmind/concordia) | ⭐1439 | Python | A library for generative social simulation |
+| [crewAIInc/crewAI-tools](https://github.com/crewAIInc/crewAI-tools) | ⭐1430 | Python | Extend the capabilities of your CrewAI agents with Tools |
+| [OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI) | ⭐1369 | Python | AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhan |
+| [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) | ⭐1256 | TypeScript | The batteries included agent harness. |
+| [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom) | ⭐1192 | TypeScript | A browser-based desktop where AI Agent operates every app through natu |
+| [OpenGVLab/ScaleCUA](https://github.com/OpenGVLab/ScaleCUA) | ⭐1114 | Python | [ICLR 2026 Oral] ScaleCUA is the open-sourced computer use agents that |
+| [openai/universe-starter-agent](https://github.com/openai/universe-starter-agent) | ⭐1102 | Python | A starter agent that can solve a number of universe environments. |
+| [google-deepmind/scalable_agent](https://github.com/google-deepmind/scalable_agent) | ⭐1026 | Python | A TensorFlow implementation of Scalable Distributed Deep-RL with Impor |
+| [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox) | ⭐994 | TypeScript | 📥 An inbox UX for interacting with human-in-the-loop agents. |
+| [huggingface/meshgen](https://github.com/huggingface/meshgen) | ⭐878 | Python | Use AI Agents directly in Blender. |
+| [alibaba/loongsuite-go-agent](https://github.com/alibaba/loongsuite-go-agent) | ⭐857 | Go | OpenTelemetry Compile-Time Instrumentation for Golang |
+| [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) | ⭐851 | Python | Starter app to build with OpenAI ChatKit + Agent Builder |
+| [openai/multiagent-competition](https://github.com/openai/multiagent-competition) | ⭐836 | Python |  Code for the paper "Emergent Complexity via Multi-agent Competition" |
+| [google-deepmind/meltingpot](https://github.com/google-deepmind/meltingpot) | ⭐836 | Python | A suite of test scenarios for multi-agent reinforcement learning. |
