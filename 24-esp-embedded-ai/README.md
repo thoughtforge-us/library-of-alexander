@@ -70,3 +70,12 @@ _(Coming soon — being populated with deep research data.)_
 | [intel/Micro-Segmentation](https://github.com/intel/Micro-Segmentation) | ⭐1 | Python |  |
 | [intel/esp-profile-centos](https://github.com/intel/esp-profile-centos) | ⭐0 | Shell |  |
 | [intel/edge-to-azure-bridge](https://github.com/intel/edge-to-azure-bridge) | ⭐0 | Python | Connect and forward edge application data to Microsoft Azure |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 14:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [intel/meta-edge-ai](https://github.com/intel/meta-edge-ai) | ⭐0 | None |  |
+| [intel/edge-ai-resource-monitoring-deployment](https://github.com/intel/edge-ai-resource-monitoring-deployment) | ⭐0 | None |  |
+| [intel/edge-ai-device-plugin](https://github.com/intel/edge-ai-device-plugin) | ⭐0 | Go |  |

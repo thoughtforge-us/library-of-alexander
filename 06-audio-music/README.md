@@ -70,3 +70,48 @@ _(Coming soon — being populated with deep research data.)_
 | [apple/AudioUnit-Examples](https://github.com/apple/AudioUnit-Examples) | ⭐95 | Swift | AudioUnit Examples |
 | [NVIDIA/Audio2Face-3D-Training-Framework](https://github.com/NVIDIA/Audio2Face-3D-Training-Framework) | ⭐92 | Python | Audio2Face-3D Training Framework for creating custom neural networks t |
 | [NVIDIA/Maya-ACE](https://github.com/NVIDIA/Maya-ACE) | ⭐87 | C++ | Maya-ACE: A Reference Client Implementation for NVIDIA ACE Audio2Face  |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 14:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [apple/pytorch-speech-features](https://github.com/apple/pytorch-speech-features) | ⭐86 | Python |  |
+| [MiniMax-AI/awesome-minimax-integrations](https://github.com/MiniMax-AI/awesome-minimax-integrations) | ⭐76 | None | Explore these applications integrating MiniMax's multimodal API to see |
+| [NVIDIA/RAD-MMM](https://github.com/NVIDIA/RAD-MMM) | ⭐76 | Roff | A TTS model that makes a speaker speak new languages |
+| [MiniMax-AI/MiniMax-AI.github.io](https://github.com/MiniMax-AI/MiniMax-AI.github.io) | ⭐71 | HTML | The official GitHub Page for MiniMax |
+| [Tencent/WildSpeech-Bench](https://github.com/Tencent/WildSpeech-Bench) | ⭐71 | Python |  |
+| [NVIDIA/speechsquad](https://github.com/NVIDIA/speechsquad) | ⭐69 | C++ | Conversational AI Benchmark. |
+| [intel/conversational-ai-chatbot](https://github.com/intel/conversational-ai-chatbot) | ⭐61 | Python | The Conversational AI Chat Bot contains automatic speech recognition ( |
+| [baidu/speech-samples](https://github.com/baidu/speech-samples) | ⭐50 | Java | 百度语音示例 |
+| [MiniMax-AI/audio-tools](https://github.com/MiniMax-AI/audio-tools) | ⭐49 | Python | A collection of optimized utilities for text-to-audio processing, enha |
+| [alibaba/mqtt](https://github.com/alibaba/mqtt) | ⭐49 | C | Sending and receiving data of client-side message  push service |
+| [apple/music-feed-examples](https://github.com/apple/music-feed-examples) | ⭐28 | Java |  |
+| [apple/ml-code-switched-speech-translation](https://github.com/apple/ml-code-switched-speech-translation) | ⭐28 | Python | This repository contains the code and instructions needed to reproduce |
+| [Stability-AI/stable-audio-2-demo](https://github.com/Stability-AI/stable-audio-2-demo) | ⭐24 | None |  |
+| [stepfun-ai/StepAudio-Skills](https://github.com/stepfun-ai/StepAudio-Skills) | ⭐21 | Python | Audio skills for Claw |
+| [stepfun-ai/Step-Audio-Edit-Benchmark](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) | ⭐20 | Python |  |
+| [apple/dmel-demo](https://github.com/apple/dmel-demo) | ⭐20 | HTML | dMel: Speech Tokenization Made Simple |
+| [apple/ml-pfl4asr](https://github.com/apple/ml-pfl4asr) | ⭐18 | Python | Private Federated Learning for Speech Recognition |
+| [intel/bat](https://github.com/intel/bat) | ⭐17 | C | basic audio tester |
+| [apple/visatronic-demo](https://github.com/apple/visatronic-demo) | ⭐16 | HTML | Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis |
+| [OpenGVLab/perception_test_iccv2023](https://github.com/OpenGVLab/perception_test_iccv2023) | ⭐14 | Python | Champion Solutions repository for Perception Test challenges in ICCV20 |
+| [apple/ml-interspeech2022-phi_rtn](https://github.com/apple/ml-interspeech2022-phi_rtn) | ⭐13 | None | Repository accompanying the Interspeech 2022 publication titled "Space |
+| [Stability-AI/stable-audio-demo](https://github.com/Stability-AI/stable-audio-demo) | ⭐11 | None |  |
+| [intel/Speech-to-Text-Analytics-System](https://github.com/intel/Speech-to-Text-Analytics-System) | ⭐10 | Python | Speech-to-Text Analytics System |
+| [intel/AVB-AudioModules](https://github.com/intel/AVB-AudioModules) | ⭐10 | C++ |  |
+| [apple/ml-speech-polynorm-bench](https://github.com/apple/ml-speech-polynorm-bench) | ⭐10 | None |  |
+| [Tencent/Unified_Audio_Schema](https://github.com/Tencent/Unified_Audio_Schema) | ⭐8 | Python |  |
+| [Stability-AI/stable-audio-open-demo](https://github.com/Stability-AI/stable-audio-open-demo) | ⭐8 | None |  |
+| [intel/android-audio-hal](https://github.com/intel/android-audio-hal) | ⭐8 | C++ |  |
+| [apple/ml-speech-is-more-than-words](https://github.com/apple/ml-speech-is-more-than-words) | ⭐8 | None |  |
+| [apple/speakstream-demo](https://github.com/apple/speakstream-demo) | ⭐7 | HTML | Streaming Text-to-Speech with Interleaved Data |
+| [intel/baytrailaudio](https://github.com/intel/baytrailaudio) | ⭐6 | C |  |
+| [stepfun-ai/stepfunApi-audio-sdk](https://github.com/stepfun-ai/stepfunApi-audio-sdk) | ⭐5 | Kotlin | 基于阶跃星辰开放平台语音api的android 语音sdk，支持tts 流式与非流式，asr，流式，非流式音频播放器，语音录制能力 |
+| [alibaba/INSPIRE](https://github.com/alibaba/INSPIRE) | ⭐5 | None | INSPIRE: Instruction-based Multi-Task Speech and Audio Processing Benc |
+| [huggingface/s3prl](https://github.com/huggingface/s3prl) | ⭐5 | None | Self-Supervised Speech Pre-training and Representation Learning Toolki |
+| [intel/winthorpe](https://github.com/intel/winthorpe) | ⭐5 | C | Winthorpe - a framework for speech enabling applications |
+| [alibaba/CA-TTS](https://github.com/alibaba/CA-TTS) | ⭐4 | Python |  |
+| [intel/AudioLatencyTools](https://github.com/intel/AudioLatencyTools) | ⭐4 | C++ |  |
+| [google-deepmind/speech-compass](https://github.com/google-deepmind/speech-compass) | ⭐3 | C | "Making group conversations more accessible. Real-time speaker localiz |
+| [intel/cordova-plugin-intel-xdk-audio](https://github.com/intel/cordova-plugin-intel-xdk-audio) | ⭐0 | JavaScript |  |

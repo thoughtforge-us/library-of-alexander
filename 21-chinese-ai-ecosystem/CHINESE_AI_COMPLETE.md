@@ -549,3 +549,59 @@ The most popular fine-tuning toolkit in China.
 | [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) | ⭐7256 | C++ | PaddlePaddle High Performance Deep Learning Inference Engine for Mobil |
 | [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) | ⭐7200 | Objective-C | QMUI iOS——致力于提高项目 UI 开发效率的解决方案 |
 | [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) | ⭐7187 | Dart | FlutterBoost is a Flutter plugin which enables hybrid integration of F |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 14:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [alibaba/AndFix](https://github.com/alibaba/AndFix) | ⭐6976 | C++ | AndFix is a library that offer hot-fix for Android App. |
+| [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) | ⭐6948 | Java | Real - time non-invasive AOP framework container based on JVM |
+| [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) | ⭐6213 | Objective-C | 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释 |
+| [alibaba/BizCharts](https://github.com/alibaba/BizCharts) | ⭐6194 | TypeScript | Powerful data visualization library based on G2 and React. |
+| [Tencent/puerts](https://github.com/Tencent/puerts) | ⭐6059 | C++ | PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScr |
+| [Tencent/libpag](https://github.com/Tencent/libpag) | ⭐5678 | C++ | The official rendering library for PAG (Portable Animated Graphics) fi |
+| [alibaba/QLExpress](https://github.com/alibaba/QLExpress) | ⭐5594 | Java | QLExpress is a powerful, lightweight, dynamic language for the Java pl |
+| [alibaba/jetcache](https://github.com/alibaba/jetcache) | ⭐5582 | Java | JetCache is a Java cache framework. |
+| [baidu/uid-generator](https://github.com/baidu/uid-generator) | ⭐5574 | Java | UniqueID generator |
+| [baidu/dperf](https://github.com/baidu/dperf) | ⭐5562 | C | dperf: High-Performance Network Load Testing Tool Based on DPDK |
+| [alibaba/freeline](https://github.com/alibaba/freeline) | ⭐5441 | Java | A super fast build tool for Android, an alternative to Instant Run |
+| [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) | ⭐5437 | Objective-C | Find memory leaks in your iOS app at develop time. |
+| [bytedance/monoio](https://github.com/bytedance/monoio) | ⭐4992 | Rust | Rust async runtime based on io-uring. |
+| [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) | ⭐4956 | Java | UltraViewPager is an extension for ViewPager to provide multiple featu |
+| [Tencent/wujie](https://github.com/Tencent/wujie) | ⭐4934 | TypeScript | 极致的微前端框架 |
+| [Tencent/kbone](https://github.com/Tencent/kbone) | ⭐4917 | JavaScript | 一个致力于微信小程序和 Web 端同构的解决方案 |
+| [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) | ⭐4907 | TypeScript |  |
+| [baidu/san](https://github.com/baidu/san) | ⭐4740 | JavaScript | A fast, portable, flexible JavaScript component framework |
+| [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) | ⭐4704 | JavaScript | ✨ A Markdown Editor |
+| [alibaba/butterfly](https://github.com/alibaba/butterfly) | ⭐4646 | JavaScript | 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentra |
+| [Tencent/TNN](https://github.com/Tencent/TNN) | ⭐4633 | C++ | TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep  |
+| [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things) | ⭐4616 | C | 面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosth |
+| [alibaba/dexposed](https://github.com/alibaba/dexposed) | ⭐4509 | Java | dexposed enable 'god' mode for single android application. |
+| [Tencent/GT](https://github.com/Tencent/GT) | ⭐4408 | Java | GT (Great Tit) is a portable debugging tool for bug hunting and perfor |
+| [alibaba/ChatUI](https://github.com/alibaba/ChatUI) | ⭐4393 | TypeScript | The UI design language and React library for Conversational UI |
+| [alibaba/BeeHive](https://github.com/alibaba/BeeHive) | ⭐4340 | Objective-C | :honeybee: BeeHive is a solution for iOS Application module programs,  |
+| [alibaba/x-deeplearning](https://github.com/alibaba/x-deeplearning) | ⭐4300 | PureBasic | An industrial deep learning framework for high-dimension sparse data |
+| [Tencent/westore](https://github.com/Tencent/westore) | ⭐4297 | JavaScript | 小程序MVVM分层架构 |
+| [alibaba/HandyJSON](https://github.com/alibaba/HandyJSON) | ⭐4264 | Swift | A handy swift json-object serialization/deserialization library |
+| [Tencent/vap](https://github.com/Tencent/vap) | ⭐4168 | Objective-C | VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。 |
+| [alibaba/Tangram-Android](https://github.com/alibaba/Tangram-Android) | ⭐4098 | Java | Tangram is a modular UI solution for building native page dynamically  |
+| [alibaba/coobjc](https://github.com/alibaba/coobjc) | ⭐4019 | Objective-C | coobjc provides coroutine support for Objective-C and Swift. We added  |
+| [alibaba/jstorm](https://github.com/alibaba/jstorm) | ⭐3883 | Java | Enterprise Stream Process Engine |
+| [Tencent/tdesign](https://github.com/Tencent/tdesign) | ⭐3873 | Vue | Enterprise Design System |
+| [alibaba/LuaViewSDK](https://github.com/alibaba/LuaViewSDK) | ⭐3726 | Objective-C | A cross-platform framework to build native, dynamic and swift user int |
+| [bytedance/byteps](https://github.com/bytedance/byteps) | ⭐3721 | Python | A high performance and generic framework for distributed DNN training |
+| [alibaba/f2etest](https://github.com/alibaba/f2etest) | ⭐3564 | JavaScript | F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。 |
+| [alibaba/GraphScope](https://github.com/alibaba/GraphScope) | ⭐3551 | C++ | 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from |
+| [alibaba/designable](https://github.com/alibaba/designable) | ⭐3528 | TypeScript | 🧩 Make everything designable 🧩  |
+| [alibaba/GGEditor](https://github.com/alibaba/GGEditor) | ⭐3418 | TypeScript | A visual graph editor based on G6 and React |
+| [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) | ⭐3370 | C++ | The Paxos library implemented in C++ that has been used in the WeChat  |
+| [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | ⭐3294 | Java | Spring Cloud Tencent is a Spring Cloud based Service Governance Framew |
+| [bytedance/ByteX](https://github.com/bytedance/ByteX) | ⭐3252 | Java | ByteX is a bytecode plugin platform based on Android Gradle Transform  |
+| [alibaba/cobar](https://github.com/alibaba/cobar) | ⭐3193 | Java | a proxy for sharding databases and tables |
+| [Tencent/weui.js](https://github.com/Tencent/weui.js) | ⭐3190 | JavaScript | A lightweight javascript library for WeUI. |
+| [alibaba/lightproxy](https://github.com/alibaba/lightproxy) | ⭐3186 | TypeScript | 💎 Cross platform Web debugging proxy |
+| [alibaba/macaca](https://github.com/alibaba/macaca) | ⭐3183 | None |  Automation solution for multi-platform. 多端自动化解决方案 |
+| [Tencent/VasDolly](https://github.com/Tencent/VasDolly) | ⭐3157 | Java | Android V1 and V2 Signature Channel Package Plugin |
+| [Tencent/behaviac](https://github.com/Tencent/behaviac) | ⭐3038 | C# | behaviac is a framework of the game AI development, and it also can be |
+| [alibaba/pont](https://github.com/alibaba/pont) | ⭐3029 | TypeScript | 🌉数据服务层解决方案 |

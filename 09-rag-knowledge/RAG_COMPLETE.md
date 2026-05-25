@@ -164,3 +164,59 @@ Query → [Text + Image + Table] → Multi-Modal Embedding → Search → Augmen
 | [OpenBMB/RAGEval](https://github.com/OpenBMB/RAGEval) | ⭐230 | Python |  |
 | [intel/ScalableVectorSearch](https://github.com/intel/ScalableVectorSearch) | ⭐224 | C++ |  |
 | [alibaba/hangzhou_house_knowledge](https://github.com/alibaba/hangzhou_house_knowledge) | ⭐207 | CSS | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge o |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 14:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [bytedance/ParaGen](https://github.com/bytedance/ParaGen) | ⭐185 | Python | ParaGen is a PyTorch deep learning framework for parallel sequence gen |
+| [openai/train-procgen](https://github.com/openai/train-procgen) | ⭐182 | Python | Code for the paper "Leveraging Procedural Generation to Benchmark Rein |
+| [alibaba/nann](https://github.com/alibaba/nann) | ⭐171 | C++ | A flexible, high-performance framework for large-scale retrieval probl |
+| [intel/pmem-csi](https://github.com/intel/pmem-csi) | ⭐164 | Go | Persistent Memory Container Storage Interface Driver |
+| [intel/virtual-storage-manager](https://github.com/intel/virtual-storage-manager) | ⭐160 | Python |  |
+| [openai/gym3](https://github.com/openai/gym3) | ⭐147 | Python | Vectorized interface for reinforcement learning environments |
+| [OpenGVLab/Hulk](https://github.com/OpenGVLab/Hulk) | ⭐144 | Python | An official implementation of "Hulk: A Universal Knowledge Translator  |
+| [THUDM/KBRD](https://github.com/THUDM/KBRD) | ⭐134 | Python | Towards Knowledge-Based Recommender Dialog System @ EMNLP 2019 |
+| [intel/yask](https://github.com/intel/yask) | ⭐118 | C++ | YASK--Yet Another Stencil Kit: a domain-specific language and framewor |
+| [bytedance/R2Former](https://github.com/bytedance/R2Former) | ⭐104 | Jupyter Notebook | Official repository for R2Former: Unified Retrieval and Reranking Tran |
+| [intel/neuro-vectorizer](https://github.com/intel/neuro-vectorizer) | ⭐99 | C | NeuroVectorizer is a framework that uses deep reinforcement learning ( |
+| [alibaba/neug](https://github.com/alibaba/neug) | ⭐97 | C++ | High-performance embedded graph database for analytics and real-time t |
+| [NVIDIA/l2fwd-nv](https://github.com/NVIDIA/l2fwd-nv) | ⭐90 | C++ | l2fwd-nv provides an example of how to leverage your DPDK network appl |
+| [PaddlePaddle/PaddleDTX](https://github.com/PaddlePaddle/PaddleDTX) | ⭐88 | Go | Paddle with Decentralized Trust based on Xuperchain |
+| [OpenGVLab/Awesome-DragGAN](https://github.com/OpenGVLab/Awesome-DragGAN) | ⭐82 | None | Awesome-DragGAN: A curated list of papers, tutorials, repositories rel |
+| [apple/ml-knowledge-conflicts](https://github.com/apple/ml-knowledge-conflicts) | ⭐78 | Python | Entity-Based Knowledge Conflicts in Question Answering. Code repo for  |
+| [THUDM/SelfKG](https://github.com/THUDM/SelfKG) | ⭐75 | Python | Codes for WWW2022 accepted paper: SelfKG: Self-Supervised Entity Align |
+| [THUDM/CogKR](https://github.com/THUDM/CogKR) | ⭐71 | Python | Source code and dataset for paper "Cognitive Knowledge Graph Reasoning |
+| [NVIDIA/multi-storage-client](https://github.com/NVIDIA/multi-storage-client) | ⭐71 | Python | Unified high-performance Python client for object and file stores. |
+| [openai/openai-knowledge-retrieval](https://github.com/openai/openai-knowledge-retrieval) | ⭐70 | Python | OS repo for Knowledge Retrieval starter kit |
+| [bytedance/cryostar](https://github.com/bytedance/cryostar) | ⭐67 | Python | Leveraging Structural Priors and Constraints for Cryo-EM Heterogeneous |
+| [huggingface/ai-blueprint](https://github.com/huggingface/ai-blueprint) | ⭐65 | Jupyter Notebook | A blueprint for AI development, focusing on applied examples of RAG, i |
+| [google-deepmind/xtr](https://github.com/google-deepmind/xtr) | ⭐64 | Jupyter Notebook | XTR: Rethinking the Role of Token Retrieval in Multi-Vector Retrieval |
+| [OpenBMB/ParamMute](https://github.com/OpenBMB/ParamMute) | ⭐60 | Python | ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval- |
+| [apple/ml-fct](https://github.com/apple/ml-fct) | ⭐55 | Python | Research publication code for "Forward Compatible Training for Large-S |
+| [langchain-ai/langchain-milvus](https://github.com/langchain-ai/langchain-milvus) | ⭐54 | Python | The LangChain wrapper of Milvus vector database for efficient vector s |
+| [TencentARC/BEBR](https://github.com/TencentARC/BEBR) | ⭐45 | Python | Official code for "Binary embedding based retrieval at Tencent" |
+| [NVIDIA/cuEmbed](https://github.com/NVIDIA/cuEmbed) | ⭐45 | Cuda | CUDA Embedding Lookup Kernel Library |
+| [bytedance/BytevalKit-Emb](https://github.com/bytedance/BytevalKit-Emb) | ⭐42 | Python | BytevalKit-Emb is a modular embedding model evaluation framework that  |
+| [OpenBMB/MoRE](https://github.com/OpenBMB/MoRE) | ⭐41 | Python | [SIGIR '26] Mixture-of-Retrieval Experts for Reasoning-Guided Multimod |
+| [Tencent/vectordatabase-sdk-python](https://github.com/Tencent/vectordatabase-sdk-python) | ⭐40 | Python | Tencent VectorDB Python SDK |
+| [alibaba/vector-accelerating-unit](https://github.com/alibaba/vector-accelerating-unit) | ⭐36 | C++ | vector accelerating unit |
+| [intel/accelerator-solution-zoo](https://github.com/intel/accelerator-solution-zoo) | ⭐31 | C | Intel accelerators Zoo, like one of its solution Intel® Vector Data St |
+| [apple/ml-acn-embed](https://github.com/apple/ml-acn-embed) | ⭐29 | Python | Acoustic Neighbor Embeddings |
+| [OpenBMB/DEBATER](https://github.com/OpenBMB/DEBATER) | ⭐28 | Python | This is the code repo for our paper "Learning More Effective Represent |
+| [OpenBMB/UltraLink](https://github.com/OpenBMB/UltraLink) | ⭐28 | Python | An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning  |
+| [OpenBMB/RAG-DDR](https://github.com/OpenBMB/RAG-DDR) | ⭐24 | Python | This is the code repo for the paper "RAG-DDR: Optimizing Retrieval-Aug |
+| [apple/ml-kge](https://github.com/apple/ml-kge) | ⭐24 | Python | Multilingual Knowledge Graph Enhancement (EMNLP 2023) |
+| [NVIDIA/5t5g](https://github.com/NVIDIA/5t5g) | ⭐23 | C++ | This project shows how to leverage your DPDK network application with  |
+| [Tencent/vectordatabase-sdk-java](https://github.com/Tencent/vectordatabase-sdk-java) | ⭐22 | Java | Tencent VectorDB Java SDK |
+| [intel/Enterprise-RAG](https://github.com/intel/Enterprise-RAG) | ⭐20 | Python | Intel® AI for Enterprise RAG converts enterprise data into actionable  |
+| [huggingface/ember](https://github.com/huggingface/ember) | ⭐19 | Python | ANE accelerated embedding models! |
+| [Tencent/nf-tencentcloud](https://github.com/Tencent/nf-tencentcloud) | ⭐18 | Java | nf-tencentcloud is a nextflow plugin designed to add Tencent Cloud Obj |
+| [NVIDIA/nvmesh-kernel](https://github.com/NVIDIA/nvmesh-kernel) | ⭐18 | C | NVMesh by NVIDIA provides remote shared storage facilities with in-ser |
+| [NVIDIA/nv-embedding-cache](https://github.com/NVIDIA/nv-embedding-cache) | ⭐18 | C++ | Fast hierarchical embedding cache for recommenders |
+| [facebook/bookworm](https://github.com/facebook/bookworm) | ⭐18 | Ruby | Bookworm is a program that gleans context from a Chef/Ruby codebase le |
+| [Tencent/vectordatabase-sdk-go](https://github.com/Tencent/vectordatabase-sdk-go) | ⭐17 | Go | Tencent VectorDB Golang SDK |
+| [alibaba/SimCSE-with-CARDS](https://github.com/alibaba/SimCSE-with-CARDS) | ⭐16 | Python | Source code for SIGIR 2022 paper.  |
+| [intel/document-automation](https://github.com/intel/document-automation) | ⭐16 | Python | Document Automation Reference Kit |
+| [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) | ⭐13 | C++ | A modular framework for evaluating disk-based vector search, enabling  |

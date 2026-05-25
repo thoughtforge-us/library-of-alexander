@@ -1,5 +1,5 @@
 # 🔬 RE: infiniflow/ragflow
-> Node: nexus | 2026-05-25T10:07:43.403551+00:00 UTC
+> Node: nexus | 2026-05-25T14:07:54.373151+00:00 UTC
 
 ## Quality: 🟡 5/10
 
@@ -10,7 +10,7 @@
 | Test Files | 0 |
 | Max Lines | 314 |
 | Avg Lines | 113 |
-| README | 414 lines |
+| README | 415 lines |
 | License | ✅ |
 | Tests | ❌ |
 | CI/CD | ❌ |

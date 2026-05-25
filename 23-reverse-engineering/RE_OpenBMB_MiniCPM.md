@@ -1,16 +1,16 @@
 # 🔬 RE: OpenBMB/MiniCPM
-> Node: nexus | 2026-05-25T10:08:39.826215+00:00 UTC
+> Node: nexus | 2026-05-25T14:08:52.724095+00:00 UTC
 
 ## Quality: 🔴 3/10
 
 | Metric | Value |
 |--------|-------|
-| Files | 5 |
+| Files | 6 |
 | Python Files | 0 |
 | Test Files | 0 |
 | Max Lines | 0 |
 | Avg Lines | 0 |
-| README | 969 lines |
+| README | 1169 lines |
 | License | ✅ |
 | Tests | ❌ |
 | CI/CD | ❌ |

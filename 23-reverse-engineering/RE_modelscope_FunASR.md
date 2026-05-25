@@ -1,16 +1,16 @@
 # 🔬 RE: modelscope/FunASR
-> Node: nexus | 2026-05-25T10:07:26.263272+00:00 UTC
+> Node: nexus | 2026-05-25T14:07:36.181566+00:00 UTC
 
 ## Quality: 🔴 3/10
 
 | Metric | Value |
 |--------|-------|
-| Files | 15 |
-| Python Files | 1 |
+| Files | 16 |
+| Python Files | 2 |
 | Test Files | 0 |
-| Max Lines | 169 |
-| Avg Lines | 169 |
-| README | 236 lines |
+| Max Lines | 224 |
+| Avg Lines | 196 |
+| README | 240 lines |
 | License | ✅ |
 | Tests | ❌ |
 | CI/CD | ❌ |
@@ -24,10 +24,14 @@ None detected
 None
 
 ## Key Functions
-None
+- `normalize_zh`
+- `compute_cer`
+- `vad_segment`
+- `concat_results`
+- `run_pytorch`
 
 ## Languages
 | .md | 8 |
-| .py | 1 |
+| .py | 2 |
 | .html | 1 |
 | .yaml | 1 |

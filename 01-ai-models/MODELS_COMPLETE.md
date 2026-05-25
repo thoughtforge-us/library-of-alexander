@@ -336,3 +336,59 @@ Small Models (<10B):
 | [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | ⭐12661 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | ⭐11720 | Python | Retrieval and Retrieval-augmented LLMs |
 | [bytedance/trae-agent](https://github.com/bytedance/trae-agent) | ⭐11585 | Python | Trae Agent is an LLM-based agent for general purpose software engineer |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 14:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) | ⭐11544 | Python | Qwen3-TTS is an open-source series of TTS models developed by the Qwen |
+| [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) | ⭐10856 | Python | Large Language Model Text Generation Inference |
+| [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) | ⭐10808 | Jupyter Notebook | Official inference library for Mistral models |
+| [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) | ⭐10803 | None | Kimi K2 is the large language model series developed by Moonshot AI te |
+| [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | ⭐10766 | Rust | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Producti |
+| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | ⭐10727 | TypeScript | The open source codebase powering HuggingChat |
+| [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) | ⭐10040 | Python | [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative |
+| [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) | ⭐9924 | C++ |  A high-performance distributed file system designed to address the ch |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | ⭐9846 | Python | An Open-Source Asynchronous Coding Agent |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | ⭐9691 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | ⭐9664 | Cuda | DeepEP: an efficient expert-parallel communication library |
+| [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | ⭐8943 | Jupyter Notebook | MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful. |
+| [intel/ipex-llm](https://github.com/intel/ipex-llm) | ⭐8811 | Python | Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | ⭐8733 | Python | Kimi Code CLI is your next CLI agent. |
+| [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) | ⭐8532 | Python | An Autonomous LLM Agent for Complex Task Solving |
+| [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) | ⭐8218 | Python | Multilingual Voice Understanding Model |
+| [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) | ⭐7998 | None | Production-tested AI infrastructure tools for efficient AGI developmen |
+| [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) | ⭐7927 | Python | Qwen-Image is a powerful image generation foundation model capable of  |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | ⭐7902 | Python | the LLM vulnerability scanner |
+| [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) | ⭐7871 | Python | LMDeploy is a toolkit for compressing, deploying, and serving LLMs. |
+| [01-ai/Yi](https://github.com/01-ai/Yi) | ⭐7821 | Jupyter Notebook | A series of large language models trained from scratch by developers @ |
+| [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) | ⭐7717 | Python | The official repository for ERNIE 4.5 and ERNIEKit – its industrial-gr |
+| [meta-llama/llama-models](https://github.com/meta-llama/llama-models) | ⭐7613 | Python | Utilities intended for use with Llama models. |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | ⭐7293 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scali |
+| [InternLM/InternLM](https://github.com/InternLM/InternLM) | ⭐7210 | Python | Official release of InternLM series (InternLM, InternLM2, InternLM2.5, |
+| [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) | ⭐6946 | Makefile | DeepSeek LLM: Let there be answers |
+| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | ⭐6861 | JavaScript | 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perple |
+| [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | ⭐6780 | None | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Cod |
+| [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) | ⭐6743 | Rich Text Format |  |
+| [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) | ⭐6655 | Python | The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision  |
+| [run-llama/rags](https://github.com/run-llama/rags) | ⭐6535 | Python | Build ChatGPT over your data, all with natural language |
+| [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) | ⭐6414 | C++ | Transformer related optimization, including BERT, GPT |
+| [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) | ⭐5921 | Python | [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and |
+| [THUDM/slime](https://github.com/THUDM/slime) | ⭐5773 | Python | slime is an LLM post-training framework for RL Scaling. |
+| [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) | ⭐5658 | Python | A large-scale 7B pretraining language model developed by BaiChuan-Inc. |
+| [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) | ⭐5652 | Python | [ICLR'24 spotlight] An open platform for training, serving, and evalua |
+| [modelscope/FunClip](https://github.com/modelscope/FunClip) | ⭐5637 | Python | Open-source, accurate and easy-to-use video speech recognition & clipp |
+| [huggingface/alignment-handbook](https://github.com/huggingface/alignment-handbook) | ⭐5605 | Python | Robust recipes to align language models with human and AI preferences |
+| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | ⭐5557 | Python | A Low-Code MCP Framework for Building Complex and Innovative RAG Pipel |
+| [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) | ⭐5454 | TypeScript | 📃 A better UX for chat, writing content, and coding with LLMs. |
+| [deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) | ⭐5286 | Python | DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced M |
+| [google-deepmind/gemma](https://github.com/google-deepmind/gemma) | ⭐5264 | Python | Gemma open-weight LLM library, from Google DeepMind |
+| [run-llama/liteparse](https://github.com/run-llama/liteparse) | ⭐5217 | Rust | A fast, helpful, and open-source document parser |
+| [InternLM/xtuner](https://github.com/InternLM/xtuner) | ⭐5136 | Python | A Next-Generation Training Engine Built for Ultra-Large MoE Models |
+| [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) | ⭐5040 | JavaScript | 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LL |
+| [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) | ⭐5007 | None | DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts La |
+| [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) | ⭐4958 | Python | A lightweight data processing framework built on DuckDB and 3FS. |
+| [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) | ⭐4951 | Python | Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Poi |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | ⭐4883 | Python | A framework for efficient model inference with omni-modality models |
+| [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | ⭐4828 | Go | Cost-efficient and pluggable Infrastructure components for GenAI infer |

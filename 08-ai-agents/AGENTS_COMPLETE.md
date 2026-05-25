@@ -257,3 +257,59 @@ Agent Frameworks:
 | [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) | ⭐851 | Python | Starter app to build with OpenAI ChatKit + Agent Builder |
 | [openai/multiagent-competition](https://github.com/openai/multiagent-competition) | ⭐836 | Python |  Code for the paper "Emergent Complexity via Multi-agent Competition" |
 | [google-deepmind/meltingpot](https://github.com/google-deepmind/meltingpot) | ⭐836 | Python | A suite of test scenarios for multi-agent reinforcement learning. |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 14:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [openai/openai-testing-agent-demo](https://github.com/openai/openai-testing-agent-demo) | ⭐764 | TypeScript | Demo of a UI testing agent using the OpenAI CUA model and the Response |
+| [langchain-ai/react-agent](https://github.com/langchain-ai/react-agent) | ⭐745 | Python | LangGraph template for a simple ReAct agent |
+| [langchain-ai/deep-agents-from-scratch](https://github.com/langchain-ai/deep-agents-from-scratch) | ⭐693 | Jupyter Notebook |  |
+| [huggingface/upskill](https://github.com/huggingface/upskill) | ⭐650 | Python | Generate and evaluate agent skills for code agents like Claude Code, O |
+| [langchain-ai/agentevals](https://github.com/langchain-ai/agentevals) | ⭐601 | Python | Readymade evaluators for agent trajectories |
+| [langchain-ai/agent-protocol](https://github.com/langchain-ai/agent-protocol) | ⭐593 | Python |  |
+| [alibaba/one-java-agent](https://github.com/alibaba/one-java-agent) | ⭐578 | Java |  |
+| [NVIDIA/skills](https://github.com/NVIDIA/skills) | ⭐548 | Python | AI agent skills published by NVIDIA |
+| [langchain-ai/langgraph-bigtool](https://github.com/langchain-ai/langgraph-bigtool) | ⭐539 | Python | Build LangGraph agents with large numbers of tools |
+| [google-deepmind/dqn_zoo](https://github.com/google-deepmind/dqn_zoo) | ⭐501 | Python | DQN Zoo is a collection of reference implementations of reinforcement  |
+| [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai) | ⭐495 | None | A curated list of open-source projects built by the CrewAI community.  |
+| [langchain-ai/deepagents-quickstarts](https://github.com/langchain-ai/deepagents-quickstarts) | ⭐469 | Jupyter Notebook | REPO MOVED |
+| [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) | ⭐463 | Python | Basic constrained RL agents used in experiments for the "Benchmarking  |
+| [langchain-ai/memory-agent](https://github.com/langchain-ai/memory-agent) | ⭐441 | Python |  |
+| [google-deepmind/lab2d](https://github.com/google-deepmind/lab2d) | ⭐440 | C++ | A customisable 2D platform for agent-based AI research |
+| [langchain-ai/react-voice-agent](https://github.com/langchain-ai/react-voice-agent) | ⭐431 | HTML |  |
+| [InternLM/WildClawBench](https://github.com/InternLM/WildClawBench) | ⭐406 | Python | An in-the-wild benchmark for AI agents in the OpenClaw Environment. |
+| [langchain-ai/langgraphjs-gen-ui-examples](https://github.com/langchain-ai/langgraphjs-gen-ui-examples) | ⭐399 | TypeScript | A collection of generative UI agents written with LangGraph.js |
+| [Tencent/TPAT](https://github.com/Tencent/TPAT) | ⭐368 | Python | TensorRT Plugin Autogen Tool |
+| [bytedance/agentkit-samples](https://github.com/bytedance/agentkit-samples) | ⭐340 | Python | Awesome samples for Volcengine AgentKit Platform with VeADK. |
+| [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) | ⭐336 | Python | GDM Science Skills to speed up agentic scientific workflows with bette |
+| [THUDM/DeepDive](https://github.com/THUDM/DeepDive) | ⭐319 | Python | DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi |
+| [modelscope/motionagent](https://github.com/modelscope/motionagent) | ⭐311 | Python | MotionAgent is your AI assistent to convert ideas into motion pictures |
+| [langchain-ai/rag-research-agent-template](https://github.com/langchain-ai/rag-research-agent-template) | ⭐306 | Python |  |
+| [OpenBMB/AppCopilot](https://github.com/OpenBMB/AppCopilot) | ⭐296 | Python | A General, Accurate, Long-Horizon, and Efficient Mobile Agent driven b |
+| [THUDM/AgentRL](https://github.com/THUDM/AgentRL) | ⭐290 | Python | Scaling Agentic Reinforcement Learning with a Multi-Turn, Multi-Task F |
+| [openai/openai-voice-agent-sdk-sample](https://github.com/openai/openai-voice-agent-sdk-sample) | ⭐254 | TypeScript | Sample application to add voice capabilities to the Agents SDK |
+| [langchain-ai/data-enrichment](https://github.com/langchain-ai/data-enrichment) | ⭐231 | Jupyter Notebook | LangGraph Studio template for creating an agent that does web research |
+| [modelscope/ultron](https://github.com/modelscope/ultron) | ⭐219 | Python | Ultron: Collective Intelligence System — Shared Memories, Skills, and  |
+| [langchain-ai/langgraph-cua-py](https://github.com/langchain-ai/langgraph-cua-py) | ⭐207 | Python | An implementation of a computer use agent (CUA) using LangGraph |
+| [NVIDIA/metropolis-nim-workflows](https://github.com/NVIDIA/metropolis-nim-workflows) | ⭐198 | Jupyter Notebook | Collection of reference workflows for building intelligent agents with |
+| [alibaba/anolisa](https://github.com/alibaba/anolisa) | ⭐195 | TypeScript | ANOLISA - Agentic Nexus Operating Layer & Interface System Architectur |
+| [intel/gprofiler-performance-studio](https://github.com/intel/gprofiler-performance-studio) | ⭐193 | JavaScript | The local version of the backend and UI for the gProfiler agent, featu |
+| [openai/openai-support-agent-demo](https://github.com/openai/openai-support-agent-demo) | ⭐187 | TypeScript | Demo of a customer support agent interface using NextJS and the OpenAI |
+| [huggingface/jat](https://github.com/huggingface/jat) | ⭐187 | Python | General multi-task deep RL Agent |
+| [langchain-ai/create-agent-chat-app](https://github.com/langchain-ai/create-agent-chat-app) | ⭐180 | TypeScript | The quickest way to get started building a LangGraph app |
+| [NVIDIA/workbench-example-agentic-rag](https://github.com/NVIDIA/workbench-example-agentic-rag) | ⭐164 | Jupyter Notebook | An NVIDIA AI Workbench example project for an Agentic Retrieval Augmen |
+| [alibaba/nginx-http-user-agent](https://github.com/alibaba/nginx-http-user-agent) | ⭐163 | C | A nginx module to match browsers and crawlers |
+| [langchain-ai/retrieval-agent-template](https://github.com/langchain-ai/retrieval-agent-template) | ⭐162 | Python |  |
+| [Tencent/tat-agent](https://github.com/Tencent/tat-agent) | ⭐157 | Rust | TAT agent is an agent written in Rust, which run in CVM, Lighthouse or |
+| [huggingface/screensuite](https://github.com/huggingface/screensuite) | ⭐143 | Python | ScreenSuite - The most comprehensive benchmarking suite for GUI Agents |
+| [langchain-ai/openshell-deepagent](https://github.com/langchain-ai/openshell-deepagent) | ⭐140 | Python | A general-purpose coding agent that runs inside an NVIDIA OpenShell sa |
+| [NVIDIA/OpenShell-Community](https://github.com/NVIDIA/OpenShell-Community) | ⭐136 | Dockerfile | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [alibaba/iot_remote_access](https://github.com/alibaba/iot_remote_access) | ⭐135 | C | 阿里云IoT远程运维套装之远程访问设备侧源码 |
+| [01-ai/langcrew](https://github.com/01-ai/langcrew) | ⭐114 | Python | A high-level multi-agent development framework built on LangGraph, com |
+| [google-deepmind/dm_env_rpc](https://github.com/google-deepmind/dm_env_rpc) | ⭐109 | Python | A networking protocol for agent-environment communication |
+| [langchain-ai/react-agent-js](https://github.com/langchain-ai/react-agent-js) | ⭐106 | TypeScript |  |
+| [Tencent/SelfEvolvingAgent](https://github.com/Tencent/SelfEvolvingAgent) | ⭐100 | Python | Research works from Tencent AI Lab regarding self-evolving agents |
+| [alibaba/loongsuite-python-agent](https://github.com/alibaba/loongsuite-python-agent) | ⭐100 | Python |  |
+| [NVIDIA/NeMo-Agent-Toolkit-UI](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI) | ⭐99 | TypeScript | The NVIDIA NeMo Agent Toolkit UI streamlines interacting with NeMo Age |

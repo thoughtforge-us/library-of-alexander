@@ -209,4 +209,340 @@ Scratch: 0.0GB / 20GB
   deepseek-ai/DeepGEMM... 🔴 3/10
   deepseek-ai/DeepSeek-VL2... 🔴 2/10
   deepseek-ai/Janus... 🔴 3/10
+  deepseek-ai/DeepSeek-Coder-V2... [main b812d8c] 🔄 [nexus] Auto-update 2026-05-25 10:10 UTC — 110 files changed
+ 110 files changed, 4315 insertions(+)
+ create mode 100644 23-reverse-engineering/RE_01-ai_Yi.md
+ create mode 100644 23-reverse-engineering/RE_2noise_ChatTTS.md
+ create mode 100644 23-reverse-engineering/RE_AUTOMATIC1111_stable-diffusion-webui.md
+ create mode 100644 23-reverse-engineering/RE_Codium-ai_pr-agent.md
+ create mode 100644 23-reverse-engineering/RE_CompVis_stable-diffusion.md
+ create mode 100644 23-reverse-engineering/RE_FlagOpen_FlagEmbedding.md
+ create mode 100644 23-reverse-engineering/RE_FlowiseAI_Flowise.md
+ create mode 100644 23-reverse-engineering/RE_FoundationAgents_MetaGPT.md
+ create mode 100644 23-reverse-engineering/RE_FunAudioLLM_CosyVoice.md
+ create mode 100644 23-reverse-engineering/RE_FunAudioLLM_SenseVoice.md
+ create mode 100644 23-reverse-engineering/RE_HKUDS_LightRAG.md
+ create mode 100644 23-reverse-engineering/RE_InternLM_InternLM.md
+ create mode 100644 23-reverse-engineering/RE_Kwai-Kolors_Kolors.md
+ create mode 100644 23-reverse-engineering/RE_MiniMax-AI_MiniMax-M1.md
+ create mode 100644 23-reverse-engineering/RE_Mintplex-Labs_anything-llm.md
+ create mode 100644 23-reverse-engineering/RE_MoonshotAI_Kimi-K2.5.md
+ create mode 100644 23-reverse-engineering/RE_Mozilla-Ocho_llamafile.md
+ create mode 100644 23-reverse-engineering/RE_NousResearch_hermes-agent.md
+ create mode 100644 23-reverse-engineering/RE_OpenBMB_MiniCPM.md
+ create mode 100644 23-reverse-engineering/RE_OpenHands_OpenHands.md
+ create mode 100644 23-reverse-engineering/RE_QwenLM_Qwen3.md
+ create mode 100644 23-reverse-engineering/RE_SciPhi-AI_R2R.md
+ create mode 100644 23-reverse-engineering/RE_Shubhamsaboo_awesome-llm-apps.md
+ create mode 100644 23-reverse-engineering/RE_Significant-Gravitas_AutoGPT.md
+ create mode 100644 23-reverse-engineering/RE_Stability-AI_generative-models.md
+ create mode 100644 23-reverse-engineering/RE_THUDM_ChatGLM3.md
+ create mode 100644 23-reverse-engineering/RE_Tencent-Hunyuan_HunyuanImage-2.1.md
+ create mode 100644 23-reverse-engineering/RE_TencentARC_GFPGAN.md
+ create mode 100644 23-reverse-engineering/RE_TencentARC_InstantMesh.md
+ create mode 100644 23-reverse-engineering/RE_TencentARC_PhotoMaker.md
+ create mode 100644 23-reverse-engineering/RE_Wan-Video_Wan2.1.md
+ create mode 100644 23-reverse-engineering/RE_Wan-Video_Wan2.2.md
+ create mode 100644 23-reverse-engineering/RE_agno-agi_agno.md
+ create mode 100644 23-reverse-engineering/RE_anthropics_claude-cookbooks.md
+ create mode 100644 23-reverse-engineering/RE_baichuan-inc_Baichuan2.md
+ create mode 100644 23-reverse-engineering/RE_browser-use_browser-use.md
+ create mode 100644 23-reverse-engineering/RE_bytedance_deer-flow.md
+ create mode 100644 23-reverse-engineering/RE_comfyanonymous_ComfyUI.md
+ create mode 100644 23-reverse-engineering/RE_continuedev_continue.md
+ create mode 100644 23-reverse-engineering/RE_crewAIInc_crewAI.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_3FS.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepEP.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepGEMM.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-Coder-V2.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-Math-V2.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-OCR-2.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-OCR.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-Prover-V2.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-R1.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-V3.2-Exp.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-V3.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DeepSeek-VL2.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_DualPipe.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_EPLB.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_Engram.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_FlashMLA.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_Janus.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_TileKernels.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_awesome-deepseek-agent.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_open-infra-index.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_profile-data.md
+ create mode 100644 23-reverse-engineering/RE_deepseek-ai_smallpond.md
+ create mode 100644 23-reverse-engineering/RE_espressif_esp-claw.md
+ create mode 100644 23-reverse-engineering/RE_espressif_esp-dl.md
+ create mode 100644 23-reverse-engineering/RE_espressif_esp-dsp.md
+ create mode 100644 23-reverse-engineering/RE_firecrawl_firecrawl.md
+ create mode 100644 23-reverse-engineering/RE_ggerganov_llama.cpp.md
+ create mode 100644 23-reverse-engineering/RE_google_adk-python.md
+ create mode 100644 23-reverse-engineering/RE_hiyouga_LLaMA-Factory.md
+ create mode 100644 23-reverse-engineering/RE_huggingface_diffusers.md
+ create mode 100644 23-reverse-engineering/RE_infiniflow_ragflow.md
+ create mode 100644 23-reverse-engineering/RE_karpathy_autoresearch.md
+ create mode 100644 23-reverse-engineering/RE_langchain-ai_langchain.md
+ create mode 100644 23-reverse-engineering/RE_langflow-ai_langflow.md
+ create mode 100644 23-reverse-engineering/RE_langgenius_dify.md
+ create mode 100644 23-reverse-engineering/RE_letta-ai_letta.md
+ create mode 100644 23-reverse-engineering/RE_lllyasviel_ControlNet.md
+ create mode 100644 23-reverse-engineering/RE_lllyasviel_Fooocus.md
+ create mode 100644 23-reverse-engineering/RE_lobehub_lobehub.md
+ create mode 100644 23-reverse-engineering/RE_mastra-ai_mastra.md
+ create mode 100644 23-reverse-engineering/RE_mem0ai_mem0.md
+ create mode 100644 23-reverse-engineering/RE_microsoft_autogen.md
+ create mode 100644 23-reverse-engineering/RE_microsoft_graphrag.md
+ create mode 100644 23-reverse-engineering/RE_ml-explore_mlx.md
+ create mode 100644 23-reverse-engineering/RE_modelscope_FunASR.md
+ create mode 100644 23-reverse-engineering/RE_modelscope_ms-swift.md
+ create mode 100644 23-reverse-engineering/RE_msitarzewski_agency-agents.md
+ create mode 100644 23-reverse-engineering/RE_netease-youdao_EmotiVoice.md
+ create mode 100644 23-reverse-engineering/RE_oobabooga_text-generation-webui.md
+ create mode 100644 23-reverse-engineering/RE_open-webui_open-webui.md
+ create mode 100644 23-reverse-engineering/RE_openai_codex.md
+ create mode 100644 23-reverse-engineering/RE_openai_whisper.md
+ create mode 100644 23-reverse-engineering/RE_run-llama_llama_index.md
+ create mode 100644 23-reverse-engineering/RE_suno-ai_bark.md
+ create mode 100644 23-reverse-engineering/RE_thedotmack_claude-mem.md
+ create mode 100644 23-reverse-engineering/RE_truefoundry_cognita.md
+ create mode 100644 23-reverse-engineering/RE_vllm-project_vllm.md
+ create mode 100644 23-reverse-engineering/RE_weaviate_Verba.md
+ create mode 100644 AGENTS.md
+ create mode 100644 data/scrape.log
+To https://github.com/Danielhogben/library-of-alexander.git
+   9a22b67..b812d8c  main -> main
+🔴 2/10
+✅ RE complete: 20 repos analyzed
+📝 Updating knowledge base...
+  01-ai-models: +756 repos
+  08-ai-agents: +222 repos
+  04-image-generation: +226 repos
+  21-chinese-ai-ecosystem: +1129 repos
+  03-coding-tools: +24 repos
+  09-rag-knowledge: +121 repos
+  10-local-llms: +18 repos
+  24-esp-embedded-ai: +53 repos
+  06-audio-music: +89 repos
+  05-video-generation: +111 repos
+✅ Knowledge base updated: 2749 new repos written
+📤 Pushing to git...
+✅ Pushed: 🔄 [nexus] Auto-update 2026-05-25 10:10 UTC — 110 files changed
+
+✅ Cycle complete in 601.8s
+   Scraped: 6456 | RE: 98
+   Scratch: 0.0GB
+=== Done ===
+=== 2026-05-25T14:00:01 UTC | Node: nexus ===
+
+============================================================
+🏛️ Library of Alexander — nexus
+Time: 2026-05-25T14:00:01.440756+00:00 UTC
+Scratch: 0.0GB / 20GB
+============================================================
+🔍 Scraping GitHub on nexus...
+  deepseek-ai: 34 repos
+  QwenLM: 42 repos
+  THUDM: 127 repos
+  InternLM: 47 repos
+  01-ai: 12 repos
+  MoonshotAI: 38 repos
+  MiniMax-AI: 25 repos
+  FunAudioLLM: 13 repos
+  OpenBMB: 74 repos
+  FlagOpen: 32 repos
+  PaddlePaddle: 108 repos
+  baichuan-inc: 10 repos
+  modelscope: 48 repos
+  TencentARC: 85 repos
+  Kwai-Kolors: 6 repos
+  Wan-Video: 4 repos
+  OpenGVLab: 93 repos
+  IDEA-CCNL: 14 repos
+  netease-youdao: 0 repos
+  stepfun-ai: 29 repos
+  ZhipuAI: 3 repos
+  Tencent: 268 repos
+  bytedance: 407 repos
+  alibaba: 536 repos
+  baidu: 123 repos
+  openai: 248 repos
+  meta-llama: 12 repos
+  microsoft: 0 repos
+  huggingface: 427 repos
+  stability-ai: 102 repos
+  vllm-project: 39 repos
+  langchain-ai: 239 repos
+  run-llama: 124 repos
+  crewAIInc: 32 repos
+  ggerganov: 0 repos
+  comfyanonymous: 0 repos
+  lllyasviel: 0 repos
+  google-deepmind: 389 repos
+  anthropic: 0 repos
+  mistralai: 25 repos
+  xai: 0 repos
+  nvidia: 723 repos
+  intel: 1334 repos
+  apple: 414 repos
+  facebook: 172 repos
+  llm: 0 new repos
+  chinese_ai: 0 new repos
+  image_gen: 0 new repos
+  video_gen: 0 new repos
+  audio_tts: 0 new repos
+  music_gen: 0 new repos
+  ai_agent: 0 new repos
+  rag: 0 new repos
+  coding_ai: 0 new repos
+  local_llm: 0 new repos
+  fine_tuning: 0 new repos
+  embedding: 0 new repos
+  multimodal: 0 new repos
+  robotics_ai: 0 new repos
+  edge_ai: 0 new repos
+  mcp: 0 new repos
+  esp32_ai: 0 new repos
+  embedded_ai: 0 new repos
+  distributed_ai: 0 new repos
+  ai_infrastructure: 0 new repos
+  prompt_engineering: 0 new repos
+  ai_security: 0 new repos
+  ai_hardware: 0 new repos
+  open_source_ai: 0 new repos
+  ai_tools: 0 new repos
+  ai_automation: 0 new repos
+  computer_vision: 0 new repos
+  nlp: 0 new repos
+  speech_recognition: 0 new repos
+  voice_cloning: 0 new repos
+  image_editing: 0 new repos
+  upscale: 0 new repos
+  3d_generation: 0 new repos
+  ai_search: 0 new repos
+  ai_database: 0 new repos
+  ai_monitoring: 0 new repos
+  ai_deployment: 0 new repos
+  ai_evaluation: 0 new repos
+  ai_framework: 0 new repos
+  ai_platform: 0 new repos
+  ai_startup: 0 new repos
+  ai_education: 0 new repos
+  ai_book: 0 new repos
+  ai_dataset: 0 new repos
+  ai_model_hub: 0 new repos
+  ai_api: 0 new repos
+  ai_cli: 0 new repos
+  ai_gui: 0 new repos
+  ai_notebook: 0 new repos
+  ai_docker: 0 new repos
+  ai_kubernetes: 0 new repos
+✅ Scraped 6458 unique repos
+🔬 Reverse engineering 82 repos on nexus...
+  langchain-ai/langchain... 🔴 2/10
+  run-llama/llama_index... 🔴 3/10
+  crewAIInc/crewAI... 🔴 4/10
+  microsoft/autogen... 🔴 3/10
+  google/adk-python... 🔴 3/10
+  letta-ai/letta... 🔴 4/10
+  agno-agi/agno... 🔴 2/10
+  mastra-ai/mastra... 🔴 2/10
+  bytedance/deer-flow... 🔴 3/10
+  FoundationAgents/MetaGPT... 🔴 4/10
+  NousResearch/hermes-agent... 🔴 4/10
+  msitarzewski/agency-agents... 🔴 3/10
+  Significant-Gravitas/AutoGPT... 🔴 3/10
+  OpenHands/OpenHands... 🔴 3/10
+  mem0ai/mem0... 🔴 3/10
+  thedotmack/claude-mem... 🔴 3/10
+  hiyouga/LLaMA-Factory... 🔴 3/10
+  modelscope/ms-swift... 🔴 3/10
+  huggingface/diffusers... 🔴 3/10
+  comfyanonymous/ComfyUI... 🔴 3/10
+  lllyasviel/ControlNet... 🔴 4/10
+  lllyasviel/Fooocus... 🔴 2/10
+  Stability-AI/generative-models... 🔴 2/10
+  CompVis/stable-diffusion... 🔴 3/10
+  AUTOMATIC1111/stable-diffusion-webui... 🔴 3/10
+  Wan-Video/Wan2.1... 🔴 2/10
+  Wan-Video/Wan2.2... 🔴 2/10
+  THUDM/CogVideoX... SKIP (clone failed)
+  TencentARC/GFPGAN... 🔴 4/10
+  TencentARC/PhotoMaker... 🔴 4/10
+  TencentARC/InstantMesh... 🔴 4/10
+  Kwai-Kolors/Kolors... 🔴 3/10
+  Tencent-Hunyuan/HunyuanImage-2.1... 🔴 3/10
+  openai/whisper... 🔴 3/10
+  suno-ai/bark... 🔴 3/10
+  FunAudioLLM/CosyVoice... 🔴 4/10
+  FunAudioLLM/F5-TTS... SKIP (clone failed)
+  2noise/ChatTTS... 🔴 3/10
+  FunAudioLLM/SenseVoice... 🔴 4/10
+  modelscope/FunASR... 🔴 3/10
+  netease-youdao/EmotiVoice... 🟡 5/10
+  ggerganov/llama.cpp... 🔴 3/10
+  vllm-project/vllm... 🔴 3/10
+  oobabooga/text-generation-webui... 🔴 2/10
+  Mozilla-Ocho/llamafile... 🔴 2/10
+  ml-explore/mlx... 🔴 4/10
+  infiniflow/ragflow... 🟡 5/10
+  HKUDS/LightRAG... 🔴 4/10
+  microsoft/graphrag... 🔴 2/10
+  weaviate/Verba... 🔴 4/10
+  SciPhi-AI/R2R... 🔴 2/10
+  truefoundry/cognita... 🔴 3/10
+  FlagOpen/FlagEmbedding... 🔴 3/10
+  openai/codex... 🔴 2/10
+  anthropics/claude-cookbooks... 🔴 2/10
+  Codium-ai/pr-agent... 🔴 3/10
+  continuedev/continue... 🔴 2/10
+  sourcegraph/cody... SKIP (clone failed)
+  TabNine/tabnine-vscode... SKIP (clone failed)
+  langflow-ai/langflow... 🔴 3/10
+  langgenius/dify... 🔴 3/10
+  FlowiseAI/Flowise... 🔴 4/10
+  lobehub/lobehub... 🔴 4/10
+  Shubhamsaboo/awesome-llm-apps... 🔴 3/10
+  browser-use/browser-use... 🔴 4/10
+  firecrawl/firecrawl... 🔴 3/10
+  deepseek-ai/DeepSeek-V3... 🔴 2/10
+  deepseek-ai/DeepSeek-R1... 🔴 3/10
+  QwenLM/Qwen3... 🔴 2/10
+  THUDM/ChatGLM3... 🔴 3/10
+  OpenBMB/MiniCPM... 🔴 3/10
+  01-ai/Yi... 🔴 4/10
+  MoonshotAI/Kimi-K2.5... 🔴 3/10
+  MiniMax-AI/MiniMax-M1... 🔴 3/10
+  baichuan-inc/Baichuan2... 🔴 3/10
+  InternLM/InternLM... 🔴 3/10
+  espressif/esp-dl... 🔴 3/10
+  espressif/esp-dsp... 🔴 2/10
+  espressif/esp-claw... 🔴 3/10
+  open-webui/open-webui... 🔴 4/10
+  Mintplex-Labs/anything-llm... 🔴 3/10
+  karpathy/autoresearch... 🔴 1/10
+✅ RE complete: 78 repos analyzed
+
+🔬 RE 916 newly discovered high-star repos...
+🔬 Reverse engineering 20 repos on nexus...
+  deepseek-ai/awesome-deepseek-agent... 🔴 1/10
+  deepseek-ai/TileKernels... 🔴 2/10
+  deepseek-ai/DeepSeek-OCR-2... 🔴 3/10
+  deepseek-ai/Engram... 🔴 3/10
+  deepseek-ai/DeepSeek-Math-V2... 🔴 2/10
+  deepseek-ai/DeepSeek-OCR... 🔴 3/10
+  deepseek-ai/DeepSeek-V3.2-Exp... 🔴 3/10
+  deepseek-ai/DeepSeek-Prover-V2... 🔴 2/10
+  deepseek-ai/3FS... 🔴 3/10
+  deepseek-ai/DualPipe... 🔴 2/10
+  deepseek-ai/EPLB... 🔴 3/10
+  deepseek-ai/profile-data... 🔴 1/10
+  deepseek-ai/smallpond... 🔴 2/10
+  deepseek-ai/FlashMLA... 🔴 4/10
+  deepseek-ai/open-infra-index... 🔴 3/10
+  deepseek-ai/DeepEP... 🔴 3/10
+  deepseek-ai/DeepGEMM... 🔴 3/10
+  deepseek-ai/DeepSeek-VL2... 🔴 2/10
+  deepseek-ai/Janus... 🔴 3/10
   deepseek-ai/DeepSeek-Coder-V2... 
