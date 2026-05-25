@@ -605,3 +605,59 @@ The most popular fine-tuning toolkit in China.
 | [Tencent/VasDolly](https://github.com/Tencent/VasDolly) | ⭐3157 | Java | Android V1 and V2 Signature Channel Package Plugin |
 | [Tencent/behaviac](https://github.com/Tencent/behaviac) | ⭐3038 | C# | behaviac is a framework of the game AI development, and it also can be |
 | [alibaba/pont](https://github.com/alibaba/pont) | ⭐3029 | TypeScript | 🌉数据服务层解决方案 |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 18:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [Tencent/FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) | ⭐2971 | Python | 腾讯优图高精度双分支人脸检测器 |
+| [baidu/openrasp](https://github.com/baidu/openrasp) | ⭐2958 | C++ | 🔥Open source RASP solution |
+| [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) | ⭐2955 | Go | Sentinel Go enables reliability and resiliency for Go microservices |
+| [Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo) | ⭐2920 | C++ | Go AI program which implements the AlphaGo Zero paper |
+| [baidu/bfs](https://github.com/baidu/bfs) | ⭐2849 | C++ | The Baidu File System. |
+| [Tencent/MSEC](https://github.com/Tencent/MSEC) | ⭐2733 | Java | Mass Service Engine in Cluster(MSEC) is opened source by QQ team from  |
+| [alibaba/beidou](https://github.com/alibaba/beidou) | ⭐2729 | JavaScript | :milky_way: Isomorphic framework for server-rendered React apps |
+| [Tencent/UnLua](https://github.com/Tencent/UnLua) | ⭐2715 | C++ | A feature-rich, easy-learning and highly optimized Lua scripting plugi |
+| [baidu/Familia](https://github.com/baidu/Familia) | ⭐2647 | C++ | A Toolkit for Industrial Topic Modeling |
+| [bytedance/Elkeid](https://github.com/bytedance/Elkeid) | ⭐2641 | Go | Elkeid is an open source solution that can meet the security requireme |
+| [alibaba/jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater) | ⭐2624 | Java |  A Java server-side recording and playback solution based on JVM-Sandb |
+| [alibaba/kiwi](https://github.com/alibaba/kiwi) | ⭐2613 | TypeScript | 🐤 Kiwi-国际化翻译全流程解决方案 |
+| [Tencent/GameAISDK](https://github.com/Tencent/GameAISDK) | ⭐2611 | C++ | 基于图像的游戏AI自动化框架 |
+| [alibaba/tidevice](https://github.com/alibaba/tidevice) | ⭐2604 | Python |  tidevice can be used to communicate with iPhone device |
+| [alibaba/pipcook](https://github.com/alibaba/pipcook) | ⭐2591 | TypeScript | Machine learning platform for Web developers |
+| [baidu/AnyQ](https://github.com/baidu/AnyQ) | ⭐2578 | C++ | FAQ-based Question Answering System |
+| [alibaba/yugong](https://github.com/alibaba/yugong) | ⭐2520 | Java | 阿里巴巴去Oracle数据迁移同步工具(全量+增量,目标支持MySQL/DRDS) |
+| [bytedance/btrace](https://github.com/bytedance/btrace) | ⭐2500 | C++ | 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing  |
+| [bytedance/bhook](https://github.com/bytedance/bhook) | ⭐2498 | C | :fire: ByteHook is an Android PLT hook library which supports armeabi- |
+| [alibaba/tsar](https://github.com/alibaba/tsar) | ⭐2488 | C | Taobao System Activity Reporter |
+| [Tencent/phxsql](https://github.com/Tencent/phxsql) | ⭐2454 | C++ | A high availability MySQL cluster that guarantees data consistency bet |
+| [alibaba/TProfiler](https://github.com/alibaba/TProfiler) | ⭐2380 | Java | TProfiler是一个可以在生产环境长期使用的性能分析工具 |
+| [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector) | ⭐2347 | Objective-C++ | OOMDetector is a memory monitoring component for iOS which provides yo |
+| [alibaba/EasyRec](https://github.com/alibaba/EasyRec) | ⭐2326 | Python | A framework for large scale recommendation algorithms. |
+| [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) | ⭐2290 | C | :fire: ShadowHook is an Android inline hook library which supports thu |
+| [Tencent/MedicalNet](https://github.com/Tencent/MedicalNet) | ⭐2218 | Python | Many studies have shown that the performance on deep learning is signi |
+| [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) | ⭐2203 | C++ | Hardcoder is a solution which allows Android APP and Android System to |
+| [alibaba/async_simple](https://github.com/alibaba/async_simple) | ⭐2174 | C++ | Simple, light-weight and easy-to-use asynchronous components  |
+| [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) | ⭐2163 | Dart | UME is an in-app debug kits platform for Flutter. Produced by Flutter  |
+| [Tencent/tmt-workflow](https://github.com/Tencent/tmt-workflow) | ⭐2154 | CSS | A web developer workflow used by WeChat team based on Gulp, with cross |
+| [Tencent/tsf](https://github.com/Tencent/tsf) | ⭐2148 | PHP | coroutine and Swoole based php server framework in tencent |
+| [alibaba/loongcollector](https://github.com/alibaba/loongcollector) | ⭐2144 | C++ | Fast and Lightweight Observability Data Collector |
+| [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) | ⭐2143 | C++ | A light-weight RPC implement of google protobuf RPC framework. |
+| [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) | ⭐2133 | Java |  |
+| [alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs) | ⭐2131 | C++ | A collection of modern C++ libraries, include coro_http, coro_rpc, com |
+| [Tencent/TscanCode](https://github.com/Tencent/TscanCode) | ⭐2113 | C++ | A static code analyzer for C++, C#, Lua |
+| [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) | ⭐2099 | TypeScript | A Vue3.x UI components lib for TDesign. |
+| [alibaba/dubbo-spring-boot-starter](https://github.com/alibaba/dubbo-spring-boot-starter) | ⭐2080 | Java | Dubbo Spring Boot Starter |
+| [alibaba/uirecorder](https://github.com/alibaba/uirecorder) | ⭐2074 | JavaScript | UI Recorder is a  multi-platform UI test recorder. |
+| [alibaba/clusterdata](https://github.com/alibaba/clusterdata) | ⭐2066 | Jupyter Notebook | cluster data collected from production clusters in Alibaba for cluster |
+| [Tencent/InjectFix](https://github.com/Tencent/InjectFix) | ⭐2047 | C# | InjectFix is a hot-fix solution library for Unity |
+| [alibaba/LVS](https://github.com/alibaba/LVS) | ⭐2046 | C | A distribution of Linux Virtual Server with some advanced features. It |
+| [alibaba/AliceMind](https://github.com/alibaba/AliceMind) | ⭐2044 | Python | ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeN |
+| [Tencent/phxrpc](https://github.com/Tencent/phxrpc) | ⭐2043 | C++ | A simple C++ based RPC framework. |
+| [bytedance/gopkg](https://github.com/bytedance/gopkg) | ⭐2039 | Go | Universal Utilities for Go |
+| [Tencent/soter](https://github.com/Tencent/soter) | ⭐2015 | Java | A secure and quick biometric authentication standard and platform in A |
+| [baidu/Senta](https://github.com/baidu/Senta) | ⭐2013 | Python | Baidu's open-source Sentiment Analysis System. |
+| [Tencent/TubeMQ](https://github.com/Tencent/TubeMQ) | ⭐2005 | None | TubeMQ has been donated to the Apache Software Foundation and renamed  |
+| [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) | ⭐1994 | Python |  |
+| [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) | ⭐1991 | JavaScript |  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverle |

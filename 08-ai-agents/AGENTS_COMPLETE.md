@@ -313,3 +313,59 @@ Agent Frameworks:
 | [Tencent/SelfEvolvingAgent](https://github.com/Tencent/SelfEvolvingAgent) | ⭐100 | Python | Research works from Tencent AI Lab regarding self-evolving agents |
 | [alibaba/loongsuite-python-agent](https://github.com/alibaba/loongsuite-python-agent) | ⭐100 | Python |  |
 | [NVIDIA/NeMo-Agent-Toolkit-UI](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI) | ⭐99 | TypeScript | The NVIDIA NeMo Agent Toolkit UI streamlines interacting with NeMo Age |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 18:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [openai/ml-agents](https://github.com/openai/ml-agents) | ⭐88 | Python | Unity Machine Learning Agents Toolkit |
+| [baidu/cosui](https://github.com/baidu/cosui) | ⭐81 | TypeScript | A frontend UI solution for the AI era. Includes UI protocols, renderin |
+| [alibaba/UI-Ins](https://github.com/alibaba/UI-Ins) | ⭐74 | Python | Official implementation of UI-Ins: Enhancing GUI Grounding with Multi- |
+| [alibaba/loongsuite-java-agent](https://github.com/alibaba/loongsuite-java-agent) | ⭐73 | Java | Based on OpenTelemetry Java Instrumentation, open source parts of Alib |
+| [Tencent/WebAggregator](https://github.com/Tencent/WebAggregator) | ⭐68 | Python | [ACL 2026 Main Conference] WebAggregator |
+| [langchain-ai/oap-langgraph-tools-agent](https://github.com/langchain-ai/oap-langgraph-tools-agent) | ⭐67 | Python |  |
+| [THUDM/SWE-Dev](https://github.com/THUDM/SWE-Dev) | ⭐60 | Python | [ACL25' Findings] SWE-Dev is an SWE agent with a scalable test case co |
+| [langchain-ai/langsmith-cli](https://github.com/langchain-ai/langsmith-cli) | ⭐59 | Go | A coding agent-first CLI for interacting with LangSmith. |
+| [crewAIInc/crewAI-quickstarts](https://github.com/crewAIInc/crewAI-quickstarts) | ⭐59 | Jupyter Notebook | A comprehensive collection of CrewAI quickstarts and feature demos des |
+| [NVIDIA/voice-agent-examples](https://github.com/NVIDIA/voice-agent-examples) | ⭐55 | Python | Pipecat framework based orchestrator for building real-time, voice-ena |
+| [MiniMax-AI/minimax_search](https://github.com/MiniMax-AI/minimax_search) | ⭐54 | Python | MiniMax Search is an MCP (Model Context Protocol) server that provides |
+| [modelscope/ms-enclave](https://github.com/modelscope/ms-enclave) | ⭐52 | Python | A modular and stable agent sandbox runtime environment. |
+| [alibaba/open-agent-auth](https://github.com/alibaba/open-agent-auth) | ⭐52 | Java | An enterprise framework implementing the Agent Operation Authorization |
+| [crewAIInc/enterprise-mcp-server](https://github.com/crewAIInc/enterprise-mcp-server) | ⭐51 | Python | MCP Server for kicking off and getting status of your crew deployments |
+| [huggingface/ml-agents](https://github.com/huggingface/ml-agents) | ⭐49 | C# | Unity Machine Learning Agents Toolkit |
+| [langchain-ai/memory-agent-js](https://github.com/langchain-ai/memory-agent-js) | ⭐49 | TypeScript |  |
+| [NVIDIA/Quantum-Calibration-Agent-Blueprint](https://github.com/NVIDIA/Quantum-Calibration-Agent-Blueprint) | ⭐49 | TypeScript | This is a reference agent blueprint for AI-powered quantum device cali |
+| [langchain-ai/agent-inbox-langgraph-example](https://github.com/langchain-ai/agent-inbox-langgraph-example) | ⭐42 | Python | An example repository for getting started with the Agent Inbox and Lan |
+| [bytedance/GUI-ReWalk](https://github.com/bytedance/GUI-ReWalk) | ⭐41 | Python | The official code for "GUI-ReWalk: Massive Data Generation for GUI Age |
+| [langchain-ai/rag-research-agent-template-js](https://github.com/langchain-ai/rag-research-agent-template-js) | ⭐39 | TypeScript |  |
+| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | ⭐38 | Rust | Multi-language agent runtime for execution scope management, lifecycle |
+| [THUDM/SceneGenAgent](https://github.com/THUDM/SceneGenAgent) | ⭐37 | Python | [ACL 2025 Main] SceneGenAgent: Precise Industrial Scene Generation wit |
+| [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) | ⭐37 | Java |  |
+| [langchain-ai/langgraphjs-api](https://github.com/langchain-ai/langgraphjs-api) | ⭐37 | TypeScript | LangGraph.js CLI and in-memory server implementation |
+| [huggingface/context-course](https://github.com/huggingface/context-course) | ⭐34 | Python | A course on context engineering with code agents. |
+| [langchain-ai/agents-from-scratch-ts](https://github.com/langchain-ai/agents-from-scratch-ts) | ⭐34 | Jupyter Notebook | LangGraph Typescript Agents Notebooks: email, human in the loop, memor |
+| [huggingface/physics-intern](https://github.com/huggingface/physics-intern) | ⭐33 | Python | An agentic framework for solving scientific research problems |
+| [langchain-ai/langsmith-agent-lifecycle-workshop](https://github.com/langchain-ai/langsmith-agent-lifecycle-workshop) | ⭐33 | Jupyter Notebook | Workshop series teaching the AI Engineering Lifecycle using LangChain, |
+| [openai/signup-forms](https://github.com/openai/signup-forms) | ⭐32 | CSS | Code for the paper "World of Bits: An Open-Domain Platform for Web-Bas |
+| [langchain-ai/retrieval-agent-template-js](https://github.com/langchain-ai/retrieval-agent-template-js) | ⭐32 | TypeScript |  |
+| [langchain-ai/ambient-agent-101](https://github.com/langchain-ai/ambient-agent-101) | ⭐30 | Jupyter Notebook | Learn about the fundamentals of LangGraph through building an ambient  |
+| [NVIDIA/NeMo-Agent-Toolkit-Examples](https://github.com/NVIDIA/NeMo-Agent-Toolkit-Examples) | ⭐29 | Python | Community examples utilizing NVIDIA NeMo Agent Toolkit. |
+| [NVIDIA/fleet-intelligence-agent](https://github.com/NVIDIA/fleet-intelligence-agent) | ⭐27 | Go | NVIDIA Fleet Intelligence Agent - Host agent for GPU telemetry collect |
+| [crewAIInc/skills](https://github.com/crewAIInc/skills) | ⭐25 | None |  |
+| [crewAIInc/companies-powered-by-crewai](https://github.com/crewAIInc/companies-powered-by-crewai) | ⭐25 | None | A showcase of companies and platforms leveraging CrewAI to power their |
+| [intel/fffc](https://github.com/intel/fffc) | ⭐24 | Python | Easy-to-use tool which autogenerates a type-aware fuzzer from a debugg |
+| [NVIDIA/Nemotron-CORTEXA](https://github.com/NVIDIA/Nemotron-CORTEXA) | ⭐23 | Python | Nemotron-CORTEXA is an open-source software engineering agent that fix |
+| [01-ai/open-agentkit](https://github.com/01-ai/open-agentkit) | ⭐22 | None | Open-source alternative to OpenAI AgentKit — build, manage, and deploy |
+| [langchain-ai/agent-inbox-langgraphjs-example](https://github.com/langchain-ai/agent-inbox-langgraphjs-example) | ⭐22 | JavaScript | An example repository for getting started with the Agent Inbox and Lan |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | ⭐22 | Python | Security scanner for AI agent skills. Detect vulnerabilities, maliciou |
+| [OpenBMB/XAgent-doc](https://github.com/OpenBMB/XAgent-doc) | ⭐21 | None | Document for XAgent. |
+| [alibaba/tron-one-agent](https://github.com/alibaba/tron-one-agent) | ⭐21 | Java |  |
+| [crewAIInc/marketplace-crew-template](https://github.com/crewAIInc/marketplace-crew-template) | ⭐21 | Python |  |
+| [langchain-ai/fullstack-chat-client](https://github.com/langchain-ai/fullstack-chat-client) | ⭐20 | TypeScript | 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a ch |
+| [google-deepmind/agent_debugger](https://github.com/google-deepmind/agent_debugger) | ⭐20 | Python | Causal Analysis of Agent Behavior for AI Safety |
+| [crewAIInc/template_deep_research](https://github.com/crewAIInc/template_deep_research) | ⭐19 | Python |  |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | ⭐18 | TypeScript | The team harness for AI agents |
+| [alibaba/skill-up](https://github.com/alibaba/skill-up) | ⭐18 | Go | A CLI evaluation framework to make your Agent Skill Up. |
+| [alibaba/loongsuite-js-plugins](https://github.com/alibaba/loongsuite-js-plugins) | ⭐18 | TypeScript | OpenTelemetry instrumentation plugins for JavaScript-based AI coding a |
+| [alibaba/obz-cli](https://github.com/alibaba/obz-cli) | ⭐16 | Rust | Multi-backend observability CLI for metrics, logs, and traces — unifie |

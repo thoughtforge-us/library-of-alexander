@@ -392,3 +392,59 @@ Small Models (<10B):
 | [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) | ⭐4951 | Python | Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Poi |
 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | ⭐4883 | Python | A framework for efficient model inference with omni-modality models |
 | [vllm-project/aibrix](https://github.com/vllm-project/aibrix) | ⭐4828 | Go | Cost-efficient and pluggable Infrastructure components for GenAI infer |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 18:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) | ⭐4820 | Rust | A blazing fast inference solution for text embeddings models |
+| [MoonshotAI/Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio) | ⭐4641 | Python | Kimi-Audio, an open-source audio foundation model excelling in audio u |
+| [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) | ⭐4422 | Python | Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Lar |
+| [openai/harmony](https://github.com/openai/harmony) | ⭐4383 | Rust | Renderer for the harmony response format to be used with gpt-oss |
+| [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) | ⭐4283 | Python | Minimal CLI coding agent by Mistral |
+| [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) | ⭐4254 | TypeScript | Knowledge Agents and Management in the Cloud |
+| [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) | ⭐4237 | Python | Get a ChatGPT plugin up and running in under 5 minutes! |
+| [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | ⭐4214 | Go | System Level Intelligent Router for Mixture-of-Models at Cloud, Data C |
+| [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) | ⭐4192 | Python | Set of tools to assess and improve LLM security. |
+| [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory) | ⭐4135 | TypeScript | TencentDB Agent Memory delivers fully local long-term memory for AI Ag |
+| [deepseek-ai/DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) | ⭐4112 | Python | DeepSeek-VL: Towards Real-World Vision-Language Understanding |
+| [baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2) | ⭐4102 | Python | A series of large language models developed by Baichuan Intelligent Te |
+| [NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) | ⭐4029 | Jupyter Notebook | Generative AI reference workflows optimized for accelerated infrastruc |
+| [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) | ⭐4013 | Jupyter Notebook | Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba |
+| [huggingface/smollm](https://github.com/huggingface/smollm) | ⭐3788 | Python | Everything about the SmolLM and SmolVLM family of models  |
+| [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) | ⭐3781 | Jupyter Notebook | Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Q |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | ⭐3772 | Python | A full-stack AI Red Teaming platform securing AI ecosystems via OpenCl |
+| [PaddlePaddle/FastDeploy](https://github.com/PaddlePaddle/FastDeploy) | ⭐3686 | Python | High-performance Inference and Deployment Toolkit for LLMs and VLMs ba |
+| [THUDM/GLM](https://github.com/THUDM/GLM) | ⭐3501 | Python | GLM (General Language Model) |
+| [run-llama/llama-hub](https://github.com/run-llama/llama-hub) | ⭐3475 | Jupyter Notebook | A library of data loaders for LLMs made by the community -- to be used |
+| [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) | ⭐3472 | None |  |
+| [THUDM/AgentBench](https://github.com/THUDM/AgentBench) | ⭐3451 | Python | A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) |
+| [QwenLM/Qwen3.6](https://github.com/QwenLM/Qwen3.6) | ⭐3431 | None | Qwen3.6 is the large language model series developed by Qwen team, Ali |
+| [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) | ⭐3419 | Python | The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language |
+| [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | ⭐3339 | Python | [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! A |
+| [bytedance/lightseq](https://github.com/bytedance/lightseq) | ⭐3301 | C++ | LightSeq: A High Performance Library for Sequence Processing and Gener |
+| [deepseek-ai/DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) | ⭐3295 | Python | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Lan |
+| [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) | ⭐3284 | Python | Transformers-compatible library for applying various compression algor |
+| [openai/human-eval](https://github.com/openai/human-eval) | ⭐3239 | Python | Code for the paper "Evaluating Large Language Models Trained on Code" |
+| [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) | ⭐3203 | Python | InternGPT (iGPT) is an open source demo platform where you can easily  |
+| [alibaba/ROLL](https://github.com/alibaba/ROLL) | ⭐3173 | Python | An Efficient and User-Friendly Scaling Library for Reinforcement Learn |
+| [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) | ⭐3153 | Python | MiniMax-M1, the world's first open-weight, large-scale hybrid-attentio |
+| [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) | ⭐3091 | Python |  |
+| [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) | ⭐3080 | TypeScript | Data framework for your LLM applications. Focus on server side solutio |
+| [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) | ⭐3007 | Python | [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D G |
+| [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) | ⭐2954 | Python | A bidirectional pipeline parallelism algorithm for computation-communi |
+| [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) | ⭐2952 | TypeScript | Framework to build resilient language agents as graphs. |
+| [baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) | ⭐2931 | Python | A 13B large language model developed by Baichuan Intelligent Technolog |
+| [InternLM/InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) | ⭐2927 | Python | InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for  |
+| [deepseek-ai/DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2) | ⭐2877 | Python | Visual Causal Flow |
+| [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) | ⭐2869 | TypeScript | 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a ch |
+| [modelscope/evalscope](https://github.com/modelscope/evalscope) | ⭐2844 | Python | A streamlined and customizable framework for efficient large model (LL |
+| [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) | ⭐2775 | Python | Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins |
+| [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) | ⭐2749 | Python | Qwen3-ASR is an open-source series of ASR models developed by the Qwen |
+| [huggingface/nanotron](https://github.com/huggingface/nanotron) | ⭐2699 | Python | Minimalistic large language model 3D-parallelism training |
+| [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) | ⭐2655 | Python | A minimal yet professional single agent demo project that showcases th |
+| [intel/neural-compressor](https://github.com/intel/neural-compressor) | ⭐2644 | Python | SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & spar |
+| [run-llama/sec-insights](https://github.com/run-llama/sec-insights) | ⭐2598 | TypeScript | A real world full-stack application using LlamaIndex |
+| [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) | ⭐2594 | None | MiniMax-M2, a model built for Max coding & agentic workflows. |
+| [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) | ⭐2490 | Python | HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical  |

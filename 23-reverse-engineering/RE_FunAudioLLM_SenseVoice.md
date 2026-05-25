@@ -1,5 +1,5 @@
 # 🔬 RE: FunAudioLLM/SenseVoice
-> Node: nexus | 2026-05-25T14:07:33.688254+00:00 UTC
+> Node: nexus | 2026-05-25T18:07:32.933178+00:00 UTC
 
 ## Quality: 🔴 4/10
 
@@ -10,7 +10,7 @@
 | Test Files | 0 |
 | Max Lines | 930 |
 | Avg Lines | 173 |
-| README | 441 lines |
+| README | 460 lines |
 | License | ✅ |
 | Tests | ❌ |
 | CI/CD | ❌ |

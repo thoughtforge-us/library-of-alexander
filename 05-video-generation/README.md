@@ -126,3 +126,20 @@ _(Coming soon — being populated with deep research data.)_
 | [TencentARC/TransFusion](https://github.com/TencentARC/TransFusion) | ⭐10 | None | The code repo for the ACM MM paper: TransFusion: Multi-Modal Fusion fo |
 | [bytedance/tensorflow](https://github.com/bytedance/tensorflow) | ⭐7 | C++ | An Open Source Machine Learning Framework for Everyone |
 | [bytedance/cloud-hypervisor](https://github.com/bytedance/cloud-hypervisor) | ⭐6 | None | A rust-vmm based cloud hypervisor |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 18:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [google-deepmind/platonic_rep_video](https://github.com/google-deepmind/platonic_rep_video) | ⭐6 | Python |  |
+| [google-deepmind/video_comp](https://github.com/google-deepmind/video_comp) | ⭐6 | None |  |
+| [intel/Multi-channel-Video-Fusion-Reference-Implementation](https://github.com/intel/Multi-channel-Video-Fusion-Reference-Implementation) | ⭐6 | C++ | Multiple channel video fusion on Intel platform  |
+| [intel/Intel-Video-Transcode-Acceleration-Library-ffmpeg](https://github.com/intel/Intel-Video-Transcode-Acceleration-Library-ffmpeg) | ⭐6 | None |  |
+| [NVIDIA/comfy_nv_video_prep](https://github.com/NVIDIA/comfy_nv_video_prep) | ⭐4 | JavaScript | ComfyUI Node for easy video preparation making TTM use easy |
+| [huggingface/videodatasetsrecipe](https://github.com/huggingface/videodatasetsrecipe) | ⭐3 | Python |  |
+| [intel/Intel-Video-Transcode-Acceleration-Library-x264](https://github.com/intel/Intel-Video-Transcode-Acceleration-Library-x264) | ⭐3 | None |  |
+| [intel/fpga_ip_lvds_video](https://github.com/intel/fpga_ip_lvds_video) | ⭐3 | Tcl |  |
+| [intel/psb_video](https://github.com/intel/psb_video) | ⭐3 | C | Poulsbo Media Driver (Baytrail) |
+| [apple/ml-lvsum-video-summarization](https://github.com/apple/ml-lvsum-video-summarization) | ⭐1 | Python |  |
+| [bytedance/mpv](https://github.com/bytedance/mpv) | ⭐0 | None | 🎥 Command line video player |

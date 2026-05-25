@@ -220,3 +220,30 @@ Query → [Text + Image + Table] → Multi-Modal Embedding → Search → Augmen
 | [alibaba/SimCSE-with-CARDS](https://github.com/alibaba/SimCSE-with-CARDS) | ⭐16 | Python | Source code for SIGIR 2022 paper.  |
 | [intel/document-automation](https://github.com/intel/document-automation) | ⭐16 | Python | Document Automation Reference Kit |
 | [alibaba/DiskVecLab](https://github.com/alibaba/DiskVecLab) | ⭐13 | C++ | A modular framework for evaluating disk-based vector search, enabling  |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 18:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [NVIDIA/swift](https://github.com/NVIDIA/swift) | ⭐12 | Python | OpenStack Storage (Swift). Mirror of code maintained at opendev.org. |
+| [alibaba/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension](https://github.com/alibaba/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension) | ⭐11 | Python |  |
+| [NVIDIA/nvmesh-infra](https://github.com/NVIDIA/nvmesh-infra) | ⭐11 | Python | NVMesh by NVIDIA provides remote shared storage facilities with in-ser |
+| [NVIDIA/nvmesh-management](https://github.com/NVIDIA/nvmesh-management) | ⭐11 | JavaScript | NVMesh by NVIDIA provides remote shared storage facilities with in-ser |
+| [huggingface/tei-gaudi](https://github.com/huggingface/tei-gaudi) | ⭐10 | Rust | A blazing fast inference solution for text embeddings models |
+| [NVIDIA/nvmesh-documentation](https://github.com/NVIDIA/nvmesh-documentation) | ⭐10 | HTML | NVMesh by NVIDIA provides remote shared storage facilities with in-ser |
+| [NVIDIA/otk-shader-util](https://github.com/NVIDIA/otk-shader-util) | ⭐10 | None | Vector math and other CUDA helper functions for OptiX kernels |
+| [google-deepmind/compound_retrieval](https://github.com/google-deepmind/compound_retrieval) | ⭐8 | Jupyter Notebook |  |
+| [NVIDIA/nvmesh-upgrader](https://github.com/NVIDIA/nvmesh-upgrader) | ⭐7 | Python | NVMesh by NVIDIA provides remote shared storage facilities with in-ser |
+| [NVIDIA/nvmesh-interop-db](https://github.com/NVIDIA/nvmesh-interop-db) | ⭐7 | JavaScript | NVMesh by NVIDIA provides remote shared storage facilities with in-ser |
+| [NVIDIA/nvhashmap](https://github.com/NVIDIA/nvhashmap) | ⭐7 | C++ | High-performance, header-only C++ hashmap for accelerating embedding l |
+| [Tencent/vectordatabase-sdk-cpp](https://github.com/Tencent/vectordatabase-sdk-cpp) | ⭐5 | C++ |  |
+| [apple/ml-key-retrieval-code-tasks](https://github.com/apple/ml-key-retrieval-code-tasks) | ⭐5 | Python |  |
+| [huggingface/candle_wax](https://github.com/huggingface/candle_wax) | ⭐3 | Rust | A testing ground for candle storage generics. |
+| [NVIDIA/ovn-isolation-deployment](https://github.com/NVIDIA/ovn-isolation-deployment) | ⭐3 | None | Deployment and user guide of a service that leverages the Open Virtual |
+| [intel/csi-intel-rsd](https://github.com/intel/csi-intel-rsd) | ⭐3 | Go | Container Storage Interface (CSI) Driver for Intel® Rack Scale Design  |
+| [OpenGVLab/OV-OAD](https://github.com/OpenGVLab/OV-OAD) | ⭐2 | None | This repo takes the initial step towards leveraging text learning for  |
+| [alibaba/mteb](https://github.com/alibaba/mteb) | ⭐2 | None | MTEB: Massive Text Embedding Benchmark (Fork for contributing to mteb. |
+| [facebook/meta-embeds-for-wordpress](https://github.com/facebook/meta-embeds-for-wordpress) | ⭐2 | PHP | Official WordPress plugin for embedding Threads content. Simply paste  |
+| [huggingface/LIBERO](https://github.com/huggingface/LIBERO) | ⭐0 | Jupyter Notebook | Benchmarking Knowledge Transfer in Lifelong Robot Learning |
+| [intel/Intel-Optimized-Container-for-Embeddings](https://github.com/intel/Intel-Optimized-Container-for-Embeddings) | ⭐0 | Python |  |

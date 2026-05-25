@@ -217,3 +217,59 @@
 | [bytedance/X-Dyna](https://github.com/bytedance/X-Dyna) | ⭐268 | Python | [CVPR 2025 Highlight] X-Dyna: Expressive Dynamic Human Image Animation |
 | [OpenGVLab/MM-Interleaved](https://github.com/OpenGVLab/MM-Interleaved) | ⭐253 | Python | MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-m |
 | [huggingface/instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) | ⭐249 | Python | Code for instruction-tuning Stable Diffusion. |
+
+
+## 🆕 Auto-discovered nexus (2026-05-25 18:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [Tencent/CenseoQoE](https://github.com/Tencent/CenseoQoE) | ⭐241 | Python | image and video quality assessment |
+| [OpenGVLab/Diffree](https://github.com/OpenGVLab/Diffree) | ⭐240 | Python | Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model |
+| [huggingface/diffusion-fast](https://github.com/huggingface/diffusion-fast) | ⭐233 | Python | Faster generation with text-to-image diffusion models. |
+| [huggingface/OBELICS](https://github.com/huggingface/OBELICS) | ⭐214 | Python | Code used for the creation of OBELICS, an open, massive and curated co |
+| [google-deepmind/magiclens](https://github.com/google-deepmind/magiclens) | ⭐210 | Python | [ICML'24 Oral] "MagicLens: Self-Supervised Image Retrieval with Open-E |
+| [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) | ⭐205 | Python |  |
+| [Kwai-Kolors/MPS](https://github.com/Kwai-Kolors/MPS) | ⭐203 | Python |  |
+| [bytedance/Make-An-Audio-2](https://github.com/bytedance/Make-An-Audio-2) | ⭐195 | Python | a text-conditional diffusion probabilistic model capable of generating |
+| [NVIDIA/GMAT](https://github.com/NVIDIA/GMAT) | ⭐193 | C | A toolkit showing GPU's all-round capability in video processing |
+| [bytedance/UMO](https://github.com/bytedance/UMO) | ⭐189 | Python | [CVPR 2026] 🔥🔥  Official Repo of UMO: Scaling Multi-Identity Consisten |
+| [Stability-AI/diffusers](https://github.com/Stability-AI/diffusers) | ⭐178 | Python | 🤗 Diffusers: State-of-the-art diffusion models for image and audio gen |
+| [NVIDIA/3DObjectReconstruction](https://github.com/NVIDIA/3DObjectReconstruction) | ⭐171 | Python | 3D Object Reconstruction project is a workflow that takes a set of ste |
+| [huggingface/flux-fast](https://github.com/huggingface/flux-fast) | ⭐168 | Python | Making Flux go brrr on GPUs. |
+| [bytedance/SuperEdit](https://github.com/bytedance/SuperEdit) | ⭐165 | Python | [ICCV 2025] Code & Data for: SuperEdit - Rectifying and Facilitating S |
+| [TencentARC/MotionCrafter](https://github.com/TencentARC/MotionCrafter) | ⭐164 | Python | [CVPR 2026 Highlight🔥] MotionCrafter: Dense Geometry and Motion Recons |
+| [huggingface/chug](https://github.com/huggingface/chug) | ⭐161 | Python | Minimal sharded dataset loaders, decoders, and utils for multi-modal d |
+| [TencentARC/IC-Custom](https://github.com/TencentARC/IC-Custom) | ⭐160 | Python | [ICLR'26] IC-Custom: Diverse Image Customization via In-Context Learni |
+| [Kwai-Kolors/CoTyle](https://github.com/Kwai-Kolors/CoTyle) | ⭐160 | Python | 🎨 A Style is Worth One Code: Unlocking Code-to-Style Image Generation  |
+| [google-deepmind/md4](https://github.com/google-deepmind/md4) | ⭐160 | Python | Official Jax Implementation of MD4 Masked Diffusion Models |
+| [TencentARC/GenCompositor](https://github.com/TencentARC/GenCompositor) | ⭐156 | Python | [ICLR 2026] GenCompositor: Generative Video Compositing with Diffusion |
+| [THUDM/icetk](https://github.com/THUDM/icetk) | ⭐153 | Python | A unified tokenization tool for Images, Chinese and English. |
+| [NVIDIA/nvImageCodec](https://github.com/NVIDIA/nvImageCodec) | ⭐149 | Jupyter Notebook | A nvImageCodec library of GPU- and CPU- accelerated codecs featuring a |
+| [bytedance/LatentUnfold](https://github.com/bytedance/LatentUnfold) | ⭐144 | Python | Implementation of paper: Flux Already Knows – Activating Subject-Drive |
+| [NVIDIA/diffusion-audio-restoration](https://github.com/NVIDIA/diffusion-audio-restoration) | ⭐143 | Python | Audio-to-Audio Schrodinger Bridges is a diffusion-based audio restorat |
+| [google-deepmind/multidim-image-augmentation](https://github.com/google-deepmind/multidim-image-augmentation) | ⭐141 | C++ | This package provides TensorFlow Ops for multidimensional volumetric i |
+| [TencentARC/DI-PCG](https://github.com/TencentARC/DI-PCG) | ⭐138 | Python | Code release of our paper "DI-PCG: Diffusion-based Efficient Inverse P |
+| [modelscope/normal-depth-diffusion](https://github.com/modelscope/normal-depth-diffusion) | ⭐131 | Python |  |
+| [alibaba/esod](https://github.com/alibaba/esod) | ⭐131 | Python | [TIP 24] The offical implementation of Efficient Small Object Detectio |
+| [TencentARC/NVComposer](https://github.com/TencentARC/NVComposer) | ⭐129 | Python | [CVPR 2025] Boosting Generative Novel View Synthesis with Sparse and U |
+| [THUDM/CogKit](https://github.com/THUDM/CogKit) | ⭐127 | Python | Finetuning and inference tools for the CogView4 and CogVideoX model se |
+| [apple/ml-autofocusformer](https://github.com/apple/ml-autofocusformer) | ⭐126 | Python | This is an official implementation for "AutoFocusFormer: Image Segment |
+| [MiniMax-AI/MiniMax-MCP-JS](https://github.com/MiniMax-AI/MiniMax-MCP-JS) | ⭐125 | TypeScript | Official MiniMax Model Context Protocol (MCP) JavaScript implementatio |
+| [IDEA-CCNL/stable-diffusion-webui](https://github.com/IDEA-CCNL/stable-diffusion-webui) | ⭐115 | Python | Stable Diffusion web UI |
+| [OpenGVLab/PIIP](https://github.com/OpenGVLab/PIIP) | ⭐113 | Python | [NeurIPS 2024 Spotlight ⭐️ & TPAMI 2025] Parameter-Inverted Image Pyra |
+| [TencentARC/FluxKits](https://github.com/TencentARC/FluxKits) | ⭐110 | Python |  |
+| [apple/ml-flair](https://github.com/apple/ml-flair) | ⭐105 | Jupyter Notebook | A large labelled image dataset for benchmarking in federated learning |
+| [bytedance/DiffusionEngine](https://github.com/bytedance/DiffusionEngine) | ⭐91 | Python |  |
+| [TencentARC/Divot](https://github.com/TencentARC/Divot) | ⭐87 | Python | Diffusion Powers Video Tokenizer for Comprehension and Generation (CVP |
+| [bytedance/StyleSSP](https://github.com/bytedance/StyleSSP) | ⭐86 | Python | [CVPR 2025] StyleSSP: Sampling StartPoint Enhancement for Training-fre |
+| [NVIDIA/docker-swift](https://github.com/NVIDIA/docker-swift) | ⭐86 | Shell | Docker image for Swift all-in-one demo deployment |
+| [MiniMax-AI/MiniMax-Coding-Plan-MCP](https://github.com/MiniMax-AI/MiniMax-Coding-Plan-MCP) | ⭐83 | Python | Specialized MiniMax Model Context Protocol (MCP) server designed for c |
+| [Stability-AI/invisible-watermark-gpu](https://github.com/Stability-AI/invisible-watermark-gpu) | ⭐82 | Python | python library for invisible image watermark (blind image watermark) |
+| [bytedance/ID-Patch](https://github.com/bytedance/ID-Patch) | ⭐77 | Python | Official implementation of CVPR 2025 paper "ID-Patch: Robust ID Associ |
+| [OpenGVLab/DDPS](https://github.com/OpenGVLab/DDPS) | ⭐75 | Python | Official Implementation of "Denoising Diffusion Semantic Segmentation  |
+| [bytedance/DecompDiff](https://github.com/bytedance/DecompDiff) | ⭐74 | Python | The official implementation of DecompDiff: Diffusion Models with Decom |
+| [OpenGVLab/LCL](https://github.com/OpenGVLab/LCL) | ⭐72 | Python | [NeurIPS 2024] Vision Model Pre-training on Interleaved Image-Text Dat |
+| [google-deepmind/proactive_t2i_agents](https://github.com/google-deepmind/proactive_t2i_agents) | ⭐71 | Python | Code release for the paper, "Proactive Agents for Text-to-Image Genera |
+| [openai/dalle3-eval-samples](https://github.com/openai/dalle3-eval-samples) | ⭐69 | None | Text-to-image samples collected for the evaluation of DALL-E 3 in the  |
+| [huggingface/image_gen_aux](https://github.com/huggingface/image_gen_aux) | ⭐69 | Python | Set of auxiliary tools to use with image and video generation libaries |
+| [apple/ml-autofocusformer-segmentation](https://github.com/apple/ml-autofocusformer-segmentation) | ⭐69 | Python | This is an official implementation for "AutoFocusFormer: Image Segment |
