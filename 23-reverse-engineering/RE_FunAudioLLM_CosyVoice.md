@@ -1,38 +1,34 @@
-# 🔬 RE: FunAudioLLM/CosyVoice
-> Node: nexus | 2026-05-26T06:07:27.841611+00:00 UTC
+# CosyVoice — Reverse Engineering Analysis
 
-## Quality: 🔴 4/10
+**Repo**: github.com/FunAudioLLM/CosyVoice  
+**Stars**: 21,247  
+**Language**: Python  
+**Category**: TTS/Voice Generation
 
-| Metric | Value |
-|--------|-------|
-| Files | 10 |
-| Python Files | 3 |
-| Test Files | 0 |
-| Max Lines | 174 |
-| Avg Lines | 108 |
-| README | 275 lines |
-| License | ✅ |
-| Tests | ❌ |
-| CI/CD | ❌ |
-| Docker | ❌ |
-| Type Hints | ✅ |
+## Architecture
 
-## Patterns
-- WebUI
+CosyVoice is a multi-lingual large voice generation model from Alibaba, providing inference, training, and deployment capabilities.
 
-## Key Classes
-None
+## Key Design Patterns
 
-## Key Functions
-- `generate_seed`
-- `change_instruction`
-- `generate_audio`
-- `main`
-- `cosyvoice_example`
-- `cosyvoice2_example`
-- `cosyvoice3_example`
+1. **Multi-lingual** — Supports many languages
+2. **Flow matching** — Uses flow matching for generation
+3. **Zero-shot cloning** — Clone voices with minimal data
+4. **Training pipeline** — Full training pipeline included
+5. **Deployment tools** — Easy deployment options
 
-## Languages
-| .py | 3 |
-| .md | 3 |
-| .txt | 1 |
+## What We Can Learn
+
+- Multi-lingual support is essential for global use
+- Flow matching provides high-quality generation
+- Zero-shot cloning enables rapid deployment
+- Training pipeline enables customization
+- Deployment tools simplify production
+
+## Integration Ideas
+
+- Deploy CosyVoice on Luna for multi-lingual TTS
+- Use flow matching for high-quality output
+- Enable zero-shot cloning for quick setup
+- Add training pipeline for customization
+- Create deployment tools for production

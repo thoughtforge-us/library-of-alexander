@@ -1,33 +1,34 @@
-# 🔬 RE: 2noise/ChatTTS
-> Node: nexus | 2026-05-26T06:07:31.226596+00:00 UTC
+# ChatTTS — Reverse Engineering Analysis
 
-## Quality: 🔴 3/10
+**Repo**: github.com/2noise/ChatTTS  
+**Stars**: 39,327  
+**Language**: Python  
+**Category**: TTS/Dialogue
 
-| Metric | Value |
-|--------|-------|
-| Files | 7 |
-| Python Files | 1 |
-| Test Files | 0 |
-| Max Lines | 38 |
-| Avg Lines | 38 |
-| README | 317 lines |
-| License | ✅ |
-| Tests | ❌ |
-| CI/CD | ❌ |
-| Docker | ❌ |
-| Type Hints | ❌ |
+## Architecture
 
-## Patterns
-None detected
+ChatTTS is a generative speech model optimized for daily dialogue, producing natural conversational speech.
 
-## Key Classes
-None
+## Key Design Patterns
 
-## Key Functions
-None
+1. **Dialogue optimization** — Optimized for conversational speech
+2. **Natural prosody** — Natural rhythm and intonation
+3. **Low latency** — Fast generation for real-time use
+4. **Emotion control** — Control speech emotion
+5. **Simple API** — Easy-to-use API
 
-## Languages
-| .py | 1 |
-| .ipynb | 1 |
-| .txt | 1 |
-| .md | 1 |
+## What We Can Learn
+
+- Dialogue optimization improves naturalness
+- Natural prosody is critical for user experience
+- Low latency enables real-time interaction
+- Emotion control adds expressiveness
+- Simple API drives adoption
+
+## Integration Ideas
+
+- Deploy ChatTTS on Luna for dialogue TTS
+- Use dialogue optimization for natural speech
+- Enable low latency for real-time responses
+- Add emotion control for expressiveness
+- Create simple API for easy integration

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep structure, ignore large files)
+data/*.json
+data/*.log
+!data/.gitkeep
+
+# Scripts output
+scripts/output/
+*.tmp
+
+# Node (for any MCP tools)
+node_modules/
+package-lock.json

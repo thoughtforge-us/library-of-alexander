@@ -7,26 +7,28 @@
 
 ## Architecture
 
-CodeGate provides security, workspaces, and multiplexing for AI agentic frameworks. It acts as a security gateway between AI agents and external resources.
+CodeGate is a security gateway for AI agentic frameworks, providing security, workspaces, and multiplexing.
 
 ## Key Design Patterns
 
-1. **Security gateway** — All agent requests pass through CodeGate first
-2. **Workspace isolation** — Each agent runs in an isolated workspace
-3. **Multiplexing** — Multiple agents share a single LLM connection
-4. **Policy enforcement** — Rules for what agents can and cannot do
-5. **Audit logging** — All agent actions logged for security review
+1. **Security gateway** — All agent requests pass through CodeGate
+2. **Workspace isolation** — Each agent runs in isolated workspace
+3. **Multiplexing** — Multiple agents share single LLM connection
+4. **Policy enforcement** — Rules for agent behavior
+5. **Audit logging** — All actions logged for security review
 
 ## What We Can Learn
 
-- Security gateway pattern is essential for multi-agent systems
-- Workspace isolation prevents agents from interfering with each other
-- Multiplexing reduces LLM API costs
-- Policy enforcement is critical for autonomous agents
+- Security gateway is essential for multi-agent systems
+- Workspace isolation prevents cross-agent interference
+- Multiplexing reduces API costs
+- Policy enforcement prevents dangerous actions
+- Audit logging enables incident investigation
 
 ## Integration Ideas
 
-- Use CodeGate as a security layer for our Hermes fleet
-- Implement workspace isolation for OpenClaw agents
-- Add policy enforcement for belt-based access control
-- Audit logging for all agent actions across the fleet
+- Implement security gateway for our fleet
+- Add workspace isolation for agent safety
+- Use multiplexing to reduce API costs
+- Create policy enforcement for agent behavior
+- Enable audit logging for all agent actions

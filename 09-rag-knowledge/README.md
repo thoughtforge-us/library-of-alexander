@@ -36,3 +36,9 @@ _(Coming soon — being populated with deep research data.)_
 | [clidey/whodb](https://github.com/clidey/whodb) | A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Sea | ⭐4837 | Go |
 | [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) | Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation | ⭐582 | Shell |
 | [DataPupOrg/DataPup](https://github.com/DataPupOrg/DataPup) | A modern, AI-assisted, cross-platform database client - free | ⭐311 | TypeScript |
+
+## Newly Discovered — May 2026
+
+| Tool | Description | Stars | Language | Updated |
+|------|-------------|-------|----------|---------|
+| [Consensus MCP](https://mcp.consensus.app/mcp) | Search 200M+ peer-reviewed research papers via MCP. OAuth auth, study type filters, medical mode, Deep Research integration. Free tier: 10 papers/search, 30 searches/month. | — | API | 2026-05-26 |

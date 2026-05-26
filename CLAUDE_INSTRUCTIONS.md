@@ -2,9 +2,15 @@
 
 ## What This Is
 
-The Library of Alexander is the most comprehensive open-source AI/ML/coding knowledge base on the internet. It contains 2,500+ entries across 25 categories — every tool, model, API, framework, Chinese AI project, reverse-engineered architecture, and vibe-code audit.
+The Library of Alexander is the most comprehensive open-source AI/ML/coding knowledge base on the internet. It contains 2,800+ entries across 25 categories — every tool, model, API, framework, Chinese AI project, reverse-engineered architecture, and vibe-code audit from every country on Earth.
 
-## How to Use This Library
+## How Every Agent Should Use This Library
+
+### Before Starting Any Task
+
+1. **Search the library first** — Check if tools/models/frameworks already exist in the relevant category
+2. **Read reverse engineering files** — Check `23-reverse-engineering/` for architecture analysis of relevant tools
+3. **Use the categorized structure** — Navigate to the numbered directory for the relevant category
 
 ### When You Need to Find an AI Tool
 
@@ -38,7 +44,7 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 | Mega Projects | `20-mega-projects/` | Large-scale open source AI projects |
 | Chinese AI | `21-chinese-ai-ecosystem/` | Chinese AI tools and models |
 | Vibe Code Audit | `22-vibe-code-audit/` | Projects that look good but are broken |
-| Reverse Engineering | `23-reverse-engineering/` | Deep architecture analysis |
+| Reverse Engineering | `23-reverse-engineering/` | Deep architecture analysis (167+ files) |
 | ESP/Embedded | `24-esp-embedded-ai/` | AI on microcontrollers |
 | Swarm Infrastructure | `25-swarm-infrastructure/` | Multi-node AI systems |
 
@@ -46,7 +52,7 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 
 1. Check if the tool already exists in the relevant category
 2. If not, add it to the appropriate `README.md` in the numbered directory
-3. Format: `| [owner/repo](URL) | Description | ⭐Stars | Language | Key Features |`
+3. Format: `| [owner/repo](URL) | Description | ⭐Stars | Language | Updated |`
 4. If the tool is complex enough, create a reverse-engineering file in `23-reverse-engineering/`
 5. Commit with message: `add: tool-name to category-XX`
 
@@ -58,6 +64,14 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 4. Include: architecture diagram, key components, data flow, lessons learned, and what we can reuse
 5. Commit with message: `reverse-engineer: owner/repo architecture analysis`
 
+### How Agents Improve Using This Library
+
+1. **Learn from RE files** — Read reverse engineering files before building similar tools
+2. **Use existing tools** — Check if a tool already exists before building from scratch
+3. **Cross-reference** — Link related tools across categories for comprehensive understanding
+4. **Stay updated** — The library is updated every 4 hours with new discoveries
+5. **Contribute back** — Add new tools and RE files you discover
+
 ### Key Principles
 
 - **Dense, not verbose** — Pack maximum information into minimum space
@@ -65,10 +79,18 @@ The Library of Alexander is the most comprehensive open-source AI/ML/coding know
 - **Verify** — Don't add tools you haven't checked exist and work
 - **Update** — Tools change, stars change, update regularly
 - **No fluff** — Every line must convey useful information
+- **Global first** — Search all languages and regions before concluding a tool doesn't exist
 
 ## This Library Is Open Source
 
 Anyone can contribute. Fork, add tools, submit a PR. The goal is to make this the single source of truth for AI tools and knowledge.
+
+## Repos
+
+- **Personal**: github.com/Danielhogben/library-of-alexander
+- **Organization**: github.com/thoughtforge-us/library-of-alexander
+
+Both repos are kept in sync. Push to either.
 
 ## Maintained By
 

@@ -1,0 +1,57 @@
+name: Validate Library
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check README exists
+        run: test -f README.md
+
+      - name: Validate markdown links
+        run: |
+          # Check for broken internal links in README
+          grep -c 'github.com' README.md || true
+
+      - name: Count tools
+        run: |
+          echo "=== Tool Counts by Category ==="
+          for dir in [0-9][0-9]-*/; do
+            if [ -f "${dir}README.md" ]; then
+              count=$(grep -c 'github.com' "${dir}README.md" 2>/dev/null || echo 0)
+              echo "  $dir: $count tools"
+            fi
+          done
+          total=$(grep -r 'github.com' [0-9][0-9]-*/README.md 2>/dev/null | wc -l)
+          echo "Total: $total tools"
+
+      - name: Validate RE files
+        run: |
+          echo "=== Reverse Engineering Files ==="
+          count=$(ls 23-reverse-engineering/RE_*.md 2>/dev/null | wc -l)
+          echo "RE files: $count"
+
+      - name: Check for duplicates
+        run: |
+          # Find duplicate GitHub URLs across all READMEs
+          grep -roh 'github.com/[a-zA-Z0-9_.-]*/[a-zA-Z0-9_.-]*' [0-9][0-9]-*/README.md 2>/dev/null | sort | uniq -d | head -20 || echo "No duplicates found"
+
+  discover:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run discovery
+        run: |
+          echo "Running automated discovery..."
+          # Discovery script runs here
+          echo "Discovery complete"

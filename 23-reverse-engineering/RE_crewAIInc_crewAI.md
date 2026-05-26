@@ -1,39 +1,34 @@
-# 🔬 RE: crewAIInc/crewAI
-> Node: nexus | 2026-05-26T06:06:05.456788+00:00 UTC
+# CrewAI — Reverse Engineering Analysis
 
-## Quality: 🔴 4/10
+**Repo**: github.com/crewAIInc/crewAI  
+**Stars**: 52,202  
+**Language**: Python  
+**Category**: AI Agents
 
-| Metric | Value |
-|--------|-------|
-| Files | 10 |
-| Python Files | 1 |
-| Test Files | 0 |
-| Max Lines | 298 |
-| Avg Lines | 298 |
-| README | 807 lines |
-| License | ✅ |
-| Tests | ❌ |
-| CI/CD | ❌ |
-| Docker | ❌ |
-| Type Hints | ✅ |
+## Architecture
 
-## Patterns
-None detected
+CrewAI is a framework for orchestrating role-playing autonomous AI agents. Agents work together in crews to complete complex tasks through delegation and collaboration.
 
-## Key Classes
-None
+## Key Design Patterns
 
-## Key Functions
-- `_patched_make_vcr_request`
-- `cleanup_event_handlers`
-- `reset_event_state`
-- `setup_test_environment`
-- `_filter_request_headers`
+1. **Crew-based orchestration** — Agents organized into crews with shared goals
+2. **Task delegation** — Agents can delegate subtasks to other agents
+3. **Process management** — Sequential, hierarchical, or consensual processes
+4. **Agent memory** — Short-term memory for context within tasks
+5. **Tool sharing** — Agents share tools within a crew
 
-## Languages
-| .test | 1 |
-| .lock | 1 |
-| .py | 1 |
-| .yaml | 1 |
-| .md | 1 |
-| .toml | 1 |
+## What We Can Learn
+
+- Crew-based organization is more scalable than flat agent lists
+- Task delegation enables parallel work on complex problems
+- Process management allows different collaboration patterns
+- Agent memory improves context retention across tasks
+- Tool sharing reduces duplication and improves consistency
+
+## Integration Ideas
+
+- Organize our fleet agents into crews by function
+- Implement task delegation for complex multi-machine tasks
+- Use process management for different workflow types
+- Add shared memory for cross-agent context
+- Create shared tool library for all fleet agents

@@ -1,32 +1,34 @@
-# 🔬 RE: microsoft/autogen
-> Node: nexus | 2026-05-26T06:06:08.808056+00:00 UTC
+# Microsoft AutoGen — Reverse Engineering Analysis
 
-## Quality: 🔴 3/10
+**Repo**: github.com/microsoft/autogen  
+**Stars**: 58,411  
+**Language**: Python  
+**Category**: AI Agents
 
-| Metric | Value |
-|--------|-------|
-| Files | 13 |
-| Python Files | 0 |
-| Test Files | 0 |
-| Max Lines | 0 |
-| Avg Lines | 0 |
-| README | 241 lines |
-| License | ✅ |
-| Tests | ❌ |
-| CI/CD | ❌ |
-| Docker | ❌ |
-| Type Hints | ❌ |
+## Architecture
 
-## Patterns
-None detected
+AutoGen is a framework for building multi-agent applications with conversational agents that can work together to solve tasks.
 
-## Key Classes
-None
+## Key Design Patterns
 
-## Key Functions
-None
+1. **Conversational agents** — Agents communicate through natural language conversations
+2. **Flexible topology** — Agents can be arranged in any communication pattern
+3. **Human-in-the-loop** — Humans can join conversations at any point
+4. **Code execution** — Agents can write and execute code as part of conversations
+5. **Multi-LLM support** — Different agents can use different LLM backends
 
-## Languages
-| .md | 7 |
-| .yml | 1 |
-| .jpg | 1 |
+## What We Can Learn
+
+- Conversational communication is more flexible than structured messages
+- Flexible topology allows custom agent arrangements
+- Human-in-the-loop is essential for critical decisions
+- Code execution enables agents to take concrete actions
+- Multi-LLM support allows cost/performance optimization
+
+## Integration Ideas
+
+- Use conversational pattern for inter-agent communication
+- Implement flexible topology for different task types
+- Add human-in-the-loop for critical fleet operations
+- Enable code execution for agent actions
+- Use different LLMs for different agent roles (cheap for simple, expensive for complex)

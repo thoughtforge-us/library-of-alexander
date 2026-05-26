@@ -7,25 +7,28 @@
 
 ## Architecture
 
-IPEX-LLM accelerates local LLM inference on Intel hardware (CPU, GPU, XPU). It supports LLaMA, Mistral, Qwen, DeepSeek, and many other models.
+IPEX-LLM accelerates local LLM inference on Intel hardware (CPU, GPU, XPU) with transparent model patching.
 
 ## Key Design Patterns
 
 1. **Hardware-aware optimization** — Different optimizations for CPU vs GPU vs XPU
-2. **Quantization support** — INT4, INT8, and mixed precision
-3. **Model patching** — Transparently patches HuggingFace models for acceleration
-4. **Pipeline parallelism** — Splits large models across multiple devices
+2. **Transparent patching** — Patches HuggingFace models without code changes
+3. **Quantization support** — INT4, INT8, and mixed precision
+4. **Pipeline parallelism** — Splits models across multiple devices
 5. **Low-bit inference** — Runs large models on constrained hardware
 
 ## What We Can Learn
 
-- Hardware-aware optimization is critical for local LLM performance
-- Transparent model patching allows using existing model code
+- Hardware-aware optimization is critical for performance
+- Transparent patching allows using existing model code
 - Low-bit inference enables running large models on small hardware
 - Pipeline parallelism can distribute models across our fleet
+- Intel-specific optimizations can outperform generic solutions
 
 ## Integration Ideas
 
-- Use IPEX-LLM on Jupiter (Intel HD 630) for local LLM acceleration
-- Pipeline parallelism could split models across Jupiter + Nexus
-- Low-bit inference for Luna's Pi (ARM CPU optimization)
+- Deploy IPEX-LLM on Jupiter (Intel CPU + HD 630)
+- Use transparent patching for easy model switching
+- Apply low-bit inference for memory-constrained scenarios
+- Implement pipeline parallelism across Jupiter + Nexus
+- Benchmark against llama.cpp for Intel hardware
