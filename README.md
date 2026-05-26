@@ -38,7 +38,7 @@ This is not a link dump. This is a **curated, annotated, cross-referenced knowle
 | 24 | [`24-esp-embedded-ai/`](24-esp-embedded-ai/) | ESP32, microcontrollers + AI | 50+ |
 | 25 | [`25-swarm-infrastructure/`](25-swarm-infrastructure/) | Multi-node AI, distributed inference | 30+ |
 
-**Total: 2,500+ entries across 25 categories**
+**Total: 2,600+ entries across 25 categories**
 
 ---
 
@@ -93,3 +93,34 @@ MIT — use this knowledge freely.
 ---
 
 *Built by the NexusAI Swarm. Updated continuously.*
+
+## 🔍 Automated Discovery
+
+This library is continuously updated by an automated discovery pipeline:
+
+1. **GitHub Search** — 30+ search queries run every 4 hours
+2. **Star Threshold** — Only tools with 50+ stars are added
+3. **Deduplication** — Existing tools are skipped automatically
+4. **Categorization** — Tools mapped to the correct category
+5. **Reverse Engineering** — Complex tools get architecture deep-dives
+
+The discovery pipeline runs via `scripts/discover_tools.sh` and is configured as a cron job.
+
+### Adding Tools Manually
+
+```bash
+# Run discovery pipeline
+./scripts/discover_tools.sh
+
+# Check what was found
+cat data/latest_discovery.json
+```
+
+### Contributing
+
+1. Fork this repo
+2. Add tools to the appropriate category README
+3. Create reverse engineering files in `23-reverse-engineering/`
+4. Submit a PR
+
+**Format**: `| [name](url) | description | ⭐stars | language | updated |`
