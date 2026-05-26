@@ -773,3 +773,59 @@ The most popular fine-tuning toolkit in China.
 | [Tencent/Real-SR](https://github.com/Tencent/Real-SR) | ⭐824 | Python | Real-World Super-Resolution via Kernel Estimation and Noise Injection |
 | [alibaba/youku-sdk-tool-woodpecker](https://github.com/alibaba/youku-sdk-tool-woodpecker) | ⭐822 | Objective-C | In-app-debug tool for iOS |
 | [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) | ⭐818 | JavaScript | TDesign - 微信小程序 - 零售行业模板 |
+
+
+## 🆕 Auto-discovered nexus (2026-05-26 06:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer) | ⭐770 | C++ | CicadaPlayer is the player core of AliPlayer, which supports multiple  |
+| [alibaba/alibaba-rsocket-broker](https://github.com/alibaba/alibaba-rsocket-broker) | ⭐763 | Java | Alibaba RSocket Broker: Mesh, Streaming & IoT |
+| [alibaba/mobileperf](https://github.com/alibaba/mobileperf) | ⭐761 | Python | Android performance test |
+| [baidu/ICE-BA](https://github.com/baidu/ICE-BA) | ⭐759 | C++ |  |
+| [bytedance/tailor](https://github.com/bytedance/tailor) | ⭐756 | C |  |
+| [alibaba/bulbasaur](https://github.com/alibaba/bulbasaur) | ⭐754 | Java | 💡 A pluggable, scalable process engine. You can use it to develop busi |
+| [Tencent/HaboMalHunter](https://github.com/Tencent/HaboMalHunter) | ⭐751 | Python | HaboMalHunter is a sub-project of Habo Malware Analysis System (https: |
+| [Tencent/DCache](https://github.com/Tencent/DCache) | ⭐747 | C++ | A distributed in-memory NOSQL system based on TARS framework, support  |
+| [alibaba/AGEIPort](https://github.com/alibaba/AGEIPort) | ⭐745 | Java |  |
+| [Tencent/LuaHelper](https://github.com/Tencent/LuaHelper) | ⭐736 | Go | LuaHelper is a High-performance lua VSCode plugin, Language Server Pro |
+| [alibaba/asyncload](https://github.com/alibaba/asyncload) | ⭐703 | Java | 阿里巴巴异步并行加载工具(依赖字节码技术) |
+| [alibaba/MNNKit](https://github.com/alibaba/MNNKit) | ⭐700 | Objective-C | MNNKit is a collection of AI solutions for mobile developers, powered  |
+| [bytedance/netcap](https://github.com/bytedance/netcap) | ⭐699 | Go |  |
+| [bytedance/flow-builder](https://github.com/bytedance/flow-builder) | ⭐691 | TypeScript | A highly customizable streaming flow builder. |
+| [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop) | ⭐685 | Go | Network monitoring & diagnosis suite for Kubernetes |
+| [Tencent/loli_profiler](https://github.com/Tencent/loli_profiler) | ⭐682 | C++ | Memory instrumentation tool with CI and AI support for android app&gam |
+| [Tencent/TSeer](https://github.com/Tencent/TSeer) | ⭐673 | C++ | A high available service discovery & registration & fault-tolerance fr |
+| [bytedance/guide](https://github.com/bytedance/guide) | ⭐660 | TypeScript | A new feature guide component by react 🧭 |
+| [baidu/babylon](https://github.com/baidu/babylon) | ⭐645 | C++ | High-Performance C++ Fundamental Library |
+| [alibaba/cobarclient](https://github.com/alibaba/cobarclient) | ⭐639 | Java | 基于iBatis和Spring的轻量级分布式数据访问框架(DDAL) |
+| [baidu/NoahV](https://github.com/baidu/NoahV) | ⭐631 | JavaScript | An efficient front-end application framework based on vue.js |
+| [bytedance/XVerse](https://github.com/bytedance/XVerse) | ⭐621 | Python | [NeurIPS 2025] Official implementation of "XVerse: Consistent Multi-Su |
+| [bytedance/SchurVINS](https://github.com/bytedance/SchurVINS) | ⭐613 | C++ | [CVPR2024] SchurVINS: Schur Complement-Based Lightweight Visual Inerti |
+| [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) | ⭐613 | Go | EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎 |
+| [bytedance/comfyui-lumi-batcher](https://github.com/bytedance/comfyui-lumi-batcher) | ⭐610 | TypeScript | ComfyUI Lumi Batcher is a batch processing extension plugin designed f |
+| [bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS) | ⭐598 | Objective-C | About Fastbot(2.0) is a model-based testing tool for modeling GUI tran |
+| [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) | ⭐598 | TypeScript | Make Web Components easier and powerful!😘 |
+| [bytedance/Next-ViT](https://github.com/bytedance/Next-ViT) | ⭐589 | Python |  |
+| [alibaba/esim-response-selection](https://github.com/alibaba/esim-response-selection) | ⭐585 | Python | ESIM for Multi-turn Response Selection Task |
+| [alibaba/lumenx](https://github.com/alibaba/lumenx) | ⭐579 | TypeScript | LumenX Studio，AI 短漫剧一站式生产平台。它能够将小说文本转化为动态视频，打通了从剧本分析、角色定制、分镜绘制到视频合成的完整 |
+| [alibaba/metrics](https://github.com/alibaba/metrics) | ⭐560 | Java | The metrics library for Apache Dubbo and any frameworks or systems. |
+| [Tencent/Forward](https://github.com/Tencent/Forward) | ⭐555 | C++ | A library for high performance deep learning inference on NVIDIA GPUs. |
+| [Tencent/Fanvas](https://github.com/Tencent/Fanvas) | ⭐551 | ActionScript | Fanvas，一键把swf转为html5 canvas动画。 Fanvas is a tool which can turn flash i |
+| [bytedance/MVDream-threestudio](https://github.com/bytedance/MVDream-threestudio) | ⭐549 | Python | 3D generation code for MVDream |
+| [bytedance/X-Portrait](https://github.com/bytedance/X-Portrait) | ⭐545 | Python | Source code for the SIGGRAPH 2024 paper "X-Portrait: Expressive Portra |
+| [Tencent/Taitank](https://github.com/Tencent/Taitank) | ⭐542 | C++ | Taitank is a cross platform lightweight flex layout engine implemented |
+| [baidu/Curve](https://github.com/baidu/Curve) | ⭐537 | JavaScript | An Integrated Experimental Platform for time series data anomaly detec |
+| [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) | ⭐537 | Java | Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现 |
+| [Tencent/BqLog](https://github.com/Tencent/BqLog) | ⭐536 | C++ | Maybe the world's fastest logging library. Lightweight & industrial-gr |
+| [alibaba/gym-starcraft](https://github.com/alibaba/gym-starcraft) | ⭐527 | Python | StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft.  |
+| [alibaba/bytekit](https://github.com/alibaba/bytekit) | ⭐526 | Java | Java Bytecode Kit |
+| [alibaba/sca-best-practice](https://github.com/alibaba/sca-best-practice) | ⭐526 | Java | 本项目是 SCA(Spring Cloud Alibaba) 官方的最佳实践项目，致力于帮助用户更加快速、正确的使用SCA。 |
+| [Tencent/QTAF](https://github.com/Tencent/QTAF) | ⭐523 | Python | QTA test framework |
+| [Tencent/openclaw-weixin](https://github.com/Tencent/openclaw-weixin) | ⭐518 | TypeScript |  |
+| [Tencent/YOLO-Master](https://github.com/Tencent/YOLO-Master) | ⭐517 | Python | [CVPR2026]🚀🚀🚀Official code for the paper   "YOLO-Master: MOE-Accelerat |
+| [Tencent/ScriptX](https://github.com/Tencent/ScriptX) | ⭐512 | C++ | A versatile script engine abstraction layer. |
+| [alibaba/cloud-charts](https://github.com/alibaba/cloud-charts) | ⭐509 | TypeScript | 开箱即用的前端图表库，简单配置就能拥有漂亮的可视化图表 |
+| [alibaba/VirtualView-iOS](https://github.com/alibaba/VirtualView-iOS) | ⭐506 | Objective-C | A solution to create & release UI component dynamically. |
+| [Tencent/wwsearch](https://github.com/Tencent/wwsearch) | ⭐498 | C++ | A full-text search engine supporting massive users, real-time updating |
+| [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) | ⭐496 | Java | A library and command-line tool to access MySQL InnoDB data file direc |

@@ -560,3 +560,59 @@ Small Models (<10B):
 | [deepseek-ai/awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder) | ⭐785 | None | A curated list of open-source projects related to DeepSeek Coder |
 | [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) | ⭐775 | Python | PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP  |
 | [google-deepmind/opro](https://github.com/google-deepmind/opro) | ⭐746 | Python | official code for "Large Language Models as Optimizers" |
+
+
+## 🆕 Auto-discovered nexus (2026-05-26 06:10 UTC)
+
+| Repo | Stars | Lang | Description |
+|------|-------|------|-------------|
+| [mistralai/client-python](https://github.com/mistralai/client-python) | ⭐741 | Python | Python client library for Mistral AI platform |
+| [deepseek-ai/ESFT](https://github.com/deepseek-ai/ESFT) | ⭐735 | Python | Expert Specialized Fine-Tuning |
+| [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX) | ⭐724 | Python | Paddle Multimodal Integration and eXploration, supporting mainstream m |
+| [THUDM/ReST-MCTS](https://github.com/THUDM/ReST-MCTS) | ⭐705 | Python | ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search (N |
+| [huggingface/huggingface-llama-recipes](https://github.com/huggingface/huggingface-llama-recipes) | ⭐700 | Jupyter Notebook |  |
+| [google-deepmind/long-form-factuality](https://github.com/google-deepmind/long-form-factuality) | ⭐686 | Python | Benchmarking long-form factuality in large language models. Original c |
+| [google-deepmind/recurrentgemma](https://github.com/google-deepmind/recurrentgemma) | ⭐677 | Python | Open weights language model from Google DeepMind, based on Griffin. |
+| [alibaba/Megatron-LLaMA](https://github.com/alibaba/Megatron-LLaMA) | ⭐665 | Python | Best practice for training LLaMA models in Megatron-LM |
+| [Tencent/WeDLM](https://github.com/Tencent/WeDLM) | ⭐644 | Python | WeDLM: The fastest diffusion language model with standard causal atten |
+| [OpenGVLab/GITM](https://github.com/OpenGVLab/GITM) | ⭐640 | None | Ghost in the Minecraft: Generally Capable Agents for Open-World Enviro |
+| [QwenLM/qwen.cpp](https://github.com/QwenLM/qwen.cpp) | ⭐626 | C++ | C++ implementation of Qwen-LM |
+| [bytedance/HLLM](https://github.com/bytedance/HLLM) | ⭐618 | Python | HLLM: Enhancing Sequential Recommendations via Hierarchical Large Lang |
+| [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) | ⭐583 | TypeScript | The Starting Point for Next-Gen Agents |
+| [run-llama/chat-ui](https://github.com/run-llama/chat-ui) | ⭐581 | TypeScript | Chat UI components for LLM apps |
+| [deepseek-ai/DeepSeek-Prover-V1.5](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5) | ⭐572 | Python |  |
+| [stepfun-ai/SteptronOss](https://github.com/stepfun-ai/SteptronOss) | ⭐571 | Python | A lightweight, AI-native training framework for large language models. |
+| [MoonshotAI/K2-Vendor-Verifier](https://github.com/MoonshotAI/K2-Vendor-Verifier) | ⭐569 | Python | Verify Precision of all Kimi K2 API Vendor |
+| [OpenGVLab/Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) | ⭐567 | Python | Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to |
+| [huggingface/llm_training_handbook](https://github.com/huggingface/llm_training_handbook) | ⭐560 | Python | An open collection of methodologies to help with successful training o |
+| [01-ai/Yi-1.5](https://github.com/01-ai/Yi-1.5) | ⭐557 | None | Yi-1.5 is an upgraded version of Yi, delivering stronger performance i |
+| [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) | ⭐547 | Python | State-of-the-art bilingual open-sourced Math reasoning LLMs. |
+| [MiniMax-AI/MiniMax-M2.1](https://github.com/MiniMax-AI/MiniMax-M2.1) | ⭐546 | None | MiniMax M2.1, a SOTA model for real-world dev & agents. |
+| [bytedance/tarsier](https://github.com/bytedance/tarsier) | ⭐545 | Python | Tarsier -- a family of large-scale video-language models, which is des |
+| [Tencent/KsanaLLM](https://github.com/Tencent/KsanaLLM) | ⭐540 | C++ |  |
+| [run-llama/finetune-embedding](https://github.com/run-llama/finetune-embedding) | ⭐527 | Jupyter Notebook | Fine-Tuning Embedding for RAG with Synthetic Data |
+| [THUDM/WebRL](https://github.com/THUDM/WebRL) | ⭐524 | Python | Building Open LLM Web Agents with Self-Evolving Online Curriculum RL |
+| [MoonshotAI/kosong](https://github.com/MoonshotAI/kosong) | ⭐521 | None | The LLM abstraction layer for modern AI agent applications. |
+| [NVIDIA/NeMo-Framework-Launcher](https://github.com/NVIDIA/NeMo-Framework-Launcher) | ⭐520 | Python | Provides end-to-end model development pipelines for LLMs and Multimoda |
+| [THUDM/LongCite](https://github.com/THUDM/LongCite) | ⭐518 | Python | LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-con |
+| [Tencent/CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro) | ⭐517 | Python | Deep Research Agent CognitiveKernel-Pro from Tencent AI Lab. Paper: ht |
+| [QwenLM/QwQ](https://github.com/QwenLM/QwQ) | ⭐515 | Python | QwQ is the reasoning model series developed by Qwen team, Alibaba Clou |
+| [TencentARC/LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) | ⭐514 | Python | [ACL 2024] Progressive LLaMA with Block Expansion. |
+| [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA) | ⭐513 | Python | high-performance linear attention kernel library built on TileLang |
+| [deepseek-ai/LPLB](https://github.com/deepseek-ai/LPLB) | ⭐505 | Python | An early research stage expert-parallel load balancer for MoE models b |
+| [huggingface/gpt-oss-recipes](https://github.com/huggingface/gpt-oss-recipes) | ⭐505 | Jupyter Notebook | Collection of scripts and notebooks for OpenAI's latest GPT OSS models |
+| [huggingface/large_language_model_training_playbook](https://github.com/huggingface/large_language_model_training_playbook) | ⭐501 | Python | An open collection of implementation tips, tricks and resources for tr |
+| [QwenLM/ParScale](https://github.com/QwenLM/ParScale) | ⭐479 | Python | Parallel Scaling Law for Language Model — Beyond Parameter and Inferen |
+| [FlagOpen/RoboBrain](https://github.com/FlagOpen/RoboBrain) | ⭐475 | Python | [CVPR 2025] RoboBrain: A Unified Brain Model for Robotic Manipulation  |
+| [MoonshotAI/kimi-agent-sdk](https://github.com/MoonshotAI/kimi-agent-sdk) | ⭐470 | TypeScript | Kimi Agent SDK provides a programmatic interface to interact with the  |
+| [bytedance/byteir](https://github.com/bytedance/byteir) | ⭐469 | MLIR | A model compilation solution for various hardware |
+| [run-llama/ParseBench](https://github.com/run-llama/ParseBench) | ⭐462 | Python | ParseBench - A Document Parsing Benchmark for AI Agents |
+| [run-llama/create_llama_projects](https://github.com/run-llama/create_llama_projects) | ⭐461 | HTML |  |
+| [QwenLM/Qwen3Guard](https://github.com/QwenLM/Qwen3Guard) | ⭐460 | Python | Qwen3Guard is a multilingual guardrail model series developed by the Q |
+| [vllm-project/speculators](https://github.com/vllm-project/speculators) | ⭐457 | Python | A unified library for building, evaluating, and storing speculative de |
+| [01-ai/Yi-Coder](https://github.com/01-ai/Yi-Coder) | ⭐449 | HTML | 🌟 Yi-Coder is a series of open-source code language models that delive |
+| [huggingface/yourbench](https://github.com/huggingface/yourbench) | ⭐446 | HTML | 🤗 Benchmark Large Language Models Reliably On Your Data |
+| [run-llama/multi-agent-concierge](https://github.com/run-llama/multi-agent-concierge) | ⭐444 | Jupyter Notebook | An example of multi-agent orchestration with llama-index |
+| [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA) | ⭐438 | Cuda | FlashKDA: high-performance Kimi Delta Attention kernels |
+| [intel/xFasterTransformer](https://github.com/intel/xFasterTransformer) | ⭐435 | C++ |  |
+| [modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning) | ⭐432 | Python | Collect every awesome work about r1! |
