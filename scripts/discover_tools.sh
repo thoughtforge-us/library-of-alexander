@@ -171,6 +171,31 @@ done
 
 log "Discovery complete. Searches run: $SEARCHES_RUN. New tools found: $NEW_TOOLS"
 
+# Run social scraper
+log "Running social scraper (RSS/Reddit/YouTube/TikTok/Twitter/4chan/HN)..."
+python3 "$LIBRARY_DIR/scripts/scrape_social.py" --output-dir "$LIBRARY_DIR/data/discoveries" 2>&1 | tee -a "$LOG_FILE"
+SOCIAL_RESULT="${PIPESTATUS[0]}"
+if [ "$SOCIAL_RESULT" -eq 0 ]; then
+  log "Social scraper completed successfully"
+  # Count new repo discoveries from social run
+  SOCIAL_NEW=$(python3 -c "
+import json, os
+discoveries = '$LIBRARY_DIR/data/discoveries'
+files = sorted(os.listdir(discoveries))
+json_files = [f for f in files if f.endswith('.json')]
+if json_files:
+    latest = sorted(json_files)[-1]
+    with open(os.path.join(discoveries, latest)) as f:
+        data = json.load(f)
+    print(len(data.get('repos', {})))
+else:
+    print(0)
+" 2>/dev/null)
+  log "Social scraper discovered $SOCIAL_NEW new repo references"
+else
+  log "Social scraper failed (exit $SOCIAL_RESULT)"
+fi
+
 # Commit if changes
 cd "$LIBRARY_DIR"
 if [[ -n "$(git status --porcelain)" ]]; then
