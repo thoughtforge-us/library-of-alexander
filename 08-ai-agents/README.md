@@ -138,3 +138,8 @@ _(Coming soon — being populated with deep research data.)_
 | [swapper-toolkit](https://github.com/swapperfinance/swapper-toolkit) | DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with  | ⭐761 |  | 2026-05-26 |
 | [ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) | The ultimate playground to learn, experiment with, and compare modern open-source AI agent frameworks — from basics to p | ⭐559 | Python | 2026-05-25 |
 | [ryoma](https://github.com/project-ryoma/ryoma) | Common AI agent framework solving your data problems | ⭐407 | Python | 2026-05-15 |
+| [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) | A python chatbot framework with Natural Language Understanding and Artificial Intelligence. | ⭐2155 | TypeScript | 2026-05-21 |
+| [activepieces](https://github.com/activepieces/activepieces) | AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI W | ⭐22412 | TypeScript | 2026-05-26 |
+| [workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template) | Visual AI workflow automation platform | ⭐1134 | TypeScript | 2026-05-25 |
+| [heym](https://github.com/heymrun/heym) | Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime | ⭐447 | Python | 2026-05-26 |
+| [agentic-config](https://github.com/WaterplanAI/agentic-config) | Project-agnostic, composable AI workflow automation via pi packages and Claude Code plugins. | ⭐31 | Python | 2026-05-25 |

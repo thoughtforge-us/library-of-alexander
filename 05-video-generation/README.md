@@ -175,3 +175,14 @@ _(Coming soon — being populated with deep research data.)_
 | [SamurAIGPT/Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) | Generate video from text using AI | ⭐739 | Jupyter Notebook |
 | [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3) | SkyReels V3: Multimodal Video Generation Model | ⭐467 | Python |
 | [KlingAIResearch/MultiShotMaster](https://github.com/KlingAIResearch/MultiShotMaster) | CVPR 2026 | Official Implementation of "MultiShotMaster: A Controllable Multi-Shot Video Generation  | ⭐162 | Python |
+| [higgsfield-seedance2-jineng](https://github.com/beshuaxian/higgsfield-seedance2-jineng) | Seedance 2.0 × Higgsfield 技能集 | 15 Claude prompt skills for AI video generation — cinematic, 3D CGI, anime, e-commerce a | ⭐529 | Shell | 2026-05-26 |
+| [awesome-seedance-2-guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide) | Complete guide to Seedance 2.0 — multimodal AI video generation with image, video, audio & text input. Prompts, use case | ⭐370 | Shell | 2026-05-26 |
+| [sdk](https://github.com/vargHQ/sdk) | AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK. | ⭐305 | TypeScript | 2026-05-26 |
+| [ltx-video-mac](https://github.com/james-see/ltx-video-mac) | Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon | ⭐277 | Swift | 2026-05-26 |
+| [awesome-seedance-2.0-prompts](https://github.com/EvoLinkAI/awesome-seedance-2.0-prompts) | 100+ curated Seedance 2 prompts, examples, and guides for AI video generation. | ⭐144 |  | 2026-05-25 |
+| [hyperframes-ai-video-generation](https://github.com/coleam00/hyperframes-ai-video-generation) | Archon workflow that turns any URL into a polished AI-voiced and generated HyperFrames Short. | ⭐65 | HTML | 2026-05-25 |
+| [ai-video-generator](https://github.com/Endergr/ai-video-generator) | Full-stack AI video generation app with image/text input and premium NSFW toggle | ⭐48 | Python | 2026-05-19 |
+| [PixVerse-MCP](https://github.com/PixVerseAI/PixVerse-MCP) | Official PixVerse Model Context Protocol (MCP) server that enables interaction with powerful AI video generation APIs. | ⭐46 | Python | 2026-05-24 |
+| [awesome-seedance-prompts](https://github.com/HuyLe82US/awesome-seedance-prompts) | Seedance 2.0 prompt vault & resource hub for high-fidelity AI video generation. Curated, proven templates plus practical | ⭐44 |  | 2026-05-25 |
+| [ShipinKit](https://github.com/rryam/ShipinKit) | Swift SDK for Prototyping AI Video Generation | ⭐32 | Swift | 2026-05-23 |
+| [hongos](https://github.com/samim23/hongos) | Autonomous AI Video Generation Tool | ⭐31 | Python | 2025-11-28 |

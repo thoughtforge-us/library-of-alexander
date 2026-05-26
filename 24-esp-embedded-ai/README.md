@@ -115,3 +115,22 @@ _(Coming soon — being populated with deep research data.)_
 | [amico](https://github.com/bitrouter/amico) | Amico is the next generation Autonomous AI Agent Framework tailored for embedded AI devices and multi-agent systems. | ⭐43 | Rust | 2026-05-19 |
 | [panel-feedback](https://github.com/fhyfhy17/panel-feedback) | IDE embedded AI feedback panel - A better alternative to pop-up dialogs | ⭐36 | TypeScript | 2026-05-13 |
 | [embedded.ai](https://github.com/ivanovitchm/embedded.ai) | Repository for DCA0306, an undergraduate course about Embedded Artifical Intelligence | ⭐33 | Jupyter Notebook | 2026-02-23 |
+| [cs249r_book](https://github.com/harvard-edge/cs249r_book) | Machine Learning Systems | ⭐24299 | Python | 2026-05-26 |
+| [OnnxStream](https://github.com/vitoplantamura/OnnxStream) | Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in  | ⭐2077 | C++ | 2026-05-20 |
+| [once-for-all](https://github.com/mit-han-lab/once-for-all) | [ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment | ⭐1950 | Python | 2026-05-25 |
+| [uTensor](https://github.com/uTensor/uTensor) | TinyML AI inference library | ⭐1925 | C++ | 2026-05-23 |
+| [tinyml](https://github.com/mit-han-lab/tinyml) |  | ⭐1166 | Python | 2026-05-24 |
+| [frugally-deep](https://github.com/Dobiasd/frugally-deep) | A lightweight header-only library for using Keras (TensorFlow) models in C++. | ⭐1124 | C++ | 2026-05-14 |
+| [z80ai](https://github.com/HarryR/z80ai) | Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models i | ⭐1090 | Python | 2026-05-23 |
+| [TinyMaix](https://github.com/sipeed/TinyMaix) | TinyMaix is a tiny inference library for microcontrollers (TinyML). | ⭐1056 | C | 2026-05-14 |
+| [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects) | This is a list of interesting papers and projects about TinyML.  | ⭐1010 |  | 2026-05-25 |
+| [rl-tools](https://github.com/rl-tools/rl-tools) | The Fastest Deep Reinforcement Learning Library | ⭐981 | C++ | 2026-05-26 |
+| [tinyengine](https://github.com/mit-han-lab/tinyengine) | [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inferenc | ⭐946 | C | 2026-05-25 |
+| [emlearn](https://github.com/emlearn/emlearn) | Machine Learning inference engine for Microcontrollers and Embedded devices | ⭐727 | Python | 2026-05-22 |
+| [mcunet](https://github.com/mit-han-lab/mcunet) | [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inferenc | ⭐695 | Python | 2026-05-25 |
+| [deepC](https://github.com/ai-techsystems/deepC) | vendor independent TinyML deep learning library, compiler and inference framework microcomputers and micro-controllers | ⭐603 | C++ | 2026-05-21 |
+| [Z-Ant](https://github.com/ZantFoundation/Z-Ant) | Zant simplifies the deployment and optimization of neural networks on microprocessors | ⭐379 | Zig | 2026-05-25 |
+| [artificial-nose](https://github.com/kartben/artificial-nose) | Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose. | ⭐365 | C | 2026-04-28 |
+| [BitNetMCU](https://github.com/cpldcpu/BitNetMCU) | Neural Networks with low bit weights on low end 32 bit microcontrollers such as the CH32V003 RISC-V Microcontroller and  | ⭐328 | C | 2026-05-25 |
+| [embeddedml](https://github.com/jonnor/embeddedml) | Notes on Machine Learning on edge for embedded/sensor/IoT uses | ⭐310 | Jupyter Notebook | 2026-05-25 |
+| [TinyML-Cookbook](https://github.com/PacktPublishing/TinyML-Cookbook) | TinyML Cookbook, published by Packt | ⭐305 | Jupyter Notebook | 2026-05-19 |
